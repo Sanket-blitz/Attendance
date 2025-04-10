@@ -1,0 +1,3018 @@
+Rider ID: Rider ID    845
+Rider ID    845
+Name: 0, dtype: object | Live Image
+Rider ID: Rider ID    1000
+Rider ID    1000
+Name: 1, dtype: object | Blurry Image
+Rider ID: Rider ID    1014
+Rider ID    1014
+Name: 2, dtype: object | Live Image
+Rider ID: Rider ID    1016
+Rider ID    1016
+Name: 3, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    1023
+Rider ID    1023
+Name: 4, dtype: object | Live Image
+Rider ID: Rider ID    1024
+Rider ID    1024
+Name: 5, dtype: object | Live Image
+Rider ID: Rider ID    1084
+Rider ID    1084
+Name: 6, dtype: object | Live Image
+Rider ID: Rider ID    1129
+Rider ID    1129
+Name: 7, dtype: object | Live Image
+Rider ID: Rider ID    1132
+Rider ID    1132
+Name: 8, dtype: object | Live Image
+Rider ID: Rider ID    1143
+Rider ID    1143
+Name: 9, dtype: object | Live Image
+Rider ID: Rider ID    1170
+Rider ID    1170
+Name: 10, dtype: object | Live Image
+Rider ID: Rider ID    1218
+Rider ID    1218
+Name: 11, dtype: object | Live Image
+Rider ID: Rider ID    1224
+Rider ID    1224
+Name: 12, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    1298
+Rider ID    1298
+Name: 13, dtype: object | Live Image
+Rider ID: Rider ID    1335
+Rider ID    1335
+Name: 14, dtype: object | Live Image
+Rider ID: Rider ID    1336
+Rider ID    1336
+Name: 15, dtype: object | Live Image
+Rider ID: Rider ID    1340
+Rider ID    1340
+Name: 16, dtype: object | Live Image
+Rider ID: Rider ID    1346
+Rider ID    1346
+Name: 17, dtype: object | Live Image
+Rider ID: Rider ID    1397
+Rider ID    1397
+Name: 18, dtype: object | Live Image
+Rider ID: Rider ID    1436
+Rider ID    1436
+Name: 19, dtype: object | Live Image
+Rider ID: Rider ID    1442
+Rider ID    1442
+Name: 20, dtype: object | Live Image
+Rider ID: Rider ID    1480
+Rider ID    1480
+Name: 21, dtype: object | Live Image
+Rider ID: Rider ID    1497
+Rider ID    1497
+Name: 22, dtype: object | Live Image
+Rider ID: Rider ID    1586
+Rider ID    1586
+Name: 23, dtype: object | Live Image
+Rider ID: Rider ID    1650
+Rider ID    1650
+Name: 24, dtype: object | Live Image
+Rider ID: Rider ID    1696
+Rider ID    1696
+Name: 25, dtype: object | Blurry Image
+Rider ID: Rider ID    1897
+Rider ID    1897
+Name: 26, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    1930
+Rider ID    1930
+Name: 27, dtype: object | Live Image
+Rider ID: Rider ID    1936
+Rider ID    1936
+Name: 28, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    1966
+Rider ID    1966
+Name: 29, dtype: object | Live Image
+Rider ID: Rider ID    1967
+Rider ID    1967
+Name: 30, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    1968
+Rider ID    1968
+Name: 31, dtype: object | Live Image
+Rider ID: Rider ID    2005
+Rider ID    2005
+Name: 32, dtype: object | Live Image
+Rider ID: Rider ID    2015
+Rider ID    2015
+Name: 33, dtype: object | Live Image
+Rider ID: Rider ID    2047
+Rider ID    2047
+Name: 34, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    2087
+Rider ID    2087
+Name: 35, dtype: object | Live Image
+Rider ID: Rider ID    2165
+Rider ID    2165
+Name: 36, dtype: object | Live Image
+Rider ID: Rider ID    2180
+Rider ID    2180
+Name: 37, dtype: object | Live Image
+Rider ID: Rider ID    2185
+Rider ID    2185
+Name: 38, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    2191
+Rider ID    2191
+Name: 39, dtype: object | Live Image
+Rider ID: Rider ID    2192
+Rider ID    2192
+Name: 40, dtype: object | Blurry Image
+Rider ID: Rider ID    2208
+Rider ID    2208
+Name: 41, dtype: object | Live Image
+Rider ID: Rider ID    2244
+Rider ID    2244
+Name: 42, dtype: object | Live Image
+Rider ID: Rider ID    2279
+Rider ID    2279
+Name: 43, dtype: object | Live Image
+Rider ID: Rider ID    2293
+Rider ID    2293
+Name: 44, dtype: object | Live Image
+Rider ID: Rider ID    2359
+Rider ID    2359
+Name: 45, dtype: object | Live Image
+Rider ID: Rider ID    2418
+Rider ID    2418
+Name: 46, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    2430
+Rider ID    2430
+Name: 47, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    2448
+Rider ID    2448
+Name: 48, dtype: object | Live Image
+Rider ID: Rider ID    2454
+Rider ID    2454
+Name: 49, dtype: object | Live Image
+Rider ID: Rider ID    2491
+Rider ID    2491
+Name: 50, dtype: object | Live Image
+Rider ID: Rider ID    2515
+Rider ID    2515
+Name: 51, dtype: object | Live Image
+Rider ID: Rider ID    2546
+Rider ID    2546
+Name: 52, dtype: object | Live Image
+Rider ID: Rider ID    2591
+Rider ID    2591
+Name: 53, dtype: object | Live Image
+Rider ID: Rider ID    2603
+Rider ID    2603
+Name: 54, dtype: object | Blurry Image
+Rider ID: Rider ID    2605
+Rider ID    2605
+Name: 55, dtype: object | Live Image
+Rider ID: Rider ID    2617
+Rider ID    2617
+Name: 56, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    2625
+Rider ID    2625
+Name: 57, dtype: object | Live Image
+Rider ID: Rider ID    2652
+Rider ID    2652
+Name: 58, dtype: object | Live Image
+Rider ID: Rider ID    2735
+Rider ID    2735
+Name: 59, dtype: object | Live Image
+Rider ID: Rider ID    2762
+Rider ID    2762
+Name: 60, dtype: object | Live Image
+Rider ID: Rider ID    2775
+Rider ID    2775
+Name: 61, dtype: object | Live Image
+Rider ID: Rider ID    2776
+Rider ID    2776
+Name: 62, dtype: object | Live Image
+Rider ID: Rider ID    2801
+Rider ID    2801
+Name: 63, dtype: object | Live Image
+Rider ID: Rider ID    2812
+Rider ID    2812
+Name: 64, dtype: object | Live Image
+Rider ID: Rider ID    2837
+Rider ID    2837
+Name: 65, dtype: object | Live Image
+Rider ID: Rider ID    2859
+Rider ID    2859
+Name: 66, dtype: object | Live Image
+Rider ID: Rider ID    2883
+Rider ID    2883
+Name: 67, dtype: object | Live Image
+Rider ID: Rider ID    2918
+Rider ID    2918
+Name: 68, dtype: object | Blurry Image
+Rider ID: Rider ID    3003
+Rider ID    3003
+Name: 69, dtype: object | Live Image
+Rider ID: Rider ID    3015
+Rider ID    3015
+Name: 70, dtype: object | Live Image
+Rider ID: Rider ID    3044
+Rider ID    3044
+Name: 71, dtype: object | Live Image
+Rider ID: Rider ID    3053
+Rider ID    3053
+Name: 72, dtype: object | Live Image
+Rider ID: Rider ID    3061
+Rider ID    3061
+Name: 73, dtype: object | Live Image
+Rider ID: Rider ID    3093
+Rider ID    3093
+Name: 74, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    3095
+Rider ID    3095
+Name: 75, dtype: object | Live Image
+Rider ID: Rider ID    3103
+Rider ID    3103
+Name: 76, dtype: object | Live Image
+Rider ID: Rider ID    3104
+Rider ID    3104
+Name: 77, dtype: object | Live Image
+Rider ID: Rider ID    3129
+Rider ID    3129
+Name: 78, dtype: object | Blurry Image
+Rider ID: Rider ID    3144
+Rider ID    3144
+Name: 79, dtype: object | Live Image
+Rider ID: Rider ID    3147
+Rider ID    3147
+Name: 80, dtype: object | Live Image
+Rider ID: Rider ID    3153
+Rider ID    3153
+Name: 81, dtype: object | Live Image
+Rider ID: Rider ID    3173
+Rider ID    3173
+Name: 82, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    3191
+Rider ID    3191
+Name: 83, dtype: object | Live Image
+Rider ID: Rider ID    3205
+Rider ID    3205
+Name: 84, dtype: object | Live Image
+Rider ID: Rider ID    3217
+Rider ID    3217
+Name: 85, dtype: object | Live Image
+Rider ID: Rider ID    3219
+Rider ID    3219
+Name: 86, dtype: object | Live Image
+Rider ID: Rider ID    3230
+Rider ID    3230
+Name: 87, dtype: object | Live Image
+Rider ID: Rider ID    3241
+Rider ID    3241
+Name: 88, dtype: object | Live Image
+Rider ID: Rider ID    3260
+Rider ID    3260
+Name: 89, dtype: object | Live Image
+Rider ID: Rider ID    3262
+Rider ID    3262
+Name: 90, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    3276
+Rider ID    3276
+Name: 91, dtype: object | Blurry Image
+Rider ID: Rider ID    3299
+Rider ID    3299
+Name: 92, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    3302
+Rider ID    3302
+Name: 93, dtype: object | Blurry Image
+Rider ID: Rider ID    3327
+Rider ID    3327
+Name: 94, dtype: object | Live Image
+Rider ID: Rider ID    3336
+Rider ID    3336
+Name: 95, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    3352
+Rider ID    3352
+Name: 96, dtype: object | Live Image
+Rider ID: Rider ID    3353
+Rider ID    3353
+Name: 97, dtype: object | Blurry Image
+Rider ID: Rider ID    3384
+Rider ID    3384
+Name: 98, dtype: object | Live Image
+Rider ID: Rider ID    3439
+Rider ID    3439
+Name: 99, dtype: object | Live Image
+Rider ID: Rider ID    3464
+Rider ID    3464
+Name: 100, dtype: object | Live Image
+Rider ID: Rider ID    3467
+Rider ID    3467
+Name: 101, dtype: object | Blurry Image
+Rider ID: Rider ID    3500
+Rider ID    3500
+Name: 102, dtype: object | Live Image
+Rider ID: Rider ID    3526
+Rider ID    3526
+Name: 103, dtype: object | Live Image
+Rider ID: Rider ID    3532
+Rider ID    3532
+Name: 104, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    3558
+Rider ID    3558
+Name: 105, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    3568
+Rider ID    3568
+Name: 106, dtype: object | Live Image
+Rider ID: Rider ID    3587
+Rider ID    3587
+Name: 107, dtype: object | Live Image
+Rider ID: Rider ID    3590
+Rider ID    3590
+Name: 108, dtype: object | Live Image
+Rider ID: Rider ID    3595
+Rider ID    3595
+Name: 109, dtype: object | Live Image
+Rider ID: Rider ID    3653
+Rider ID    3653
+Name: 110, dtype: object | Live Image
+Rider ID: Rider ID    3665
+Rider ID    3665
+Name: 111, dtype: object | Live Image
+Rider ID: Rider ID    3668
+Rider ID    3668
+Name: 112, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    3704
+Rider ID    3704
+Name: 113, dtype: object | Live Image
+Rider ID: Rider ID    3706
+Rider ID    3706
+Name: 114, dtype: object | Live Image
+Rider ID: Rider ID    3726
+Rider ID    3726
+Name: 115, dtype: object | Live Image
+Rider ID: Rider ID    3728
+Rider ID    3728
+Name: 116, dtype: object | Live Image
+Rider ID: Rider ID    3735
+Rider ID    3735
+Name: 117, dtype: object | Live Image
+Rider ID: Rider ID    3735
+Rider ID    3735
+Name: 118, dtype: object | Live Image
+Rider ID: Rider ID    3752
+Rider ID    3752
+Name: 119, dtype: object | Live Image
+Rider ID: Rider ID    3773
+Rider ID    3773
+Name: 120, dtype: object | Live Image
+Rider ID: Rider ID    3793
+Rider ID    3793
+Name: 121, dtype: object | Live Image
+Rider ID: Rider ID    3823
+Rider ID    3823
+Name: 122, dtype: object | Live Image
+Rider ID: Rider ID    3824
+Rider ID    3824
+Name: 123, dtype: object | Live Image
+Rider ID: Rider ID    3835
+Rider ID    3835
+Name: 124, dtype: object | Live Image
+Rider ID: Rider ID    3893
+Rider ID    3893
+Name: 125, dtype: object | Live Image
+Rider ID: Rider ID    3911
+Rider ID    3911
+Name: 126, dtype: object | Live Image
+Rider ID: Rider ID    3912
+Rider ID    3912
+Name: 127, dtype: object | Live Image
+Rider ID: Rider ID    3941
+Rider ID    3941
+Name: 128, dtype: object | Blurry Image
+Rider ID: Rider ID    3960
+Rider ID    3960
+Name: 129, dtype: object | Live Image
+Rider ID: Rider ID    3968
+Rider ID    3968
+Name: 130, dtype: object | Live Image
+Rider ID: Rider ID    4009
+Rider ID    4009
+Name: 131, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    4010
+Rider ID    4010
+Name: 132, dtype: object | Live Image
+Rider ID: Rider ID    4012
+Rider ID    4012
+Name: 133, dtype: object | Live Image
+Rider ID: Rider ID    4021
+Rider ID    4021
+Name: 134, dtype: object | Live Image
+Rider ID: Rider ID    4030
+Rider ID    4030
+Name: 135, dtype: object | Live Image
+Rider ID: Rider ID    4045
+Rider ID    4045
+Name: 136, dtype: object | Live Image
+Rider ID: Rider ID    4048
+Rider ID    4048
+Name: 137, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    4053
+Rider ID    4053
+Name: 138, dtype: object | Live Image
+Rider ID: Rider ID    4054
+Rider ID    4054
+Name: 139, dtype: object | Blurry Image
+Rider ID: Rider ID    4055
+Rider ID    4055
+Name: 140, dtype: object | Live Image
+Rider ID: Rider ID    4063
+Rider ID    4063
+Name: 141, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    4064
+Rider ID    4064
+Name: 142, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    4067
+Rider ID    4067
+Name: 143, dtype: object | Live Image
+Rider ID: Rider ID    4068
+Rider ID    4068
+Name: 144, dtype: object | Live Image
+Rider ID: Rider ID    4099
+Rider ID    4099
+Name: 145, dtype: object | Live Image
+Rider ID: Rider ID    4103
+Rider ID    4103
+Name: 146, dtype: object | Live Image
+Rider ID: Rider ID    4136
+Rider ID    4136
+Name: 147, dtype: object | Live Image
+Rider ID: Rider ID    4142
+Rider ID    4142
+Name: 148, dtype: object | Live Image
+Rider ID: Rider ID    4155
+Rider ID    4155
+Name: 149, dtype: object | Live Image
+Rider ID: Rider ID    4161
+Rider ID    4161
+Name: 150, dtype: object | Live Image
+Rider ID: Rider ID    4164
+Rider ID    4164
+Name: 151, dtype: object | Live Image
+Rider ID: Rider ID    4192
+Rider ID    4192
+Name: 152, dtype: object | Live Image
+Rider ID: Rider ID    4194
+Rider ID    4194
+Name: 153, dtype: object | Live Image
+Rider ID: Rider ID    4210
+Rider ID    4210
+Name: 154, dtype: object | Live Image
+Rider ID: Rider ID    4248
+Rider ID    4248
+Name: 155, dtype: object | Blurry Image
+Rider ID: Rider ID    4262
+Rider ID    4262
+Name: 156, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    4264
+Rider ID    4264
+Name: 157, dtype: object | Live Image
+Rider ID: Rider ID    4272
+Rider ID    4272
+Name: 158, dtype: object | Blurry Image
+Rider ID: Rider ID    4273
+Rider ID    4273
+Name: 159, dtype: object | Live Image
+Rider ID: Rider ID    4282
+Rider ID    4282
+Name: 160, dtype: object | Blurry Image
+Rider ID: Rider ID    4290
+Rider ID    4290
+Name: 161, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    4294
+Rider ID    4294
+Name: 162, dtype: object | Blurry Image
+Rider ID: Rider ID    4299
+Rider ID    4299
+Name: 163, dtype: object | Live Image
+Rider ID: Rider ID    4301
+Rider ID    4301
+Name: 164, dtype: object | Live Image
+Rider ID: Rider ID    4317
+Rider ID    4317
+Name: 165, dtype: object | Live Image
+Rider ID: Rider ID    4318
+Rider ID    4318
+Name: 166, dtype: object | Live Image
+Rider ID: Rider ID    4358
+Rider ID    4358
+Name: 167, dtype: object | Live Image
+Rider ID: Rider ID    4396
+Rider ID    4396
+Name: 168, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    4400
+Rider ID    4400
+Name: 169, dtype: object | Live Image
+Rider ID: Rider ID    4400
+Rider ID    4400
+Name: 170, dtype: object | Live Image
+Rider ID: Rider ID    4405
+Rider ID    4405
+Name: 171, dtype: object | Live Image
+Rider ID: Rider ID    4450
+Rider ID    4450
+Name: 172, dtype: object | Live Image
+Rider ID: Rider ID    4460
+Rider ID    4460
+Name: 173, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    4464
+Rider ID    4464
+Name: 174, dtype: object | Live Image
+Rider ID: Rider ID    4507
+Rider ID    4507
+Name: 175, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    4508
+Rider ID    4508
+Name: 176, dtype: object | Live Image
+Rider ID: Rider ID    4514
+Rider ID    4514
+Name: 177, dtype: object | Blurry Image
+Rider ID: Rider ID    4523
+Rider ID    4523
+Name: 178, dtype: object | Blurry Image
+Rider ID: Rider ID    4526
+Rider ID    4526
+Name: 179, dtype: object | Live Image
+Rider ID: Rider ID    4566
+Rider ID    4566
+Name: 180, dtype: object | Live Image
+Rider ID: Rider ID    4581
+Rider ID    4581
+Name: 181, dtype: object | Live Image
+Rider ID: Rider ID    4583
+Rider ID    4583
+Name: 182, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    4591
+Rider ID    4591
+Name: 183, dtype: object | Live Image
+Rider ID: Rider ID    4603
+Rider ID    4603
+Name: 184, dtype: object | Live Image
+Rider ID: Rider ID    4606
+Rider ID    4606
+Name: 185, dtype: object | Blurry Image
+Rider ID: Rider ID    4640
+Rider ID    4640
+Name: 186, dtype: object | Live Image
+Rider ID: Rider ID    4641
+Rider ID    4641
+Name: 187, dtype: object | Live Image
+Rider ID: Rider ID    4681
+Rider ID    4681
+Name: 188, dtype: object | Live Image
+Rider ID: Rider ID    4706
+Rider ID    4706
+Name: 189, dtype: object | Live Image
+Rider ID: Rider ID    4710
+Rider ID    4710
+Name: 190, dtype: object | Live Image
+Rider ID: Rider ID    4715
+Rider ID    4715
+Name: 191, dtype: object | Live Image
+Rider ID: Rider ID    4717
+Rider ID    4717
+Name: 192, dtype: object | Live Image
+Rider ID: Rider ID    4723
+Rider ID    4723
+Name: 193, dtype: object | Blurry Image
+Rider ID: Rider ID    4755
+Rider ID    4755
+Name: 194, dtype: object | Live Image
+Rider ID: Rider ID    4784
+Rider ID    4784
+Name: 195, dtype: object | Live Image
+Rider ID: Rider ID    4788
+Rider ID    4788
+Name: 196, dtype: object | Live Image
+Rider ID: Rider ID    4798
+Rider ID    4798
+Name: 197, dtype: object | Live Image
+Rider ID: Rider ID    4830
+Rider ID    4830
+Name: 198, dtype: object | Live Image
+Rider ID: Rider ID    4892
+Rider ID    4892
+Name: 199, dtype: object | Blurry Image
+Rider ID: Rider ID    4897
+Rider ID    4897
+Name: 200, dtype: object | Live Image
+Rider ID: Rider ID    4924
+Rider ID    4924
+Name: 201, dtype: object | Live Image
+Rider ID: Rider ID    4993
+Rider ID    4993
+Name: 202, dtype: object | Live Image
+Rider ID: Rider ID    5022
+Rider ID    5022
+Name: 203, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    5033
+Rider ID    5033
+Name: 204, dtype: object | Live Image
+Rider ID: Rider ID    5076
+Rider ID    5076
+Name: 205, dtype: object | Live Image
+Rider ID: Rider ID    5086
+Rider ID    5086
+Name: 206, dtype: object | Live Image
+Rider ID: Rider ID    5111
+Rider ID    5111
+Name: 207, dtype: object | Live Image
+Rider ID: Rider ID    5121
+Rider ID    5121
+Name: 208, dtype: object | Live Image
+Rider ID: Rider ID    5132
+Rider ID    5132
+Name: 209, dtype: object | Live Image
+Rider ID: Rider ID    5204
+Rider ID    5204
+Name: 210, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    5215
+Rider ID    5215
+Name: 211, dtype: object | Live Image
+Rider ID: Rider ID    5224
+Rider ID    5224
+Name: 212, dtype: object | Blurry Image
+Rider ID: Rider ID    5244
+Rider ID    5244
+Name: 213, dtype: object | Live Image
+Rider ID: Rider ID    5255
+Rider ID    5255
+Name: 214, dtype: object | Live Image
+Rider ID: Rider ID    5312
+Rider ID    5312
+Name: 215, dtype: object | Live Image
+Rider ID: Rider ID    5316
+Rider ID    5316
+Name: 216, dtype: object | Blurry Image
+Rider ID: Rider ID    5321
+Rider ID    5321
+Name: 217, dtype: object | Blurry Image
+Rider ID: Rider ID    5338
+Rider ID    5338
+Name: 218, dtype: object | Live Image
+Rider ID: Rider ID    5356
+Rider ID    5356
+Name: 219, dtype: object | Live Image
+Rider ID: Rider ID    5364
+Rider ID    5364
+Name: 220, dtype: object | Live Image
+Rider ID: Rider ID    5369
+Rider ID    5369
+Name: 221, dtype: object | Live Image
+Rider ID: Rider ID    5388
+Rider ID    5388
+Name: 222, dtype: object | Live Image
+Rider ID: Rider ID    5404
+Rider ID    5404
+Name: 223, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    5409
+Rider ID    5409
+Name: 224, dtype: object | Live Image
+Rider ID: Rider ID    5414
+Rider ID    5414
+Name: 225, dtype: object | Live Image
+Rider ID: Rider ID    5416
+Rider ID    5416
+Name: 226, dtype: object | Live Image
+Rider ID: Rider ID    5421
+Rider ID    5421
+Name: 227, dtype: object | Live Image
+Rider ID: Rider ID    5423
+Rider ID    5423
+Name: 228, dtype: object | Live Image
+Rider ID: Rider ID    5425
+Rider ID    5425
+Name: 229, dtype: object | Live Image
+Rider ID: Rider ID    5434
+Rider ID    5434
+Name: 230, dtype: object | Live Image
+Rider ID: Rider ID    5442
+Rider ID    5442
+Name: 231, dtype: object | Live Image
+Rider ID: Rider ID    5453
+Rider ID    5453
+Name: 232, dtype: object | Live Image
+Rider ID: Rider ID    5455
+Rider ID    5455
+Name: 233, dtype: object | Live Image
+Rider ID: Rider ID    5457
+Rider ID    5457
+Name: 234, dtype: object | Live Image
+Rider ID: Rider ID    5482
+Rider ID    5482
+Name: 235, dtype: object | Live Image
+Rider ID: Rider ID    5484
+Rider ID    5484
+Name: 236, dtype: object | Live Image
+Rider ID: Rider ID    5490
+Rider ID    5490
+Name: 237, dtype: object | Live Image
+Rider ID: Rider ID    5503
+Rider ID    5503
+Name: 238, dtype: object | Live Image
+Rider ID: Rider ID    5512
+Rider ID    5512
+Name: 239, dtype: object | Live Image
+Rider ID: Rider ID    5542
+Rider ID    5542
+Name: 240, dtype: object | Live Image
+Rider ID: Rider ID    5543
+Rider ID    5543
+Name: 241, dtype: object | Blurry Image
+Rider ID: Rider ID    5544
+Rider ID    5544
+Name: 242, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    5551
+Rider ID    5551
+Name: 243, dtype: object | Live Image
+Rider ID: Rider ID    5567
+Rider ID    5567
+Name: 244, dtype: object | Live Image
+Rider ID: Rider ID    5569
+Rider ID    5569
+Name: 245, dtype: object | Live Image
+Rider ID: Rider ID    5575
+Rider ID    5575
+Name: 246, dtype: object | Live Image
+Rider ID: Rider ID    5579
+Rider ID    5579
+Name: 247, dtype: object | Live Image
+Rider ID: Rider ID    5600
+Rider ID    5600
+Name: 248, dtype: object | Live Image
+Rider ID: Rider ID    5610
+Rider ID    5610
+Name: 249, dtype: object | Blurry Image
+Rider ID: Rider ID    5612
+Rider ID    5612
+Name: 250, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    5619
+Rider ID    5619
+Name: 251, dtype: object | Live Image
+Rider ID: Rider ID    5628
+Rider ID    5628
+Name: 252, dtype: object | Live Image
+Rider ID: Rider ID    5645
+Rider ID    5645
+Name: 253, dtype: object | Live Image
+Rider ID: Rider ID    5657
+Rider ID    5657
+Name: 254, dtype: object | Live Image
+Rider ID: Rider ID    5671
+Rider ID    5671
+Name: 255, dtype: object | Live Image
+Rider ID: Rider ID    5673
+Rider ID    5673
+Name: 256, dtype: object | Live Image
+Rider ID: Rider ID    5685
+Rider ID    5685
+Name: 257, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    5691
+Rider ID    5691
+Name: 258, dtype: object | Live Image
+Rider ID: Rider ID    5693
+Rider ID    5693
+Name: 259, dtype: object | Live Image
+Rider ID: Rider ID    5695
+Rider ID    5695
+Name: 260, dtype: object | Live Image
+Rider ID: Rider ID    5699
+Rider ID    5699
+Name: 261, dtype: object | Live Image
+Rider ID: Rider ID    5712
+Rider ID    5712
+Name: 262, dtype: object | Live Image
+Rider ID: Rider ID    5714
+Rider ID    5714
+Name: 263, dtype: object | Live Image
+Rider ID: Rider ID    5721
+Rider ID    5721
+Name: 264, dtype: object | Blurry Image
+Rider ID: Rider ID    5722
+Rider ID    5722
+Name: 265, dtype: object | Live Image
+Rider ID: Rider ID    5724
+Rider ID    5724
+Name: 266, dtype: object | Live Image
+Rider ID: Rider ID    5753
+Rider ID    5753
+Name: 267, dtype: object | Live Image
+Rider ID: Rider ID    5771
+Rider ID    5771
+Name: 268, dtype: object | Live Image
+Rider ID: Rider ID    5775
+Rider ID    5775
+Name: 269, dtype: object | Live Image
+Rider ID: Rider ID    5779
+Rider ID    5779
+Name: 270, dtype: object | Live Image
+Rider ID: Rider ID    5793
+Rider ID    5793
+Name: 271, dtype: object | Live Image
+Rider ID: Rider ID    5800
+Rider ID    5800
+Name: 272, dtype: object | Live Image
+Rider ID: Rider ID    5819
+Rider ID    5819
+Name: 273, dtype: object | Live Image
+Rider ID: Rider ID    5822
+Rider ID    5822
+Name: 274, dtype: object | Live Image
+Rider ID: Rider ID    5828
+Rider ID    5828
+Name: 275, dtype: object | Live Image
+Rider ID: Rider ID    5829
+Rider ID    5829
+Name: 276, dtype: object | Live Image
+Rider ID: Rider ID    5842
+Rider ID    5842
+Name: 277, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    5849
+Rider ID    5849
+Name: 278, dtype: object | Live Image
+Rider ID: Rider ID    5851
+Rider ID    5851
+Name: 279, dtype: object | Live Image
+Rider ID: Rider ID    5857
+Rider ID    5857
+Name: 280, dtype: object | Live Image
+Rider ID: Rider ID    5862
+Rider ID    5862
+Name: 281, dtype: object | Live Image
+Rider ID: Rider ID    5872
+Rider ID    5872
+Name: 282, dtype: object | Live Image
+Rider ID: Rider ID    5875
+Rider ID    5875
+Name: 283, dtype: object | Live Image
+Rider ID: Rider ID    5880
+Rider ID    5880
+Name: 284, dtype: object | Live Image
+Rider ID: Rider ID    5882
+Rider ID    5882
+Name: 285, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    5885
+Rider ID    5885
+Name: 286, dtype: object | Live Image
+Rider ID: Rider ID    5889
+Rider ID    5889
+Name: 287, dtype: object | Live Image
+Rider ID: Rider ID    5896
+Rider ID    5896
+Name: 288, dtype: object | Live Image
+Rider ID: Rider ID    5898
+Rider ID    5898
+Name: 289, dtype: object | Live Image
+Rider ID: Rider ID    5929
+Rider ID    5929
+Name: 290, dtype: object | Live Image
+Rider ID: Rider ID    5953
+Rider ID    5953
+Name: 291, dtype: object | Live Image
+Rider ID: Rider ID    5954
+Rider ID    5954
+Name: 292, dtype: object | Live Image
+Rider ID: Rider ID    5960
+Rider ID    5960
+Name: 293, dtype: object | Live Image
+Rider ID: Rider ID    5961
+Rider ID    5961
+Name: 294, dtype: object | Live Image
+Rider ID: Rider ID    5964
+Rider ID    5964
+Name: 295, dtype: object | Live Image
+Rider ID: Rider ID    5966
+Rider ID    5966
+Name: 296, dtype: object | Live Image
+Rider ID: Rider ID    5977
+Rider ID    5977
+Name: 297, dtype: object | Live Image
+Rider ID: Rider ID    6003
+Rider ID    6003
+Name: 298, dtype: object | Live Image
+Rider ID: Rider ID    6010
+Rider ID    6010
+Name: 299, dtype: object | Live Image
+Rider ID: Rider ID    6017
+Rider ID    6017
+Name: 300, dtype: object | Live Image
+Rider ID: Rider ID    6019
+Rider ID    6019
+Name: 301, dtype: object | Live Image
+Rider ID: Rider ID    6038
+Rider ID    6038
+Name: 302, dtype: object | Blurry Image
+Rider ID: Rider ID    6044
+Rider ID    6044
+Name: 303, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    6060
+Rider ID    6060
+Name: 304, dtype: object | Live Image
+Rider ID: Rider ID    6107
+Rider ID    6107
+Name: 305, dtype: object | Live Image
+Rider ID: Rider ID    6119
+Rider ID    6119
+Name: 306, dtype: object | Live Image
+Rider ID: Rider ID    6129
+Rider ID    6129
+Name: 307, dtype: object | Live Image
+Rider ID: Rider ID    6156
+Rider ID    6156
+Name: 308, dtype: object | Live Image
+Rider ID: Rider ID    6172
+Rider ID    6172
+Name: 309, dtype: object | Live Image
+Rider ID: Rider ID    6187
+Rider ID    6187
+Name: 310, dtype: object | Live Image
+Rider ID: Rider ID    6188
+Rider ID    6188
+Name: 311, dtype: object | Live Image
+Rider ID: Rider ID    6225
+Rider ID    6225
+Name: 312, dtype: object | Live Image
+Rider ID: Rider ID    6226
+Rider ID    6226
+Name: 313, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    6229
+Rider ID    6229
+Name: 314, dtype: object | Live Image
+Rider ID: Rider ID    6233
+Rider ID    6233
+Name: 315, dtype: object | Live Image
+Rider ID: Rider ID    6238
+Rider ID    6238
+Name: 316, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    6244
+Rider ID    6244
+Name: 317, dtype: object | Blurry Image
+Rider ID: Rider ID    6257
+Rider ID    6257
+Name: 318, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    6258
+Rider ID    6258
+Name: 319, dtype: object | Live Image
+Rider ID: Rider ID    6259
+Rider ID    6259
+Name: 320, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    6268
+Rider ID    6268
+Name: 321, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    6291
+Rider ID    6291
+Name: 322, dtype: object | Live Image
+Rider ID: Rider ID    6309
+Rider ID    6309
+Name: 323, dtype: object | Blurry Image
+Rider ID: Rider ID    6330
+Rider ID    6330
+Name: 324, dtype: object | Live Image
+Rider ID: Rider ID    6358
+Rider ID    6358
+Name: 325, dtype: object | Live Image
+Rider ID: Rider ID    6359
+Rider ID    6359
+Name: 326, dtype: object | Live Image
+Rider ID: Rider ID    6369
+Rider ID    6369
+Name: 327, dtype: object | Live Image
+Rider ID: Rider ID    6369
+Rider ID    6369
+Name: 328, dtype: object | Live Image
+Rider ID: Rider ID    6381
+Rider ID    6381
+Name: 329, dtype: object | Live Image
+Rider ID: Rider ID    6399
+Rider ID    6399
+Name: 330, dtype: object | Live Image
+Rider ID: Rider ID    6402
+Rider ID    6402
+Name: 331, dtype: object | Live Image
+Rider ID: Rider ID    6408
+Rider ID    6408
+Name: 332, dtype: object | Live Image
+Rider ID: Rider ID    6409
+Rider ID    6409
+Name: 333, dtype: object | Live Image
+Rider ID: Rider ID    6442
+Rider ID    6442
+Name: 334, dtype: object | Live Image
+Rider ID: Rider ID    6447
+Rider ID    6447
+Name: 335, dtype: object | Live Image
+Rider ID: Rider ID    6461
+Rider ID    6461
+Name: 336, dtype: object | Live Image
+Rider ID: Rider ID    6463
+Rider ID    6463
+Name: 337, dtype: object | Live Image
+Rider ID: Rider ID    6464
+Rider ID    6464
+Name: 338, dtype: object | Live Image
+Rider ID: Rider ID    6493
+Rider ID    6493
+Name: 339, dtype: object | Blurry Image
+Rider ID: Rider ID    6517
+Rider ID    6517
+Name: 340, dtype: object | Live Image
+Rider ID: Rider ID    6539
+Rider ID    6539
+Name: 341, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    6541
+Rider ID    6541
+Name: 342, dtype: object | Live Image
+Rider ID: Rider ID    6543
+Rider ID    6543
+Name: 343, dtype: object | Live Image
+Rider ID: Rider ID    6545
+Rider ID    6545
+Name: 344, dtype: object | Live Image
+Rider ID: Rider ID    6554
+Rider ID    6554
+Name: 345, dtype: object | Live Image
+Rider ID: Rider ID    6555
+Rider ID    6555
+Name: 346, dtype: object | Live Image
+Rider ID: Rider ID    6576
+Rider ID    6576
+Name: 347, dtype: object | Live Image
+Rider ID: Rider ID    6584
+Rider ID    6584
+Name: 348, dtype: object | Live Image
+Rider ID: Rider ID    6590
+Rider ID    6590
+Name: 349, dtype: object | Blurry Image
+Rider ID: Rider ID    6607
+Rider ID    6607
+Name: 350, dtype: object | Live Image
+Rider ID: Rider ID    6617
+Rider ID    6617
+Name: 351, dtype: object | Live Image
+Rider ID: Rider ID    6633
+Rider ID    6633
+Name: 352, dtype: object | Live Image
+Rider ID: Rider ID    6654
+Rider ID    6654
+Name: 353, dtype: object | Live Image
+Rider ID: Rider ID    6659
+Rider ID    6659
+Name: 354, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    6669
+Rider ID    6669
+Name: 355, dtype: object | Live Image
+Rider ID: Rider ID    6674
+Rider ID    6674
+Name: 356, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    6712
+Rider ID    6712
+Name: 357, dtype: object | Live Image
+Rider ID: Rider ID    6735
+Rider ID    6735
+Name: 358, dtype: object | Live Image
+Rider ID: Rider ID    6781
+Rider ID    6781
+Name: 359, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    6788
+Rider ID    6788
+Name: 360, dtype: object | Live Image
+Rider ID: Rider ID    6791
+Rider ID    6791
+Name: 361, dtype: object | Live Image
+Rider ID: Rider ID    6800
+Rider ID    6800
+Name: 362, dtype: object | Blurry Image
+Rider ID: Rider ID    6808
+Rider ID    6808
+Name: 363, dtype: object | Blurry Image
+Rider ID: Rider ID    6818
+Rider ID    6818
+Name: 364, dtype: object | Live Image
+Rider ID: Rider ID    6825
+Rider ID    6825
+Name: 365, dtype: object | Live Image
+Rider ID: Rider ID    6829
+Rider ID    6829
+Name: 366, dtype: object | Live Image
+Rider ID: Rider ID    6838
+Rider ID    6838
+Name: 367, dtype: object | Live Image
+Rider ID: Rider ID    6850
+Rider ID    6850
+Name: 368, dtype: object | Live Image
+Rider ID: Rider ID    6872
+Rider ID    6872
+Name: 369, dtype: object | Blurry Image
+Rider ID: Rider ID    6889
+Rider ID    6889
+Name: 370, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    6894
+Rider ID    6894
+Name: 371, dtype: object | Live Image
+Rider ID: Rider ID    6905
+Rider ID    6905
+Name: 372, dtype: object | Live Image
+Rider ID: Rider ID    6910
+Rider ID    6910
+Name: 373, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    6948
+Rider ID    6948
+Name: 374, dtype: object | Live Image
+Rider ID: Rider ID    6949
+Rider ID    6949
+Name: 375, dtype: object | Live Image
+Rider ID: Rider ID    6950
+Rider ID    6950
+Name: 376, dtype: object | Live Image
+Rider ID: Rider ID    6958
+Rider ID    6958
+Name: 377, dtype: object | Live Image
+Rider ID: Rider ID    6967
+Rider ID    6967
+Name: 378, dtype: object | Live Image
+Rider ID: Rider ID    6988
+Rider ID    6988
+Name: 379, dtype: object | Live Image
+Rider ID: Rider ID    7028
+Rider ID    7028
+Name: 380, dtype: object | Live Image
+Rider ID: Rider ID    7038
+Rider ID    7038
+Name: 381, dtype: object | Live Image
+Rider ID: Rider ID    7056
+Rider ID    7056
+Name: 382, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    7071
+Rider ID    7071
+Name: 383, dtype: object | Live Image
+Rider ID: Rider ID    7073
+Rider ID    7073
+Name: 384, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    7080
+Rider ID    7080
+Name: 385, dtype: object | Live Image
+Rider ID: Rider ID    7127
+Rider ID    7127
+Name: 386, dtype: object | Live Image
+Rider ID: Rider ID    7159
+Rider ID    7159
+Name: 387, dtype: object | Live Image
+Rider ID: Rider ID    7163
+Rider ID    7163
+Name: 388, dtype: object | Live Image
+Rider ID: Rider ID    7170
+Rider ID    7170
+Name: 389, dtype: object | Live Image
+Rider ID: Rider ID    7197
+Rider ID    7197
+Name: 390, dtype: object | Live Image
+Rider ID: Rider ID    7201
+Rider ID    7201
+Name: 391, dtype: object | Blurry Image
+Rider ID: Rider ID    7203
+Rider ID    7203
+Name: 392, dtype: object | Live Image
+Rider ID: Rider ID    7226
+Rider ID    7226
+Name: 393, dtype: object | Blurry Image
+Rider ID: Rider ID    7248
+Rider ID    7248
+Name: 394, dtype: object | Live Image
+Rider ID: Rider ID    7264
+Rider ID    7264
+Name: 395, dtype: object | Live Image
+Rider ID: Rider ID    7267
+Rider ID    7267
+Name: 396, dtype: object | Live Image
+Rider ID: Rider ID    7276
+Rider ID    7276
+Name: 397, dtype: object | Live Image
+Rider ID: Rider ID    7284
+Rider ID    7284
+Name: 398, dtype: object | Live Image
+Rider ID: Rider ID    7293
+Rider ID    7293
+Name: 399, dtype: object | Live Image
+Rider ID: Rider ID    7298
+Rider ID    7298
+Name: 400, dtype: object | Live Image
+Rider ID: Rider ID    7320
+Rider ID    7320
+Name: 401, dtype: object | Live Image
+Rider ID: Rider ID    7321
+Rider ID    7321
+Name: 402, dtype: object | Live Image
+Rider ID: Rider ID    7322
+Rider ID    7322
+Name: 403, dtype: object | Live Image
+Rider ID: Rider ID    7323
+Rider ID    7323
+Name: 404, dtype: object | Live Image
+Rider ID: Rider ID    7326
+Rider ID    7326
+Name: 405, dtype: object | Live Image
+Rider ID: Rider ID    7331
+Rider ID    7331
+Name: 406, dtype: object | Live Image
+Rider ID: Rider ID    7335
+Rider ID    7335
+Name: 407, dtype: object | Blurry Image
+Rider ID: Rider ID    7336
+Rider ID    7336
+Name: 408, dtype: object | Live Image
+Rider ID: Rider ID    7357
+Rider ID    7357
+Name: 409, dtype: object | Live Image
+Rider ID: Rider ID    7372
+Rider ID    7372
+Name: 410, dtype: object | Live Image
+Rider ID: Rider ID    7377
+Rider ID    7377
+Name: 411, dtype: object | Live Image
+Rider ID: Rider ID    7410
+Rider ID    7410
+Name: 412, dtype: object | Live Image
+Rider ID: Rider ID    7412
+Rider ID    7412
+Name: 413, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    7434
+Rider ID    7434
+Name: 414, dtype: object | Live Image
+Rider ID: Rider ID    7461
+Rider ID    7461
+Name: 415, dtype: object | Live Image
+Rider ID: Rider ID    7468
+Rider ID    7468
+Name: 416, dtype: object | Live Image
+Rider ID: Rider ID    7472
+Rider ID    7472
+Name: 417, dtype: object | Live Image
+Rider ID: Rider ID    7473
+Rider ID    7473
+Name: 418, dtype: object | Live Image
+Rider ID: Rider ID    7474
+Rider ID    7474
+Name: 419, dtype: object | Live Image
+Rider ID: Rider ID    7475
+Rider ID    7475
+Name: 420, dtype: object | Blurry Image
+Rider ID: Rider ID    7476
+Rider ID    7476
+Name: 421, dtype: object | Live Image
+Rider ID: Rider ID    7495
+Rider ID    7495
+Name: 422, dtype: object | Live Image
+Rider ID: Rider ID    7502
+Rider ID    7502
+Name: 423, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    7504
+Rider ID    7504
+Name: 424, dtype: object | Live Image
+Rider ID: Rider ID    7524
+Rider ID    7524
+Name: 425, dtype: object | Live Image
+Rider ID: Rider ID    7538
+Rider ID    7538
+Name: 426, dtype: object | Live Image
+Rider ID: Rider ID    7544
+Rider ID    7544
+Name: 427, dtype: object | Blurry Image
+Rider ID: Rider ID    7580
+Rider ID    7580
+Name: 428, dtype: object | Blurry Image
+Rider ID: Rider ID    7597
+Rider ID    7597
+Name: 429, dtype: object | Live Image
+Rider ID: Rider ID    7601
+Rider ID    7601
+Name: 430, dtype: object | Live Image
+Rider ID: Rider ID    7621
+Rider ID    7621
+Name: 431, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    7633
+Rider ID    7633
+Name: 432, dtype: object | Live Image
+Rider ID: Rider ID    7650
+Rider ID    7650
+Name: 433, dtype: object | Blurry Image
+Rider ID: Rider ID    7663
+Rider ID    7663
+Name: 434, dtype: object | Live Image
+Rider ID: Rider ID    7666
+Rider ID    7666
+Name: 435, dtype: object | Live Image
+Rider ID: Rider ID    7668
+Rider ID    7668
+Name: 436, dtype: object | Blurry Image
+Rider ID: Rider ID    7684
+Rider ID    7684
+Name: 437, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    7687
+Rider ID    7687
+Name: 438, dtype: object | Live Image
+Rider ID: Rider ID    7690
+Rider ID    7690
+Name: 439, dtype: object | Live Image
+Rider ID: Rider ID    7691
+Rider ID    7691
+Name: 440, dtype: object | Live Image
+Rider ID: Rider ID    7702
+Rider ID    7702
+Name: 441, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    7725
+Rider ID    7725
+Name: 442, dtype: object | Live Image
+Rider ID: Rider ID    7778
+Rider ID    7778
+Name: 443, dtype: object | Live Image
+Rider ID: Rider ID    7783
+Rider ID    7783
+Name: 444, dtype: object | Live Image
+Rider ID: Rider ID    7788
+Rider ID    7788
+Name: 445, dtype: object | Live Image
+Rider ID: Rider ID    7794
+Rider ID    7794
+Name: 446, dtype: object | Live Image
+Rider ID: Rider ID    7804
+Rider ID    7804
+Name: 447, dtype: object | Live Image
+Rider ID: Rider ID    7820
+Rider ID    7820
+Name: 448, dtype: object | Live Image
+Rider ID: Rider ID    7826
+Rider ID    7826
+Name: 449, dtype: object | Live Image
+Rider ID: Rider ID    7827
+Rider ID    7827
+Name: 450, dtype: object | Blurry Image
+Rider ID: Rider ID    7843
+Rider ID    7843
+Name: 451, dtype: object | Live Image
+Rider ID: Rider ID    7860
+Rider ID    7860
+Name: 452, dtype: object | Live Image
+Rider ID: Rider ID    7870
+Rider ID    7870
+Name: 453, dtype: object | Live Image
+Rider ID: Rider ID    7875
+Rider ID    7875
+Name: 454, dtype: object | Live Image
+Rider ID: Rider ID    7878
+Rider ID    7878
+Name: 455, dtype: object | Live Image
+Rider ID: Rider ID    7889
+Rider ID    7889
+Name: 456, dtype: object | Live Image
+Rider ID: Rider ID    7905
+Rider ID    7905
+Name: 457, dtype: object | Blurry Image
+Rider ID: Rider ID    7907
+Rider ID    7907
+Name: 458, dtype: object | Blurry Image
+Rider ID: Rider ID    7917
+Rider ID    7917
+Name: 459, dtype: object | Live Image
+Rider ID: Rider ID    7924
+Rider ID    7924
+Name: 460, dtype: object | Live Image
+Rider ID: Rider ID    7935
+Rider ID    7935
+Name: 461, dtype: object | Live Image
+Rider ID: Rider ID    7955
+Rider ID    7955
+Name: 462, dtype: object | Live Image
+Rider ID: Rider ID    7956
+Rider ID    7956
+Name: 463, dtype: object | Live Image
+Rider ID: Rider ID    7978
+Rider ID    7978
+Name: 464, dtype: object | Live Image
+Rider ID: Rider ID    7983
+Rider ID    7983
+Name: 465, dtype: object | Live Image
+Rider ID: Rider ID    7985
+Rider ID    7985
+Name: 466, dtype: object | Live Image
+Rider ID: Rider ID    7988
+Rider ID    7988
+Name: 467, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    7997
+Rider ID    7997
+Name: 468, dtype: object | Live Image
+Rider ID: Rider ID    8000
+Rider ID    8000
+Name: 469, dtype: object | Live Image
+Rider ID: Rider ID    8011
+Rider ID    8011
+Name: 470, dtype: object | Live Image
+Rider ID: Rider ID    8028
+Rider ID    8028
+Name: 471, dtype: object | Live Image
+Rider ID: Rider ID    8044
+Rider ID    8044
+Name: 472, dtype: object | Live Image
+Rider ID: Rider ID    8062
+Rider ID    8062
+Name: 473, dtype: object | Live Image
+Rider ID: Rider ID    8086
+Rider ID    8086
+Name: 474, dtype: object | Blurry Image
+Rider ID: Rider ID    8090
+Rider ID    8090
+Name: 475, dtype: object | Live Image
+Rider ID: Rider ID    8092
+Rider ID    8092
+Name: 476, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    8103
+Rider ID    8103
+Name: 477, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    8113
+Rider ID    8113
+Name: 478, dtype: object | Live Image
+Rider ID: Rider ID    8114
+Rider ID    8114
+Name: 479, dtype: object | Live Image
+Rider ID: Rider ID    8122
+Rider ID    8122
+Name: 480, dtype: object | Live Image
+Rider ID: Rider ID    8153
+Rider ID    8153
+Name: 481, dtype: object | Live Image
+Rider ID: Rider ID    8154
+Rider ID    8154
+Name: 482, dtype: object | Live Image
+Rider ID: Rider ID    8164
+Rider ID    8164
+Name: 483, dtype: object | Live Image
+Rider ID: Rider ID    8171
+Rider ID    8171
+Name: 484, dtype: object | Live Image
+Rider ID: Rider ID    8176
+Rider ID    8176
+Name: 485, dtype: object | Live Image
+Rider ID: Rider ID    8180
+Rider ID    8180
+Name: 486, dtype: object | Live Image
+Rider ID: Rider ID    8207
+Rider ID    8207
+Name: 487, dtype: object | Blurry Image
+Rider ID: Rider ID    8209
+Rider ID    8209
+Name: 488, dtype: object | Live Image
+Rider ID: Rider ID    8225
+Rider ID    8225
+Name: 489, dtype: object | Live Image
+Rider ID: Rider ID    8230
+Rider ID    8230
+Name: 490, dtype: object | Blurry Image
+Rider ID: Rider ID    8233
+Rider ID    8233
+Name: 491, dtype: object | Live Image
+Rider ID: Rider ID    8238
+Rider ID    8238
+Name: 492, dtype: object | Live Image
+Rider ID: Rider ID    8255
+Rider ID    8255
+Name: 493, dtype: object | Live Image
+Rider ID: Rider ID    8266
+Rider ID    8266
+Name: 494, dtype: object | Live Image
+Rider ID: Rider ID    8271
+Rider ID    8271
+Name: 495, dtype: object | Live Image
+Rider ID: Rider ID    8278
+Rider ID    8278
+Name: 496, dtype: object | Live Image
+Rider ID: Rider ID    8292
+Rider ID    8292
+Name: 497, dtype: object | Live Image
+Rider ID: Rider ID    8295
+Rider ID    8295
+Name: 498, dtype: object | Live Image
+Rider ID: Rider ID    8302
+Rider ID    8302
+Name: 499, dtype: object | Live Image
+Rider ID: Rider ID    8306
+Rider ID    8306
+Name: 500, dtype: object | Live Image
+Rider ID: Rider ID    8318
+Rider ID    8318
+Name: 501, dtype: object | Live Image
+Rider ID: Rider ID    8320
+Rider ID    8320
+Name: 502, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    8330
+Rider ID    8330
+Name: 503, dtype: object | Live Image
+Rider ID: Rider ID    8343
+Rider ID    8343
+Name: 504, dtype: object | Blurry Image
+Rider ID: Rider ID    8351
+Rider ID    8351
+Name: 505, dtype: object | Live Image
+Rider ID: Rider ID    8365
+Rider ID    8365
+Name: 506, dtype: object | Live Image
+Rider ID: Rider ID    8376
+Rider ID    8376
+Name: 507, dtype: object | Live Image
+Rider ID: Rider ID    8379
+Rider ID    8379
+Name: 508, dtype: object | Live Image
+Rider ID: Rider ID    8409
+Rider ID    8409
+Name: 509, dtype: object | Live Image
+Rider ID: Rider ID    8421
+Rider ID    8421
+Name: 510, dtype: object | Live Image
+Rider ID: Rider ID    8427
+Rider ID    8427
+Name: 511, dtype: object | Live Image
+Rider ID: Rider ID    8429
+Rider ID    8429
+Name: 512, dtype: object | Live Image
+Rider ID: Rider ID    8441
+Rider ID    8441
+Name: 513, dtype: object | Live Image
+Rider ID: Rider ID    8447
+Rider ID    8447
+Name: 514, dtype: object | Live Image
+Rider ID: Rider ID    8448
+Rider ID    8448
+Name: 515, dtype: object | Blurry Image
+Rider ID: Rider ID    8450
+Rider ID    8450
+Name: 516, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    8464
+Rider ID    8464
+Name: 517, dtype: object | Live Image
+Rider ID: Rider ID    8470
+Rider ID    8470
+Name: 518, dtype: object | Live Image
+Rider ID: Rider ID    8476
+Rider ID    8476
+Name: 519, dtype: object | Live Image
+Rider ID: Rider ID    8477
+Rider ID    8477
+Name: 520, dtype: object | Live Image
+Rider ID: Rider ID    8479
+Rider ID    8479
+Name: 521, dtype: object | Blurry Image
+Rider ID: Rider ID    8481
+Rider ID    8481
+Name: 522, dtype: object | Live Image
+Rider ID: Rider ID    8486
+Rider ID    8486
+Name: 523, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    8490
+Rider ID    8490
+Name: 524, dtype: object | Live Image
+Rider ID: Rider ID    8495
+Rider ID    8495
+Name: 525, dtype: object | Live Image
+Rider ID: Rider ID    8496
+Rider ID    8496
+Name: 526, dtype: object | Live Image
+Rider ID: Rider ID    8499
+Rider ID    8499
+Name: 527, dtype: object | Live Image
+Rider ID: Rider ID    8500
+Rider ID    8500
+Name: 528, dtype: object | Live Image
+Rider ID: Rider ID    8501
+Rider ID    8501
+Name: 529, dtype: object | Live Image
+Rider ID: Rider ID    8504
+Rider ID    8504
+Name: 530, dtype: object | Live Image
+Rider ID: Rider ID    8509
+Rider ID    8509
+Name: 531, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    8519
+Rider ID    8519
+Name: 532, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    8521
+Rider ID    8521
+Name: 533, dtype: object | Live Image
+Rider ID: Rider ID    8525
+Rider ID    8525
+Name: 534, dtype: object | Blurry Image
+Rider ID: Rider ID    8531
+Rider ID    8531
+Name: 535, dtype: object | Live Image
+Rider ID: Rider ID    8532
+Rider ID    8532
+Name: 536, dtype: object | Live Image
+Rider ID: Rider ID    8540
+Rider ID    8540
+Name: 537, dtype: object | Live Image
+Rider ID: Rider ID    8546
+Rider ID    8546
+Name: 538, dtype: object | Live Image
+Rider ID: Rider ID    8550
+Rider ID    8550
+Name: 539, dtype: object | Live Image
+Rider ID: Rider ID    8555
+Rider ID    8555
+Name: 540, dtype: object | Blurry Image
+Rider ID: Rider ID    8559
+Rider ID    8559
+Name: 541, dtype: object | Live Image
+Rider ID: Rider ID    8560
+Rider ID    8560
+Name: 542, dtype: object | Blurry Image
+Rider ID: Rider ID    8563
+Rider ID    8563
+Name: 543, dtype: object | Live Image
+Rider ID: Rider ID    8585
+Rider ID    8585
+Name: 544, dtype: object | Live Image
+Rider ID: Rider ID    8593
+Rider ID    8593
+Name: 545, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    8622
+Rider ID    8622
+Name: 546, dtype: object | Live Image
+Rider ID: Rider ID    8626
+Rider ID    8626
+Name: 547, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    8627
+Rider ID    8627
+Name: 548, dtype: object | Live Image
+Rider ID: Rider ID    8637
+Rider ID    8637
+Name: 549, dtype: object | Live Image
+Rider ID: Rider ID    8649
+Rider ID    8649
+Name: 550, dtype: object | Live Image
+Rider ID: Rider ID    8650
+Rider ID    8650
+Name: 551, dtype: object | Live Image
+Rider ID: Rider ID    8652
+Rider ID    8652
+Name: 552, dtype: object | Blurry Image
+Rider ID: Rider ID    8657
+Rider ID    8657
+Name: 553, dtype: object | Live Image
+Rider ID: Rider ID    8659
+Rider ID    8659
+Name: 554, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    8665
+Rider ID    8665
+Name: 555, dtype: object | Live Image
+Rider ID: Rider ID    8671
+Rider ID    8671
+Name: 556, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    8675
+Rider ID    8675
+Name: 557, dtype: object | Blurry Image
+Rider ID: Rider ID    8682
+Rider ID    8682
+Name: 558, dtype: object | Live Image
+Rider ID: Rider ID    8683
+Rider ID    8683
+Name: 559, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    8690
+Rider ID    8690
+Name: 560, dtype: object | Live Image
+Rider ID: Rider ID    8691
+Rider ID    8691
+Name: 561, dtype: object | Live Image
+Rider ID: Rider ID    8704
+Rider ID    8704
+Name: 562, dtype: object | Live Image
+Rider ID: Rider ID    8705
+Rider ID    8705
+Name: 563, dtype: object | Live Image
+Rider ID: Rider ID    8707
+Rider ID    8707
+Name: 564, dtype: object | Blurry Image
+Rider ID: Rider ID    8718
+Rider ID    8718
+Name: 565, dtype: object | Live Image
+Rider ID: Rider ID    8731
+Rider ID    8731
+Name: 566, dtype: object | Live Image
+Rider ID: Rider ID    8732
+Rider ID    8732
+Name: 567, dtype: object | Live Image
+Rider ID: Rider ID    8733
+Rider ID    8733
+Name: 568, dtype: object | Live Image
+Rider ID: Rider ID    8734
+Rider ID    8734
+Name: 569, dtype: object | Blurry Image
+Rider ID: Rider ID    8739
+Rider ID    8739
+Name: 570, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    8749
+Rider ID    8749
+Name: 571, dtype: object | Live Image
+Rider ID: Rider ID    8758
+Rider ID    8758
+Name: 572, dtype: object | Live Image
+Rider ID: Rider ID    8768
+Rider ID    8768
+Name: 573, dtype: object | Live Image
+Rider ID: Rider ID    8770
+Rider ID    8770
+Name: 574, dtype: object | Live Image
+Rider ID: Rider ID    8773
+Rider ID    8773
+Name: 575, dtype: object | Live Image
+Rider ID: Rider ID    8788
+Rider ID    8788
+Name: 576, dtype: object | Live Image
+Rider ID: Rider ID    8801
+Rider ID    8801
+Name: 577, dtype: object | Live Image
+Rider ID: Rider ID    8807
+Rider ID    8807
+Name: 578, dtype: object | Live Image
+Rider ID: Rider ID    8820
+Rider ID    8820
+Name: 579, dtype: object | Live Image
+Rider ID: Rider ID    8828
+Rider ID    8828
+Name: 580, dtype: object | Live Image
+Rider ID: Rider ID    8832
+Rider ID    8832
+Name: 581, dtype: object | Live Image
+Rider ID: Rider ID    8841
+Rider ID    8841
+Name: 582, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    8845
+Rider ID    8845
+Name: 583, dtype: object | Live Image
+Rider ID: Rider ID    8847
+Rider ID    8847
+Name: 584, dtype: object | Live Image
+Rider ID: Rider ID    8852
+Rider ID    8852
+Name: 585, dtype: object | Live Image
+Rider ID: Rider ID    8862
+Rider ID    8862
+Name: 586, dtype: object | Live Image
+Rider ID: Rider ID    8878
+Rider ID    8878
+Name: 587, dtype: object | Live Image
+Rider ID: Rider ID    8881
+Rider ID    8881
+Name: 588, dtype: object | Live Image
+Rider ID: Rider ID    8882
+Rider ID    8882
+Name: 589, dtype: object | Blurry Image
+Rider ID: Rider ID    8892
+Rider ID    8892
+Name: 590, dtype: object | Blurry Image
+Rider ID: Rider ID    8893
+Rider ID    8893
+Name: 591, dtype: object | Live Image
+Rider ID: Rider ID    8894
+Rider ID    8894
+Name: 592, dtype: object | Live Image
+Rider ID: Rider ID    8907
+Rider ID    8907
+Name: 593, dtype: object | Live Image
+Rider ID: Rider ID    8909
+Rider ID    8909
+Name: 594, dtype: object | Live Image
+Rider ID: Rider ID    8912
+Rider ID    8912
+Name: 595, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    8920
+Rider ID    8920
+Name: 596, dtype: object | Live Image
+Rider ID: Rider ID    8921
+Rider ID    8921
+Name: 597, dtype: object | Live Image
+Rider ID: Rider ID    8922
+Rider ID    8922
+Name: 598, dtype: object | Live Image
+Rider ID: Rider ID    8930
+Rider ID    8930
+Name: 599, dtype: object | Live Image
+Rider ID: Rider ID    8935
+Rider ID    8935
+Name: 600, dtype: object | Live Image
+Rider ID: Rider ID    8945
+Rider ID    8945
+Name: 601, dtype: object | Live Image
+Rider ID: Rider ID    8951
+Rider ID    8951
+Name: 602, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    8966
+Rider ID    8966
+Name: 603, dtype: object | Live Image
+Rider ID: Rider ID    8967
+Rider ID    8967
+Name: 604, dtype: object | Live Image
+Rider ID: Rider ID    8969
+Rider ID    8969
+Name: 605, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    8997
+Rider ID    8997
+Name: 606, dtype: object | Live Image
+Rider ID: Rider ID    9023
+Rider ID    9023
+Name: 607, dtype: object | Blurry Image
+Rider ID: Rider ID    9052
+Rider ID    9052
+Name: 608, dtype: object | Blurry Image
+Rider ID: Rider ID    9056
+Rider ID    9056
+Name: 609, dtype: object | Live Image
+Rider ID: Rider ID    9057
+Rider ID    9057
+Name: 610, dtype: object | Live Image
+Rider ID: Rider ID    9058
+Rider ID    9058
+Name: 611, dtype: object | Live Image
+Rider ID: Rider ID    9072
+Rider ID    9072
+Name: 612, dtype: object | Live Image
+Rider ID: Rider ID    9081
+Rider ID    9081
+Name: 613, dtype: object | Live Image
+Rider ID: Rider ID    9093
+Rider ID    9093
+Name: 614, dtype: object | Live Image
+Rider ID: Rider ID    9094
+Rider ID    9094
+Name: 615, dtype: object | Live Image
+Rider ID: Rider ID    9095
+Rider ID    9095
+Name: 616, dtype: object | Live Image
+Rider ID: Rider ID    9096
+Rider ID    9096
+Name: 617, dtype: object | Live Image
+Rider ID: Rider ID    9099
+Rider ID    9099
+Name: 618, dtype: object | Live Image
+Rider ID: Rider ID    9104
+Rider ID    9104
+Name: 619, dtype: object | Live Image
+Rider ID: Rider ID    9115
+Rider ID    9115
+Name: 620, dtype: object | Live Image
+Rider ID: Rider ID    9121
+Rider ID    9121
+Name: 621, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    9132
+Rider ID    9132
+Name: 622, dtype: object | Live Image
+Rider ID: Rider ID    9143
+Rider ID    9143
+Name: 623, dtype: object | Blurry Image
+Rider ID: Rider ID    9144
+Rider ID    9144
+Name: 624, dtype: object | Live Image
+Rider ID: Rider ID    9147
+Rider ID    9147
+Name: 625, dtype: object | Blurry Image
+Rider ID: Rider ID    9166
+Rider ID    9166
+Name: 626, dtype: object | Live Image
+Rider ID: Rider ID    9175
+Rider ID    9175
+Name: 627, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    9187
+Rider ID    9187
+Name: 628, dtype: object | Live Image
+Rider ID: Rider ID    9188
+Rider ID    9188
+Name: 629, dtype: object | Blurry Image
+Rider ID: Rider ID    9189
+Rider ID    9189
+Name: 630, dtype: object | Live Image
+Rider ID: Rider ID    9198
+Rider ID    9198
+Name: 631, dtype: object | Live Image
+Rider ID: Rider ID    9207
+Rider ID    9207
+Name: 632, dtype: object | Live Image
+Rider ID: Rider ID    9208
+Rider ID    9208
+Name: 633, dtype: object | Live Image
+Rider ID: Rider ID    9209
+Rider ID    9209
+Name: 634, dtype: object | Blurry Image
+Rider ID: Rider ID    9211
+Rider ID    9211
+Name: 635, dtype: object | Live Image
+Rider ID: Rider ID    9216
+Rider ID    9216
+Name: 636, dtype: object | Live Image
+Rider ID: Rider ID    9233
+Rider ID    9233
+Name: 637, dtype: object | Blurry Image
+Rider ID: Rider ID    9238
+Rider ID    9238
+Name: 638, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    9303
+Rider ID    9303
+Name: 639, dtype: object | Live Image
+Rider ID: Rider ID    9320
+Rider ID    9320
+Name: 640, dtype: object | Live Image
+Rider ID: Rider ID    9327
+Rider ID    9327
+Name: 641, dtype: object | Live Image
+Rider ID: Rider ID    9341
+Rider ID    9341
+Name: 642, dtype: object | Live Image
+Rider ID: Rider ID    9344
+Rider ID    9344
+Name: 643, dtype: object | Live Image
+Rider ID: Rider ID    9345
+Rider ID    9345
+Name: 644, dtype: object | Live Image
+Rider ID: Rider ID    9349
+Rider ID    9349
+Name: 645, dtype: object | Live Image
+Rider ID: Rider ID    9349
+Rider ID    9349
+Name: 646, dtype: object | Live Image
+Rider ID: Rider ID    9368
+Rider ID    9368
+Name: 647, dtype: object | Blurry Image
+Rider ID: Rider ID    9376
+Rider ID    9376
+Name: 648, dtype: object | Live Image
+Rider ID: Rider ID    9377
+Rider ID    9377
+Name: 649, dtype: object | Live Image
+Rider ID: Rider ID    9378
+Rider ID    9378
+Name: 650, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    9379
+Rider ID    9379
+Name: 651, dtype: object | Live Image
+Rider ID: Rider ID    9383
+Rider ID    9383
+Name: 652, dtype: object | Live Image
+Rider ID: Rider ID    9391
+Rider ID    9391
+Name: 653, dtype: object | Live Image
+Rider ID: Rider ID    9394
+Rider ID    9394
+Name: 654, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    9399
+Rider ID    9399
+Name: 655, dtype: object | Live Image
+Rider ID: Rider ID    9415
+Rider ID    9415
+Name: 656, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    9416
+Rider ID    9416
+Name: 657, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    9419
+Rider ID    9419
+Name: 658, dtype: object | Blurry Image
+Rider ID: Rider ID    9420
+Rider ID    9420
+Name: 659, dtype: object | Live Image
+Rider ID: Rider ID    9433
+Rider ID    9433
+Name: 660, dtype: object | Live Image
+Rider ID: Rider ID    9434
+Rider ID    9434
+Name: 661, dtype: object | Live Image
+Rider ID: Rider ID    9438
+Rider ID    9438
+Name: 662, dtype: object | Live Image
+Rider ID: Rider ID    9446
+Rider ID    9446
+Name: 663, dtype: object | Live Image
+Rider ID: Rider ID    9470
+Rider ID    9470
+Name: 664, dtype: object | Live Image
+Rider ID: Rider ID    9479
+Rider ID    9479
+Name: 665, dtype: object | Live Image
+Rider ID: Rider ID    9488
+Rider ID    9488
+Name: 666, dtype: object | Live Image
+Rider ID: Rider ID    9491
+Rider ID    9491
+Name: 667, dtype: object | Live Image
+Rider ID: Rider ID    9509
+Rider ID    9509
+Name: 668, dtype: object | Live Image
+Rider ID: Rider ID    9515
+Rider ID    9515
+Name: 669, dtype: object | Live Image
+Rider ID: Rider ID    9521
+Rider ID    9521
+Name: 670, dtype: object | Blurry Image
+Rider ID: Rider ID    9525
+Rider ID    9525
+Name: 671, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    9528
+Rider ID    9528
+Name: 672, dtype: object | Live Image
+Rider ID: Rider ID    9532
+Rider ID    9532
+Name: 673, dtype: object | Live Image
+Rider ID: Rider ID    9533
+Rider ID    9533
+Name: 674, dtype: object | Live Image
+Rider ID: Rider ID    9540
+Rider ID    9540
+Name: 675, dtype: object | Live Image
+Rider ID: Rider ID    9545
+Rider ID    9545
+Name: 676, dtype: object | Live Image
+Rider ID: Rider ID    9568
+Rider ID    9568
+Name: 677, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    9570
+Rider ID    9570
+Name: 678, dtype: object | Live Image
+Rider ID: Rider ID    9571
+Rider ID    9571
+Name: 679, dtype: object | Live Image
+Rider ID: Rider ID    9572
+Rider ID    9572
+Name: 680, dtype: object | Live Image
+Rider ID: Rider ID    9591
+Rider ID    9591
+Name: 681, dtype: object | Live Image
+Rider ID: Rider ID    9593
+Rider ID    9593
+Name: 682, dtype: object | Live Image
+Rider ID: Rider ID    9598
+Rider ID    9598
+Name: 683, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    9601
+Rider ID    9601
+Name: 684, dtype: object | Live Image
+Rider ID: Rider ID    9613
+Rider ID    9613
+Name: 685, dtype: object | Live Image
+Rider ID: Rider ID    9618
+Rider ID    9618
+Name: 686, dtype: object | Live Image
+Rider ID: Rider ID    9623
+Rider ID    9623
+Name: 687, dtype: object | Live Image
+Rider ID: Rider ID    9624
+Rider ID    9624
+Name: 688, dtype: object | Blurry Image
+Rider ID: Rider ID    9631
+Rider ID    9631
+Name: 689, dtype: object | Live Image
+Rider ID: Rider ID    9637
+Rider ID    9637
+Name: 690, dtype: object | Live Image
+Rider ID: Rider ID    9641
+Rider ID    9641
+Name: 691, dtype: object | Live Image
+Rider ID: Rider ID    9645
+Rider ID    9645
+Name: 692, dtype: object | Live Image
+Rider ID: Rider ID    9655
+Rider ID    9655
+Name: 693, dtype: object | Live Image
+Rider ID: Rider ID    9671
+Rider ID    9671
+Name: 694, dtype: object | Live Image
+Rider ID: Rider ID    9674
+Rider ID    9674
+Name: 695, dtype: object | Blurry Image
+Rider ID: Rider ID    9684
+Rider ID    9684
+Name: 696, dtype: object | Blurry Image
+Rider ID: Rider ID    9687
+Rider ID    9687
+Name: 697, dtype: object | Live Image
+Rider ID: Rider ID    9690
+Rider ID    9690
+Name: 698, dtype: object | Live Image
+Rider ID: Rider ID    9691
+Rider ID    9691
+Name: 699, dtype: object | Live Image
+Rider ID: Rider ID    9692
+Rider ID    9692
+Name: 700, dtype: object | Live Image
+Rider ID: Rider ID    9693
+Rider ID    9693
+Name: 701, dtype: object | Live Image
+Rider ID: Rider ID    9695
+Rider ID    9695
+Name: 702, dtype: object | Live Image
+Rider ID: Rider ID    9696
+Rider ID    9696
+Name: 703, dtype: object | Blurry Image
+Rider ID: Rider ID    9700
+Rider ID    9700
+Name: 704, dtype: object | Live Image
+Rider ID: Rider ID    9701
+Rider ID    9701
+Name: 705, dtype: object | Live Image
+Rider ID: Rider ID    9703
+Rider ID    9703
+Name: 706, dtype: object | Blurry Image
+Rider ID: Rider ID    9721
+Rider ID    9721
+Name: 707, dtype: object | Live Image
+Rider ID: Rider ID    9729
+Rider ID    9729
+Name: 708, dtype: object | Live Image
+Rider ID: Rider ID    9734
+Rider ID    9734
+Name: 709, dtype: object | Live Image
+Rider ID: Rider ID    9739
+Rider ID    9739
+Name: 710, dtype: object | Live Image
+Rider ID: Rider ID    9742
+Rider ID    9742
+Name: 711, dtype: object | Live Image
+Rider ID: Rider ID    9744
+Rider ID    9744
+Name: 712, dtype: object | Live Image
+Rider ID: Rider ID    9752
+Rider ID    9752
+Name: 713, dtype: object | Blurry Image
+Rider ID: Rider ID    9754
+Rider ID    9754
+Name: 714, dtype: object | Live Image
+Rider ID: Rider ID    9762
+Rider ID    9762
+Name: 715, dtype: object | Live Image
+Rider ID: Rider ID    9768
+Rider ID    9768
+Name: 716, dtype: object | Live Image
+Rider ID: Rider ID    9776
+Rider ID    9776
+Name: 717, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    9780
+Rider ID    9780
+Name: 718, dtype: object | Live Image
+Rider ID: Rider ID    9781
+Rider ID    9781
+Name: 719, dtype: object | Live Image
+Rider ID: Rider ID    9785
+Rider ID    9785
+Name: 720, dtype: object | Live Image
+Rider ID: Rider ID    9792
+Rider ID    9792
+Name: 721, dtype: object | Live Image
+Rider ID: Rider ID    9795
+Rider ID    9795
+Name: 722, dtype: object | Live Image
+Rider ID: Rider ID    9807
+Rider ID    9807
+Name: 723, dtype: object | Live Image
+Rider ID: Rider ID    9809
+Rider ID    9809
+Name: 724, dtype: object | Live Image
+Rider ID: Rider ID    9824
+Rider ID    9824
+Name: 725, dtype: object | Blurry Image
+Rider ID: Rider ID    9828
+Rider ID    9828
+Name: 726, dtype: object | Live Image
+Rider ID: Rider ID    9833
+Rider ID    9833
+Name: 727, dtype: object | Live Image
+Rider ID: Rider ID    9835
+Rider ID    9835
+Name: 728, dtype: object | Live Image
+Rider ID: Rider ID    9839
+Rider ID    9839
+Name: 729, dtype: object | Live Image
+Rider ID: Rider ID    9844
+Rider ID    9844
+Name: 730, dtype: object | Live Image
+Rider ID: Rider ID    9851
+Rider ID    9851
+Name: 731, dtype: object | Live Image
+Rider ID: Rider ID    9864
+Rider ID    9864
+Name: 732, dtype: object | Live Image
+Rider ID: Rider ID    9865
+Rider ID    9865
+Name: 733, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    9872
+Rider ID    9872
+Name: 734, dtype: object | Live Image
+Rider ID: Rider ID    9878
+Rider ID    9878
+Name: 735, dtype: object | Live Image
+Rider ID: Rider ID    9882
+Rider ID    9882
+Name: 736, dtype: object | Blurry Image
+Rider ID: Rider ID    9883
+Rider ID    9883
+Name: 737, dtype: object | Live Image
+Rider ID: Rider ID    9889
+Rider ID    9889
+Name: 738, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    9892
+Rider ID    9892
+Name: 739, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    9895
+Rider ID    9895
+Name: 740, dtype: object | Live Image
+Rider ID: Rider ID    9897
+Rider ID    9897
+Name: 741, dtype: object | Blurry Image
+Rider ID: Rider ID    9907
+Rider ID    9907
+Name: 742, dtype: object | Live Image
+Rider ID: Rider ID    9909
+Rider ID    9909
+Name: 743, dtype: object | Live Image
+Rider ID: Rider ID    9911
+Rider ID    9911
+Name: 744, dtype: object | Live Image
+Rider ID: Rider ID    9923
+Rider ID    9923
+Name: 745, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    9924
+Rider ID    9924
+Name: 746, dtype: object | Live Image
+Rider ID: Rider ID    9925
+Rider ID    9925
+Name: 747, dtype: object | Live Image
+Rider ID: Rider ID    9931
+Rider ID    9931
+Name: 748, dtype: object | Live Image
+Rider ID: Rider ID    9934
+Rider ID    9934
+Name: 749, dtype: object | Live Image
+Rider ID: Rider ID    9941
+Rider ID    9941
+Name: 750, dtype: object | Live Image
+Rider ID: Rider ID    9945
+Rider ID    9945
+Name: 751, dtype: object | Live Image
+Rider ID: Rider ID    9946
+Rider ID    9946
+Name: 752, dtype: object | Live Image
+Rider ID: Rider ID    9949
+Rider ID    9949
+Name: 753, dtype: object | Live Image
+Rider ID: Rider ID    9953
+Rider ID    9953
+Name: 754, dtype: object | Live Image
+Rider ID: Rider ID    9955
+Rider ID    9955
+Name: 755, dtype: object | Live Image
+Rider ID: Rider ID    9956
+Rider ID    9956
+Name: 756, dtype: object | Live Image
+Rider ID: Rider ID    9958
+Rider ID    9958
+Name: 757, dtype: object | Live Image
+Rider ID: Rider ID    9963
+Rider ID    9963
+Name: 758, dtype: object | Live Image
+Rider ID: Rider ID    9964
+Rider ID    9964
+Name: 759, dtype: object | Live Image
+Rider ID: Rider ID    9972
+Rider ID    9972
+Name: 760, dtype: object | Live Image
+Rider ID: Rider ID    10008
+Rider ID    10008
+Name: 761, dtype: object | Blurry Image
+Rider ID: Rider ID    10009
+Rider ID    10009
+Name: 762, dtype: object | Live Image
+Rider ID: Rider ID    10020
+Rider ID    10020
+Name: 763, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    10021
+Rider ID    10021
+Name: 764, dtype: object | Live Image
+Rider ID: Rider ID    10022
+Rider ID    10022
+Name: 765, dtype: object | Live Image
+Rider ID: Rider ID    10024
+Rider ID    10024
+Name: 766, dtype: object | Live Image
+Rider ID: Rider ID    10029
+Rider ID    10029
+Name: 767, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    10030
+Rider ID    10030
+Name: 768, dtype: object | Live Image
+Rider ID: Rider ID    10031
+Rider ID    10031
+Name: 769, dtype: object | Live Image
+Rider ID: Rider ID    10033
+Rider ID    10033
+Name: 770, dtype: object | Live Image
+Rider ID: Rider ID    10034
+Rider ID    10034
+Name: 771, dtype: object | Live Image
+Rider ID: Rider ID    10045
+Rider ID    10045
+Name: 772, dtype: object | Live Image
+Rider ID: Rider ID    10046
+Rider ID    10046
+Name: 773, dtype: object | Live Image
+Rider ID: Rider ID    10048
+Rider ID    10048
+Name: 774, dtype: object | Live Image
+Rider ID: Rider ID    10054
+Rider ID    10054
+Name: 775, dtype: object | Live Image
+Rider ID: Rider ID    10062
+Rider ID    10062
+Name: 776, dtype: object | Live Image
+Rider ID: Rider ID    10066
+Rider ID    10066
+Name: 777, dtype: object | Live Image
+Rider ID: Rider ID    10069
+Rider ID    10069
+Name: 778, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    10083
+Rider ID    10083
+Name: 779, dtype: object | Live Image
+Rider ID: Rider ID    10087
+Rider ID    10087
+Name: 780, dtype: object | Blurry Image
+Rider ID: Rider ID    10101
+Rider ID    10101
+Name: 781, dtype: object | Live Image
+Rider ID: Rider ID    10107
+Rider ID    10107
+Name: 782, dtype: object | Live Image
+Rider ID: Rider ID    10108
+Rider ID    10108
+Name: 783, dtype: object | Live Image
+Rider ID: Rider ID    10110
+Rider ID    10110
+Name: 784, dtype: object | Live Image
+Rider ID: Rider ID    10112
+Rider ID    10112
+Name: 785, dtype: object | Live Image
+Rider ID: Rider ID    10115
+Rider ID    10115
+Name: 786, dtype: object | Live Image
+Rider ID: Rider ID    10120
+Rider ID    10120
+Name: 787, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    10121
+Rider ID    10121
+Name: 788, dtype: object | Blurry Image
+Rider ID: Rider ID    10128
+Rider ID    10128
+Name: 789, dtype: object | Live Image
+Rider ID: Rider ID    10136
+Rider ID    10136
+Name: 790, dtype: object | Live Image
+Rider ID: Rider ID    10143
+Rider ID    10143
+Name: 791, dtype: object | Live Image
+Rider ID: Rider ID    10144
+Rider ID    10144
+Name: 792, dtype: object | Live Image
+Rider ID: Rider ID    10146
+Rider ID    10146
+Name: 793, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    10150
+Rider ID    10150
+Name: 794, dtype: object | Live Image
+Rider ID: Rider ID    10152
+Rider ID    10152
+Name: 795, dtype: object | Live Image
+Rider ID: Rider ID    10157
+Rider ID    10157
+Name: 796, dtype: object | Live Image
+Rider ID: Rider ID    10159
+Rider ID    10159
+Name: 797, dtype: object | Blurry Image
+Rider ID: Rider ID    10161
+Rider ID    10161
+Name: 798, dtype: object | Blurry Image
+Rider ID: Rider ID    10166
+Rider ID    10166
+Name: 799, dtype: object | Live Image
+Rider ID: Rider ID    10167
+Rider ID    10167
+Name: 800, dtype: object | Live Image
+Rider ID: Rider ID    10168
+Rider ID    10168
+Name: 801, dtype: object | Live Image
+Rider ID: Rider ID    10171
+Rider ID    10171
+Name: 802, dtype: object | Live Image
+Rider ID: Rider ID    10177
+Rider ID    10177
+Name: 803, dtype: object | Live Image
+Rider ID: Rider ID    10183
+Rider ID    10183
+Name: 804, dtype: object | Live Image
+Rider ID: Rider ID    10186
+Rider ID    10186
+Name: 805, dtype: object | Blurry Image
+Rider ID: Rider ID    10187
+Rider ID    10187
+Name: 806, dtype: object | Live Image
+Rider ID: Rider ID    10189
+Rider ID    10189
+Name: 807, dtype: object | Blurry Image
+Rider ID: Rider ID    10191
+Rider ID    10191
+Name: 808, dtype: object | Live Image
+Rider ID: Rider ID    10201
+Rider ID    10201
+Name: 809, dtype: object | Live Image
+Rider ID: Rider ID    10202
+Rider ID    10202
+Name: 810, dtype: object | Live Image
+Rider ID: Rider ID    10210
+Rider ID    10210
+Name: 811, dtype: object | Live Image
+Rider ID: Rider ID    10213
+Rider ID    10213
+Name: 812, dtype: object | Live Image
+Rider ID: Rider ID    10215
+Rider ID    10215
+Name: 813, dtype: object | Live Image
+Rider ID: Rider ID    10216
+Rider ID    10216
+Name: 814, dtype: object | Live Image
+Rider ID: Rider ID    10221
+Rider ID    10221
+Name: 815, dtype: object | Live Image
+Rider ID: Rider ID    10223
+Rider ID    10223
+Name: 816, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    10232
+Rider ID    10232
+Name: 817, dtype: object | Live Image
+Rider ID: Rider ID    10235
+Rider ID    10235
+Name: 818, dtype: object | Live Image
+Rider ID: Rider ID    10238
+Rider ID    10238
+Name: 819, dtype: object | Live Image
+Rider ID: Rider ID    10242
+Rider ID    10242
+Name: 820, dtype: object | Live Image
+Rider ID: Rider ID    10246
+Rider ID    10246
+Name: 821, dtype: object | Live Image
+Rider ID: Rider ID    10254
+Rider ID    10254
+Name: 822, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    10255
+Rider ID    10255
+Name: 823, dtype: object | Live Image
+Rider ID: Rider ID    10255
+Rider ID    10255
+Name: 824, dtype: object | Live Image
+Rider ID: Rider ID    10262
+Rider ID    10262
+Name: 825, dtype: object | Live Image
+Rider ID: Rider ID    10272
+Rider ID    10272
+Name: 826, dtype: object | Live Image
+Rider ID: Rider ID    10276
+Rider ID    10276
+Name: 827, dtype: object | Live Image
+Rider ID: Rider ID    10277
+Rider ID    10277
+Name: 828, dtype: object | Live Image
+Rider ID: Rider ID    10280
+Rider ID    10280
+Name: 829, dtype: object | Live Image
+Rider ID: Rider ID    10283
+Rider ID    10283
+Name: 830, dtype: object | Live Image
+Rider ID: Rider ID    10284
+Rider ID    10284
+Name: 831, dtype: object | Live Image
+Rider ID: Rider ID    10285
+Rider ID    10285
+Name: 832, dtype: object | Live Image
+Rider ID: Rider ID    10285
+Rider ID    10285
+Name: 833, dtype: object | Live Image
+Rider ID: Rider ID    10287
+Rider ID    10287
+Name: 834, dtype: object | Live Image
+Rider ID: Rider ID    10288
+Rider ID    10288
+Name: 835, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    10292
+Rider ID    10292
+Name: 836, dtype: object | Blurry Image
+Rider ID: Rider ID    10297
+Rider ID    10297
+Name: 837, dtype: object | Live Image
+Rider ID: Rider ID    10298
+Rider ID    10298
+Name: 838, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    10299
+Rider ID    10299
+Name: 839, dtype: object | Live Image
+Rider ID: Rider ID    10300
+Rider ID    10300
+Name: 840, dtype: object | Live Image
+Rider ID: Rider ID    10301
+Rider ID    10301
+Name: 841, dtype: object | Live Image
+Rider ID: Rider ID    10304
+Rider ID    10304
+Name: 842, dtype: object | Live Image
+Rider ID: Rider ID    10305
+Rider ID    10305
+Name: 843, dtype: object | Live Image
+Rider ID: Rider ID    10311
+Rider ID    10311
+Name: 844, dtype: object | Live Image
+Rider ID: Rider ID    10314
+Rider ID    10314
+Name: 845, dtype: object | Blurry Image
+Rider ID: Rider ID    10316
+Rider ID    10316
+Name: 846, dtype: object | Live Image
+Rider ID: Rider ID    10321
+Rider ID    10321
+Name: 847, dtype: object | Live Image
+Rider ID: Rider ID    10324
+Rider ID    10324
+Name: 848, dtype: object | Live Image
+Rider ID: Rider ID    10327
+Rider ID    10327
+Name: 849, dtype: object | Live Image
+Rider ID: Rider ID    10329
+Rider ID    10329
+Name: 850, dtype: object | Live Image
+Rider ID: Rider ID    10332
+Rider ID    10332
+Name: 851, dtype: object | Live Image
+Rider ID: Rider ID    10335
+Rider ID    10335
+Name: 852, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    10336
+Rider ID    10336
+Name: 853, dtype: object | Live Image
+Rider ID: Rider ID    10340
+Rider ID    10340
+Name: 854, dtype: object | Live Image
+Rider ID: Rider ID    10342
+Rider ID    10342
+Name: 855, dtype: object | Live Image
+Rider ID: Rider ID    10347
+Rider ID    10347
+Name: 856, dtype: object | Live Image
+Rider ID: Rider ID    10348
+Rider ID    10348
+Name: 857, dtype: object | Live Image
+Rider ID: Rider ID    10362
+Rider ID    10362
+Name: 858, dtype: object | Live Image
+Rider ID: Rider ID    10363
+Rider ID    10363
+Name: 859, dtype: object | Live Image
+Rider ID: Rider ID    10364
+Rider ID    10364
+Name: 860, dtype: object | Live Image
+Rider ID: Rider ID    10368
+Rider ID    10368
+Name: 861, dtype: object | Live Image
+Rider ID: Rider ID    10370
+Rider ID    10370
+Name: 862, dtype: object | Live Image
+Rider ID: Rider ID    10372
+Rider ID    10372
+Name: 863, dtype: object | Live Image
+Rider ID: Rider ID    10376
+Rider ID    10376
+Name: 864, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    10377
+Rider ID    10377
+Name: 865, dtype: object | Live Image
+Rider ID: Rider ID    10378
+Rider ID    10378
+Name: 866, dtype: object | Live Image
+Rider ID: Rider ID    10379
+Rider ID    10379
+Name: 867, dtype: object | Live Image
+Rider ID: Rider ID    10381
+Rider ID    10381
+Name: 868, dtype: object | Live Image
+Rider ID: Rider ID    10382
+Rider ID    10382
+Name: 869, dtype: object | Live Image
+Rider ID: Rider ID    10383
+Rider ID    10383
+Name: 870, dtype: object | Live Image
+Rider ID: Rider ID    10384
+Rider ID    10384
+Name: 871, dtype: object | Live Image
+Rider ID: Rider ID    10385
+Rider ID    10385
+Name: 872, dtype: object | Live Image
+Rider ID: Rider ID    10386
+Rider ID    10386
+Name: 873, dtype: object | Live Image
+Rider ID: Rider ID    10388
+Rider ID    10388
+Name: 874, dtype: object | Live Image
+Rider ID: Rider ID    10389
+Rider ID    10389
+Name: 875, dtype: object | Live Image
+Rider ID: Rider ID    10391
+Rider ID    10391
+Name: 876, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    10394
+Rider ID    10394
+Name: 877, dtype: object | Blurry Image
+Rider ID: Rider ID    10395
+Rider ID    10395
+Name: 878, dtype: object | Live Image
+Rider ID: Rider ID    10397
+Rider ID    10397
+Name: 879, dtype: object | Live Image
+Rider ID: Rider ID    10399
+Rider ID    10399
+Name: 880, dtype: object | Live Image
+Rider ID: Rider ID    10400
+Rider ID    10400
+Name: 881, dtype: object | Live Image
+Rider ID: Rider ID    10402
+Rider ID    10402
+Name: 882, dtype: object | Blurry Image
+Rider ID: Rider ID    10403
+Rider ID    10403
+Name: 883, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    10405
+Rider ID    10405
+Name: 884, dtype: object | Live Image
+Rider ID: Rider ID    10406
+Rider ID    10406
+Name: 885, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    10407
+Rider ID    10407
+Name: 886, dtype: object | Live Image
+Rider ID: Rider ID    10409
+Rider ID    10409
+Name: 887, dtype: object | Live Image
+Rider ID: Rider ID    10413
+Rider ID    10413
+Name: 888, dtype: object | Live Image
+Rider ID: Rider ID    10415
+Rider ID    10415
+Name: 889, dtype: object | Live Image
+Rider ID: Rider ID    10417
+Rider ID    10417
+Name: 890, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    10421
+Rider ID    10421
+Name: 891, dtype: object | Live Image
+Rider ID: Rider ID    10423
+Rider ID    10423
+Name: 892, dtype: object | Live Image
+Rider ID: Rider ID    10428
+Rider ID    10428
+Name: 893, dtype: object | Blurry Image
+Rider ID: Rider ID    10429
+Rider ID    10429
+Name: 894, dtype: object | Live Image
+Rider ID: Rider ID    10430
+Rider ID    10430
+Name: 895, dtype: object | Live Image
+Rider ID: Rider ID    10439
+Rider ID    10439
+Name: 896, dtype: object | Live Image
+Rider ID: Rider ID    10441
+Rider ID    10441
+Name: 897, dtype: object | Live Image
+Rider ID: Rider ID    10442
+Rider ID    10442
+Name: 898, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    10444
+Rider ID    10444
+Name: 899, dtype: object | Live Image
+Rider ID: Rider ID    10455
+Rider ID    10455
+Name: 900, dtype: object | Live Image
+Rider ID: Rider ID    10456
+Rider ID    10456
+Name: 901, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    10457
+Rider ID    10457
+Name: 902, dtype: object | Live Image
+Rider ID: Rider ID    10458
+Rider ID    10458
+Name: 903, dtype: object | Live Image
+Rider ID: Rider ID    10460
+Rider ID    10460
+Name: 904, dtype: object | Live Image
+Rider ID: Rider ID    10463
+Rider ID    10463
+Name: 905, dtype: object | Live Image
+Rider ID: Rider ID    10466
+Rider ID    10466
+Name: 906, dtype: object | Live Image
+Rider ID: Rider ID    10467
+Rider ID    10467
+Name: 907, dtype: object | Blurry Image
+Rider ID: Rider ID    10468
+Rider ID    10468
+Name: 908, dtype: object | Blurry Image
+Rider ID: Rider ID    10469
+Rider ID    10469
+Name: 909, dtype: object | Live Image
+Rider ID: Rider ID    10472
+Rider ID    10472
+Name: 910, dtype: object | Live Image
+Rider ID: Rider ID    10473
+Rider ID    10473
+Name: 911, dtype: object | Live Image
+Rider ID: Rider ID    10476
+Rider ID    10476
+Name: 912, dtype: object | Live Image
+Rider ID: Rider ID    10478
+Rider ID    10478
+Name: 913, dtype: object | Live Image
+Rider ID: Rider ID    10479
+Rider ID    10479
+Name: 914, dtype: object | Live Image
+Rider ID: Rider ID    10481
+Rider ID    10481
+Name: 915, dtype: object | Live Image
+Rider ID: Rider ID    10483
+Rider ID    10483
+Name: 916, dtype: object | Live Image
+Rider ID: Rider ID    10484
+Rider ID    10484
+Name: 917, dtype: object | Live Image
+Rider ID: Rider ID    10485
+Rider ID    10485
+Name: 918, dtype: object | Live Image
+Rider ID: Rider ID    10486
+Rider ID    10486
+Name: 919, dtype: object | Live Image
+Rider ID: Rider ID    10487
+Rider ID    10487
+Name: 920, dtype: object | Live Image
+Rider ID: Rider ID    10488
+Rider ID    10488
+Name: 921, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    10489
+Rider ID    10489
+Name: 922, dtype: object | Live Image
+Rider ID: Rider ID    10492
+Rider ID    10492
+Name: 923, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    10496
+Rider ID    10496
+Name: 924, dtype: object | Live Image
+Rider ID: Rider ID    10497
+Rider ID    10497
+Name: 925, dtype: object | Live Image
+Rider ID: Rider ID    10500
+Rider ID    10500
+Name: 926, dtype: object | Live Image
+Rider ID: Rider ID    10501
+Rider ID    10501
+Name: 927, dtype: object | Blurry Image
+Rider ID: Rider ID    10504
+Rider ID    10504
+Name: 928, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    10510
+Rider ID    10510
+Name: 929, dtype: object | Live Image
+Rider ID: Rider ID    10512
+Rider ID    10512
+Name: 930, dtype: object | Live Image
+Rider ID: Rider ID    10514
+Rider ID    10514
+Name: 931, dtype: object | Live Image
+Rider ID: Rider ID    10520
+Rider ID    10520
+Name: 932, dtype: object | Live Image
+Rider ID: Rider ID    10522
+Rider ID    10522
+Name: 933, dtype: object | Live Image
+Rider ID: Rider ID    10523
+Rider ID    10523
+Name: 934, dtype: object | Live Image
+Rider ID: Rider ID    10525
+Rider ID    10525
+Name: 935, dtype: object | Live Image
+Rider ID: Rider ID    10526
+Rider ID    10526
+Name: 936, dtype: object | Live Image
+Rider ID: Rider ID    10527
+Rider ID    10527
+Name: 937, dtype: object | Live Image
+Rider ID: Rider ID    10530
+Rider ID    10530
+Name: 938, dtype: object | Live Image
+Rider ID: Rider ID    10531
+Rider ID    10531
+Name: 939, dtype: object | Live Image
+Rider ID: Rider ID    10532
+Rider ID    10532
+Name: 940, dtype: object | Live Image
+Rider ID: Rider ID    10534
+Rider ID    10534
+Name: 941, dtype: object | Live Image
+Rider ID: Rider ID    10540
+Rider ID    10540
+Name: 942, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    10543
+Rider ID    10543
+Name: 943, dtype: object | Live Image
+Rider ID: Rider ID    10547
+Rider ID    10547
+Name: 944, dtype: object | Live Image
+Rider ID: Rider ID    10551
+Rider ID    10551
+Name: 945, dtype: object | Live Image
+Rider ID: Rider ID    10553
+Rider ID    10553
+Name: 946, dtype: object | Blurry Image
+Rider ID: Rider ID    10556
+Rider ID    10556
+Name: 947, dtype: object | Live Image
+Rider ID: Rider ID    10559
+Rider ID    10559
+Name: 948, dtype: object | Blurry Image
+Rider ID: Rider ID    10561
+Rider ID    10561
+Name: 949, dtype: object | Live Image
+Rider ID: Rider ID    10562
+Rider ID    10562
+Name: 950, dtype: object | Live Image
+Rider ID: Rider ID    10563
+Rider ID    10563
+Name: 951, dtype: object | Live Image
+Rider ID: Rider ID    10571
+Rider ID    10571
+Name: 952, dtype: object | Blurry Image
+Rider ID: Rider ID    10574
+Rider ID    10574
+Name: 953, dtype: object | Live Image
+Rider ID: Rider ID    10579
+Rider ID    10579
+Name: 954, dtype: object | Live Image
+Rider ID: Rider ID    10580
+Rider ID    10580
+Name: 955, dtype: object | Live Image
+Rider ID: Rider ID    10581
+Rider ID    10581
+Name: 956, dtype: object | Live Image
+Rider ID: Rider ID    10583
+Rider ID    10583
+Name: 957, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    10584
+Rider ID    10584
+Name: 958, dtype: object | Live Image
+Rider ID: Rider ID    10585
+Rider ID    10585
+Name: 959, dtype: object | Live Image
+Rider ID: Rider ID    10586
+Rider ID    10586
+Name: 960, dtype: object | Live Image
+Rider ID: Rider ID    10590
+Rider ID    10590
+Name: 961, dtype: object | Live Image
+Rider ID: Rider ID    10591
+Rider ID    10591
+Name: 962, dtype: object | Live Image
+Rider ID: Rider ID    10592
+Rider ID    10592
+Name: 963, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    10592
+Rider ID    10592
+Name: 964, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    10596
+Rider ID    10596
+Name: 965, dtype: object | Live Image
+Rider ID: Rider ID    10597
+Rider ID    10597
+Name: 966, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    10598
+Rider ID    10598
+Name: 967, dtype: object | Live Image
+Rider ID: Rider ID    10600
+Rider ID    10600
+Name: 968, dtype: object | Live Image
+Rider ID: Rider ID    10603
+Rider ID    10603
+Name: 969, dtype: object | Live Image
+Rider ID: Rider ID    10605
+Rider ID    10605
+Name: 970, dtype: object | Live Image
+Rider ID: Rider ID    10606
+Rider ID    10606
+Name: 971, dtype: object | Live Image
+Rider ID: Rider ID    10607
+Rider ID    10607
+Name: 972, dtype: object | Blurry Image
+Rider ID: Rider ID    10608
+Rider ID    10608
+Name: 973, dtype: object | Live Image
+Rider ID: Rider ID    10609
+Rider ID    10609
+Name: 974, dtype: object | Live Image
+Rider ID: Rider ID    10610
+Rider ID    10610
+Name: 975, dtype: object | Live Image
+Rider ID: Rider ID    10612
+Rider ID    10612
+Name: 976, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    10613
+Rider ID    10613
+Name: 977, dtype: object | Live Image
+Rider ID: Rider ID    10614
+Rider ID    10614
+Name: 978, dtype: object | Live Image
+Rider ID: Rider ID    10616
+Rider ID    10616
+Name: 979, dtype: object | Live Image
+Rider ID: Rider ID    10618
+Rider ID    10618
+Name: 980, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    10619
+Rider ID    10619
+Name: 981, dtype: object | Live Image
+Rider ID: Rider ID    10621
+Rider ID    10621
+Name: 982, dtype: object | Live Image
+Rider ID: Rider ID    10622
+Rider ID    10622
+Name: 983, dtype: object | Live Image
+Rider ID: Rider ID    10623
+Rider ID    10623
+Name: 984, dtype: object | Live Image
+Rider ID: Rider ID    10624
+Rider ID    10624
+Name: 985, dtype: object | Live Image
+Rider ID: Rider ID    10625
+Rider ID    10625
+Name: 986, dtype: object | Live Image
+Rider ID: Rider ID    10626
+Rider ID    10626
+Name: 987, dtype: object | Live Image
+Rider ID: Rider ID    10627
+Rider ID    10627
+Name: 988, dtype: object | Live Image
+Rider ID: Rider ID    10628
+Rider ID    10628
+Name: 989, dtype: object | Live Image
+Rider ID: Rider ID    10629
+Rider ID    10629
+Name: 990, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    10630
+Rider ID    10630
+Name: 991, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    10631
+Rider ID    10631
+Name: 992, dtype: object | Live Image
+Rider ID: Rider ID    10632
+Rider ID    10632
+Name: 993, dtype: object | Live Image
+Rider ID: Rider ID    10632
+Rider ID    10632
+Name: 994, dtype: object | Live Image
+Rider ID: Rider ID    10633
+Rider ID    10633
+Name: 995, dtype: object | Live Image
+Rider ID: Rider ID    10634
+Rider ID    10634
+Name: 996, dtype: object | Blurry Image
+Rider ID: Rider ID    10635
+Rider ID    10635
+Name: 997, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    10637
+Rider ID    10637
+Name: 998, dtype: object | Live Image
+Rider ID: Rider ID    10638
+Rider ID    10638
+Name: 999, dtype: object | Live Image
+Rider ID: Rider ID    10639
+Rider ID    10639
+Name: 1000, dtype: object | Live Image
+Rider ID: Rider ID    10640
+Rider ID    10640
+Name: 1001, dtype: object | Screen Glare Detected
+Rider ID: Rider ID    10641
+Rider ID    10641
+Name: 1002, dtype: object | Live Image
+Rider ID: Rider ID    10642
+Rider ID    10642
+Name: 1003, dtype: object | Live Image
+Rider ID: Rider ID    10643
+Rider ID    10643
+Name: 1004, dtype: object | Live Image
+Rider ID: Rider ID    10645
+Rider ID    10645
+Name: 1005, dtype: object | Screen Glare Detected

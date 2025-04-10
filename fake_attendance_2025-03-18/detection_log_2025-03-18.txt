@@ -1,0 +1,1006 @@
+845 - Moiré Pattern Detected | Brightness: 135.09, Moiré: 165.57, Sharpness: 37.65
+1000 - Screen Glare Detected | Brightness: 214.14, Moiré: 126.34, Sharpness: 2.01
+1014 - Moiré Pattern Detected | Brightness: 139.29, Moiré: 158.35, Sharpness: 21.52
+1016 - Screen Glare Detected | Brightness: 204.17, Moiré: 137.83, Sharpness: 4.95
+1023 - Moiré Pattern Detected | Brightness: 193.38, Moiré: 160.96, Sharpness: 19.81
+1024 - Moiré Pattern Detected | Brightness: 156.13, Moiré: 151.10, Sharpness: 12.37
+1084 - Live Image | Brightness: 187.97, Moiré: 146.80, Sharpness: 15.07
+1129 - Blurry Edges Detected | Brightness: 160.33, Moiré: 142.30, Sharpness: 8.89
+1132 - Moiré Pattern Detected | Brightness: 137.68, Moiré: 151.18, Sharpness: 12.95
+1143 - Moiré Pattern Detected | Brightness: 122.16, Moiré: 161.02, Sharpness: 31.45
+1170 - Blurry Edges Detected | Brightness: 167.80, Moiré: 137.69, Sharpness: 7.34
+1218 - Moiré Pattern Detected | Brightness: 180.01, Moiré: 158.30, Sharpness: 13.38
+1224 - Screen Glare Detected | Brightness: 211.06, Moiré: 150.65, Sharpness: 8.27
+1298 - Moiré Pattern Detected | Brightness: 172.13, Moiré: 150.71, Sharpness: 19.02
+1335 - Moiré Pattern Detected | Brightness: 181.87, Moiré: 152.29, Sharpness: 12.48
+1336 - Moiré Pattern Detected | Brightness: 137.14, Moiré: 160.66, Sharpness: 31.46
+1340 - Moiré Pattern Detected | Brightness: 177.53, Moiré: 163.02, Sharpness: 8.21
+1346 - Live Image | Brightness: 196.08, Moiré: 147.84, Sharpness: 19.34
+1397 - Moiré Pattern Detected | Brightness: 168.30, Moiré: 154.17, Sharpness: 15.07
+1436 - Moiré Pattern Detected | Brightness: 170.30, Moiré: 154.60, Sharpness: 19.31
+1442 - Moiré Pattern Detected | Brightness: 171.22, Moiré: 159.30, Sharpness: 33.83
+1480 - Moiré Pattern Detected | Brightness: 195.89, Moiré: 163.20, Sharpness: 26.38
+1497 - Moiré Pattern Detected | Brightness: 191.01, Moiré: 153.16, Sharpness: 13.45
+1586 - Moiré Pattern Detected | Brightness: 174.63, Moiré: 152.07, Sharpness: 8.69
+1650 - Moiré Pattern Detected | Brightness: 187.20, Moiré: 171.66, Sharpness: 47.21
+1696 - Blurry Edges Detected | Brightness: 74.72, Moiré: 127.07, Sharpness: 1.65
+1897 - Screen Glare Detected | Brightness: 202.38, Moiré: 140.89, Sharpness: 6.21
+1930 - Moiré Pattern Detected | Brightness: 165.19, Moiré: 163.01, Sharpness: 17.47
+1936 - Screen Glare Detected | Brightness: 223.24, Moiré: 151.43, Sharpness: 16.82
+1966 - Blurry Edges Detected | Brightness: 187.88, Moiré: 138.24, Sharpness: 1.06
+1967 - Screen Glare Detected | Brightness: 219.14, Moiré: 139.84, Sharpness: 4.71
+1968 - Blurry Edges Detected | Brightness: 96.86, Moiré: 138.62, Sharpness: 5.80
+2005 - Blurry Edges Detected | Brightness: 171.03, Moiré: 147.07, Sharpness: 7.19
+2015 - Blurry Edges Detected | Brightness: 114.12, Moiré: 147.85, Sharpness: 4.10
+2047 - Screen Glare Detected | Brightness: 205.72, Moiré: 159.75, Sharpness: 21.31
+2087 - Blurry Edges Detected | Brightness: 163.12, Moiré: 140.13, Sharpness: 7.99
+2165 - Moiré Pattern Detected | Brightness: 162.23, Moiré: 158.59, Sharpness: 18.66
+2180 - Moiré Pattern Detected | Brightness: 145.53, Moiré: 165.20, Sharpness: 17.95
+2185 - Screen Glare Detected | Brightness: 228.56, Moiré: 159.02, Sharpness: 16.35
+2191 - Live Image | Brightness: 186.73, Moiré: 141.88, Sharpness: 10.22
+2192 - Blurry Edges Detected | Brightness: 59.56, Moiré: 129.61, Sharpness: 6.15
+2208 - Moiré Pattern Detected | Brightness: 143.98, Moiré: 153.61, Sharpness: 20.14
+2244 - Live Image | Brightness: 167.46, Moiré: 149.75, Sharpness: 13.69
+2279 - Live Image | Brightness: 73.78, Moiré: 147.81, Sharpness: 10.51
+2293 - Moiré Pattern Detected | Brightness: 153.46, Moiré: 160.32, Sharpness: 16.10
+2359 - Live Image | Brightness: 67.00, Moiré: 143.90, Sharpness: 10.23
+2418 - Screen Glare Detected | Brightness: 209.14, Moiré: 162.63, Sharpness: 21.52
+2430 - Screen Glare Detected | Brightness: 200.12, Moiré: 145.18, Sharpness: 5.57
+2448 - Moiré Pattern Detected | Brightness: 159.76, Moiré: 174.08, Sharpness: 20.81
+2454 - Moiré Pattern Detected | Brightness: 149.08, Moiré: 161.49, Sharpness: 40.45
+2491 - Moiré Pattern Detected | Brightness: 163.39, Moiré: 154.14, Sharpness: 13.06
+2515 - Blurry Edges Detected | Brightness: 114.49, Moiré: 145.84, Sharpness: 0.23
+2546 - Moiré Pattern Detected | Brightness: 99.49, Moiré: 155.82, Sharpness: 13.93
+2591 - Moiré Pattern Detected | Brightness: 159.77, Moiré: 154.28, Sharpness: 23.10
+2603 - Screen Glare Detected | Brightness: 222.84, Moiré: 130.93, Sharpness: 3.21
+2605 - Live Image | Brightness: 144.17, Moiré: 141.93, Sharpness: 12.17
+2617 - Screen Glare Detected | Brightness: 202.97, Moiré: 151.26, Sharpness: 8.41
+2625 - Live Image | Brightness: 170.20, Moiré: 149.66, Sharpness: 20.73
+2652 - Moiré Pattern Detected | Brightness: 169.19, Moiré: 154.17, Sharpness: 25.22
+2735 - Moiré Pattern Detected | Brightness: 185.77, Moiré: 155.23, Sharpness: 22.81
+2762 - Blurry Edges Detected | Brightness: 184.08, Moiré: 142.13, Sharpness: 4.04
+2775 - Blurry Edges Detected | Brightness: 158.70, Moiré: 145.54, Sharpness: 8.85
+2776 - Blurry Edges Detected | Brightness: 187.59, Moiré: 138.92, Sharpness: 5.16
+2801 - Moiré Pattern Detected | Brightness: 109.24, Moiré: 153.64, Sharpness: 20.22
+2812 - Moiré Pattern Detected | Brightness: 151.68, Moiré: 160.23, Sharpness: 20.61
+2837 - Moiré Pattern Detected | Brightness: 156.92, Moiré: 159.69, Sharpness: 34.72
+2859 - Live Image | Brightness: 182.21, Moiré: 137.23, Sharpness: 11.80
+2883 - Live Image | Brightness: 156.58, Moiré: 146.33, Sharpness: 14.41
+2918 - Blurry Edges Detected | Brightness: 175.20, Moiré: 136.66, Sharpness: 4.11
+3003 - Live Image | Brightness: 162.86, Moiré: 146.82, Sharpness: 10.01
+3015 - Moiré Pattern Detected | Brightness: 182.67, Moiré: 155.10, Sharpness: 17.56
+3044 - Moiré Pattern Detected | Brightness: 143.62, Moiré: 158.37, Sharpness: 21.12
+3053 - Moiré Pattern Detected | Brightness: 146.42, Moiré: 155.80, Sharpness: 22.54
+3061 - Moiré Pattern Detected | Brightness: 146.61, Moiré: 159.91, Sharpness: 29.74
+3093 - Screen Glare Detected | Brightness: 223.36, Moiré: 143.43, Sharpness: 7.73
+3095 - Live Image | Brightness: 69.10, Moiré: 135.61, Sharpness: 13.46
+3103 - Blurry Edges Detected | Brightness: 26.90, Moiré: 135.27, Sharpness: 5.88
+3104 - Moiré Pattern Detected | Brightness: 163.53, Moiré: 155.38, Sharpness: 18.00
+3129 - Blurry Edges Detected | Brightness: 129.63, Moiré: 147.52, Sharpness: 1.18
+3144 - Live Image | Brightness: 161.42, Moiré: 141.78, Sharpness: 18.15
+3147 - Moiré Pattern Detected | Brightness: 176.31, Moiré: 150.79, Sharpness: 17.83
+3153 - Moiré Pattern Detected | Brightness: 159.06, Moiré: 163.03, Sharpness: 27.49
+3173 - Screen Glare Detected | Brightness: 210.97, Moiré: 138.80, Sharpness: 8.53
+3191 - Blurry Edges Detected | Brightness: 186.84, Moiré: 148.53, Sharpness: 9.79
+3205 - Moiré Pattern Detected | Brightness: 159.90, Moiré: 153.21, Sharpness: 13.86
+3217 - Moiré Pattern Detected | Brightness: 107.35, Moiré: 178.78, Sharpness: 28.67
+3219 - Moiré Pattern Detected | Brightness: 168.87, Moiré: 151.67, Sharpness: 16.54
+3230 - Moiré Pattern Detected | Brightness: 154.69, Moiré: 153.69, Sharpness: 20.30
+3241 - Moiré Pattern Detected | Brightness: 178.06, Moiré: 161.99, Sharpness: 23.50
+3260 - Live Image | Brightness: 168.48, Moiré: 146.19, Sharpness: 11.96
+3262 - Screen Glare Detected | Brightness: 201.74, Moiré: 148.73, Sharpness: 10.67
+3276 - Screen Glare Detected | Brightness: 201.53, Moiré: 133.15, Sharpness: 6.01
+3299 - Screen Glare Detected | Brightness: 215.72, Moiré: 146.26, Sharpness: 8.20
+3302 - Blurry Edges Detected | Brightness: 193.78, Moiré: 128.85, Sharpness: 3.57
+3327 - Blurry Edges Detected | Brightness: 176.82, Moiré: 144.43, Sharpness: 6.89
+3336 - Screen Glare Detected | Brightness: 215.49, Moiré: 149.33, Sharpness: 9.20
+3352 - Moiré Pattern Detected | Brightness: 128.83, Moiré: 178.47, Sharpness: 84.56
+3353 - Blurry Edges Detected | Brightness: 164.17, Moiré: 122.28, Sharpness: 2.55
+3384 - Moiré Pattern Detected | Brightness: 169.59, Moiré: 167.11, Sharpness: 48.05
+3439 - Live Image | Brightness: 163.49, Moiré: 147.49, Sharpness: 11.07
+3464 - Moiré Pattern Detected | Brightness: 157.41, Moiré: 162.01, Sharpness: 35.55
+3467 - Blurry Edges Detected | Brightness: 192.87, Moiré: 125.37, Sharpness: 0.58
+3500 - Moiré Pattern Detected | Brightness: 157.22, Moiré: 150.67, Sharpness: 18.73
+3526 - Moiré Pattern Detected | Brightness: 154.79, Moiré: 152.32, Sharpness: 15.60
+3532 - Screen Glare Detected | Brightness: 207.47, Moiré: 142.35, Sharpness: 25.04
+3558 - Screen Glare Detected | Brightness: 220.20, Moiré: 134.26, Sharpness: 5.22
+3568 - Moiré Pattern Detected | Brightness: 169.38, Moiré: 159.41, Sharpness: 11.27
+3587 - Moiré Pattern Detected | Brightness: 73.37, Moiré: 152.14, Sharpness: 16.62
+3590 - Moiré Pattern Detected | Brightness: 118.89, Moiré: 151.62, Sharpness: 24.11
+3595 - Moiré Pattern Detected | Brightness: 155.38, Moiré: 151.82, Sharpness: 10.26
+3653 - Moiré Pattern Detected | Brightness: 174.06, Moiré: 158.12, Sharpness: 26.33
+3665 - Moiré Pattern Detected | Brightness: 70.65, Moiré: 156.68, Sharpness: 15.57
+3668 - Screen Glare Detected | Brightness: 209.21, Moiré: 153.57, Sharpness: 11.99
+3704 - Moiré Pattern Detected | Brightness: 149.16, Moiré: 171.96, Sharpness: 31.64
+3706 - Moiré Pattern Detected | Brightness: 162.21, Moiré: 160.51, Sharpness: 31.70
+3726 - Blurry Edges Detected | Brightness: 42.02, Moiré: 135.22, Sharpness: 5.40
+3728 - Moiré Pattern Detected | Brightness: 181.82, Moiré: 150.57, Sharpness: 11.73
+3735 - Moiré Pattern Detected | Brightness: 102.46, Moiré: 151.93, Sharpness: 9.73
+3735 - Moiré Pattern Detected | Brightness: 102.46, Moiré: 151.93, Sharpness: 9.73
+3752 - Moiré Pattern Detected | Brightness: 188.33, Moiré: 150.59, Sharpness: 12.10
+3773 - Blurry Edges Detected | Brightness: 137.18, Moiré: 144.09, Sharpness: 5.82
+3793 - Live Image | Brightness: 158.92, Moiré: 149.71, Sharpness: 14.14
+3823 - Moiré Pattern Detected | Brightness: 191.88, Moiré: 157.23, Sharpness: 15.80
+3824 - Moiré Pattern Detected | Brightness: 163.43, Moiré: 150.78, Sharpness: 9.65
+3835 - Moiré Pattern Detected | Brightness: 143.29, Moiré: 155.99, Sharpness: 15.24
+3893 - Moiré Pattern Detected | Brightness: 115.59, Moiré: 166.74, Sharpness: 23.25
+3911 - Blurry Edges Detected | Brightness: 157.32, Moiré: 144.91, Sharpness: 8.77
+3912 - Moiré Pattern Detected | Brightness: 163.62, Moiré: 150.07, Sharpness: 10.42
+3941 - Blurry Edges Detected | Brightness: 73.26, Moiré: 134.08, Sharpness: 5.97
+3960 - Blurry Edges Detected | Brightness: 126.97, Moiré: 145.86, Sharpness: 7.51
+3968 - Moiré Pattern Detected | Brightness: 116.55, Moiré: 155.57, Sharpness: 23.02
+4009 - Screen Glare Detected | Brightness: 206.41, Moiré: 144.07, Sharpness: 12.02
+4010 - Moiré Pattern Detected | Brightness: 143.52, Moiré: 169.75, Sharpness: 38.57
+4012 - Moiré Pattern Detected | Brightness: 167.63, Moiré: 153.91, Sharpness: 22.38
+4021 - Live Image | Brightness: 197.07, Moiré: 144.86, Sharpness: 11.79
+4030 - Live Image | Brightness: 115.64, Moiré: 143.58, Sharpness: 13.76
+4045 - Moiré Pattern Detected | Brightness: 98.35, Moiré: 153.67, Sharpness: 19.19
+4048 - Screen Glare Detected | Brightness: 220.79, Moiré: 151.83, Sharpness: 14.21
+4053 - Moiré Pattern Detected | Brightness: 131.74, Moiré: 162.55, Sharpness: 30.29
+4054 - Blurry Edges Detected | Brightness: 174.07, Moiré: 135.21, Sharpness: 4.26
+4055 - Live Image | Brightness: 144.91, Moiré: 148.26, Sharpness: 14.94
+4063 - Screen Glare Detected | Brightness: 218.14, Moiré: 166.34, Sharpness: 25.05
+4064 - Screen Glare Detected | Brightness: 204.00, Moiré: 162.23, Sharpness: 23.30
+4067 - Live Image | Brightness: 193.95, Moiré: 148.81, Sharpness: 11.77
+4068 - Moiré Pattern Detected | Brightness: 193.01, Moiré: 150.30, Sharpness: 15.15
+4099 - Moiré Pattern Detected | Brightness: 160.08, Moiré: 153.69, Sharpness: 19.07
+4103 - Blurry Edges Detected | Brightness: 141.12, Moiré: 142.35, Sharpness: 5.52
+4136 - Moiré Pattern Detected | Brightness: 148.29, Moiré: 157.68, Sharpness: 16.88
+4142 - Moiré Pattern Detected | Brightness: 186.18, Moiré: 150.06, Sharpness: 15.55
+4155 - Moiré Pattern Detected | Brightness: 174.93, Moiré: 165.34, Sharpness: 23.87
+4161 - Blurry Edges Detected | Brightness: 199.11, Moiré: 140.09, Sharpness: 5.46
+4164 - Moiré Pattern Detected | Brightness: 152.56, Moiré: 167.20, Sharpness: 38.76
+4192 - Moiré Pattern Detected | Brightness: 177.32, Moiré: 162.92, Sharpness: 23.50
+4194 - Moiré Pattern Detected | Brightness: 89.59, Moiré: 172.04, Sharpness: 45.13
+4210 - Blurry Edges Detected | Brightness: 194.37, Moiré: 145.13, Sharpness: 8.23
+4248 - Blurry Edges Detected | Brightness: 186.98, Moiré: 132.32, Sharpness: 2.94
+4262 - Screen Glare Detected | Brightness: 201.25, Moiré: 154.83, Sharpness: 9.45
+4264 - Moiré Pattern Detected | Brightness: 157.69, Moiré: 164.16, Sharpness: 34.28
+4272 - Blurry Edges Detected | Brightness: 183.32, Moiré: 126.92, Sharpness: 3.01
+4273 - Blurry Edges Detected | Brightness: 170.12, Moiré: 137.89, Sharpness: 5.55
+4282 - Blurry Edges Detected | Brightness: 189.43, Moiré: 125.80, Sharpness: 1.30
+4290 - Screen Glare Detected | Brightness: 209.80, Moiré: 151.37, Sharpness: 9.90
+4294 - Blurry Edges Detected | Brightness: 176.49, Moiré: 121.34, Sharpness: 0.11
+4299 - Moiré Pattern Detected | Brightness: 183.02, Moiré: 160.07, Sharpness: 16.77
+4301 - Moiré Pattern Detected | Brightness: 199.40, Moiré: 165.46, Sharpness: 36.50
+4317 - Moiré Pattern Detected | Brightness: 167.27, Moiré: 151.62, Sharpness: 16.13
+4318 - Moiré Pattern Detected | Brightness: 156.62, Moiré: 151.26, Sharpness: 12.69
+4358 - Live Image | Brightness: 187.90, Moiré: 148.32, Sharpness: 15.02
+4396 - Screen Glare Detected | Brightness: 229.58, Moiré: 147.98, Sharpness: 11.19
+4400 - Blurry Edges Detected | Brightness: 190.93, Moiré: 148.36, Sharpness: 8.01
+4400 - Blurry Edges Detected | Brightness: 190.93, Moiré: 148.36, Sharpness: 8.01
+4405 - Moiré Pattern Detected | Brightness: 174.85, Moiré: 153.27, Sharpness: 11.67
+4450 - Moiré Pattern Detected | Brightness: 150.24, Moiré: 152.37, Sharpness: 14.57
+4460 - Screen Glare Detected | Brightness: 216.30, Moiré: 142.76, Sharpness: 8.51
+4464 - Moiré Pattern Detected | Brightness: 163.06, Moiré: 153.06, Sharpness: 18.81
+4507 - Screen Glare Detected | Brightness: 201.25, Moiré: 152.42, Sharpness: 18.12
+4508 - Blurry Edges Detected | Brightness: 162.62, Moiré: 137.40, Sharpness: 6.13
+4514 - Blurry Edges Detected | Brightness: 161.43, Moiré: 127.30, Sharpness: 5.16
+4523 - Blurry Edges Detected | Brightness: 151.66, Moiré: 117.66, Sharpness: 1.00
+4526 - Moiré Pattern Detected | Brightness: 92.19, Moiré: 154.32, Sharpness: 9.05
+4566 - Live Image | Brightness: 104.84, Moiré: 149.17, Sharpness: 15.26
+4581 - Moiré Pattern Detected | Brightness: 160.06, Moiré: 151.30, Sharpness: 13.03
+4583 - Screen Glare Detected | Brightness: 207.43, Moiré: 150.62, Sharpness: 10.99
+4591 - Moiré Pattern Detected | Brightness: 140.74, Moiré: 152.37, Sharpness: 13.33
+4603 - Blurry Edges Detected | Brightness: 135.99, Moiré: 140.66, Sharpness: 6.48
+4606 - Blurry Edges Detected | Brightness: 192.29, Moiré: 132.05, Sharpness: 3.76
+4640 - Blurry Edges Detected | Brightness: 94.15, Moiré: 140.66, Sharpness: 8.84
+4641 - Blurry Edges Detected | Brightness: 196.64, Moiré: 144.50, Sharpness: 9.34
+4681 - Moiré Pattern Detected | Brightness: 147.18, Moiré: 166.79, Sharpness: 3.97
+4706 - Blurry Edges Detected | Brightness: 173.22, Moiré: 146.79, Sharpness: 6.98
+4710 - Moiré Pattern Detected | Brightness: 111.40, Moiré: 163.36, Sharpness: 32.90
+4715 - Moiré Pattern Detected | Brightness: 171.36, Moiré: 156.10, Sharpness: 12.61
+4717 - Moiré Pattern Detected | Brightness: 108.80, Moiré: 161.56, Sharpness: 17.85
+4723 - Blurry Edges Detected | Brightness: 182.01, Moiré: 131.83, Sharpness: 0.46
+4755 - Blurry Edges Detected | Brightness: 163.58, Moiré: 143.19, Sharpness: 7.35
+4784 - Moiré Pattern Detected | Brightness: 161.48, Moiré: 169.42, Sharpness: 43.26
+4788 - Moiré Pattern Detected | Brightness: 188.02, Moiré: 161.82, Sharpness: 37.69
+4798 - Moiré Pattern Detected | Brightness: 191.34, Moiré: 156.65, Sharpness: 20.42
+4830 - Moiré Pattern Detected | Brightness: 188.08, Moiré: 156.32, Sharpness: 11.10
+4892 - Blurry Edges Detected | Brightness: 59.33, Moiré: 128.52, Sharpness: 5.29
+4897 - Moiré Pattern Detected | Brightness: 143.64, Moiré: 159.69, Sharpness: 39.77
+4924 - Live Image | Brightness: 155.35, Moiré: 149.58, Sharpness: 11.30
+4993 - Moiré Pattern Detected | Brightness: 149.54, Moiré: 150.16, Sharpness: 15.33
+5022 - Screen Glare Detected | Brightness: 203.28, Moiré: 142.40, Sharpness: 9.16
+5033 - Blurry Edges Detected | Brightness: 194.53, Moiré: 137.46, Sharpness: 4.68
+5076 - Moiré Pattern Detected | Brightness: 159.65, Moiré: 151.98, Sharpness: 5.93
+5086 - Blurry Edges Detected | Brightness: 178.50, Moiré: 136.47, Sharpness: 3.52
+5111 - Moiré Pattern Detected | Brightness: 174.02, Moiré: 161.61, Sharpness: 23.89
+5121 - Live Image | Brightness: 146.80, Moiré: 148.64, Sharpness: 13.39
+5132 - Moiré Pattern Detected | Brightness: 173.39, Moiré: 157.45, Sharpness: 23.86
+5204 - Screen Glare Detected | Brightness: 204.53, Moiré: 146.92, Sharpness: 9.05
+5215 - Live Image | Brightness: 177.29, Moiré: 143.17, Sharpness: 16.07
+5224 - Blurry Edges Detected | Brightness: 158.32, Moiré: 133.39, Sharpness: 4.35
+5244 - Live Image | Brightness: 163.13, Moiré: 148.03, Sharpness: 13.52
+5255 - Blurry Edges Detected | Brightness: 160.54, Moiré: 149.06, Sharpness: 7.15
+5312 - Moiré Pattern Detected | Brightness: 142.58, Moiré: 172.74, Sharpness: 38.01
+5316 - Blurry Edges Detected | Brightness: 167.74, Moiré: 122.01, Sharpness: 0.74
+5321 - Blurry Edges Detected | Brightness: 145.01, Moiré: 135.07, Sharpness: 4.78
+5338 - Moiré Pattern Detected | Brightness: 182.94, Moiré: 157.98, Sharpness: 28.49
+5356 - Moiré Pattern Detected | Brightness: 114.55, Moiré: 158.88, Sharpness: 17.01
+5364 - Moiré Pattern Detected | Brightness: 143.82, Moiré: 158.11, Sharpness: 26.18
+5369 - Live Image | Brightness: 192.76, Moiré: 141.00, Sharpness: 10.32
+5388 - Moiré Pattern Detected | Brightness: 187.73, Moiré: 161.06, Sharpness: 31.66
+5404 - Screen Glare Detected | Brightness: 219.37, Moiré: 157.46, Sharpness: 17.80
+5409 - Live Image | Brightness: 177.66, Moiré: 149.05, Sharpness: 15.56
+5414 - Moiré Pattern Detected | Brightness: 157.81, Moiré: 156.12, Sharpness: 20.16
+5416 - Moiré Pattern Detected | Brightness: 120.00, Moiré: 163.48, Sharpness: 27.22
+5421 - Moiré Pattern Detected | Brightness: 178.19, Moiré: 170.21, Sharpness: 38.66
+5423 - Moiré Pattern Detected | Brightness: 118.83, Moiré: 159.75, Sharpness: 26.56
+5425 - Moiré Pattern Detected | Brightness: 184.76, Moiré: 150.21, Sharpness: 21.91
+5434 - Moiré Pattern Detected | Brightness: 159.21, Moiré: 155.16, Sharpness: 24.26
+5442 - Moiré Pattern Detected | Brightness: 176.61, Moiré: 150.40, Sharpness: 7.13
+5453 - Blurry Edges Detected | Brightness: 145.50, Moiré: 142.06, Sharpness: 7.92
+5455 - Moiré Pattern Detected | Brightness: 131.62, Moiré: 161.90, Sharpness: 19.55
+5457 - Moiré Pattern Detected | Brightness: 172.18, Moiré: 151.97, Sharpness: 9.90
+5482 - Moiré Pattern Detected | Brightness: 125.29, Moiré: 150.92, Sharpness: 9.41
+5484 - Moiré Pattern Detected | Brightness: 153.35, Moiré: 162.45, Sharpness: 14.17
+5490 - Blurry Edges Detected | Brightness: 168.49, Moiré: 141.49, Sharpness: 4.02
+5503 - Moiré Pattern Detected | Brightness: 145.16, Moiré: 151.67, Sharpness: 13.16
+5512 - Moiré Pattern Detected | Brightness: 185.73, Moiré: 160.63, Sharpness: 11.28
+5542 - Moiré Pattern Detected | Brightness: 190.66, Moiré: 154.93, Sharpness: 7.80
+5543 - Blurry Edges Detected | Brightness: 67.43, Moiré: 124.78, Sharpness: 1.70
+5544 - Screen Glare Detected | Brightness: 208.17, Moiré: 136.51, Sharpness: 5.21
+5551 - Blurry Edges Detected | Brightness: 185.10, Moiré: 147.66, Sharpness: 7.86
+5567 - Live Image | Brightness: 132.91, Moiré: 145.83, Sharpness: 13.95
+5569 - Moiré Pattern Detected | Brightness: 161.48, Moiré: 155.31, Sharpness: 8.60
+5575 - Moiré Pattern Detected | Brightness: 148.17, Moiré: 153.93, Sharpness: 17.78
+5579 - Moiré Pattern Detected | Brightness: 194.73, Moiré: 154.59, Sharpness: 16.23
+5600 - Moiré Pattern Detected | Brightness: 139.47, Moiré: 152.88, Sharpness: 12.69
+5610 - Blurry Edges Detected | Brightness: 171.17, Moiré: 124.85, Sharpness: 0.38
+5612 - Screen Glare Detected | Brightness: 208.69, Moiré: 162.06, Sharpness: 28.68
+5619 - Moiré Pattern Detected | Brightness: 157.38, Moiré: 150.74, Sharpness: 12.97
+5628 - Blurry Edges Detected | Brightness: 123.89, Moiré: 144.51, Sharpness: 3.08
+5645 - Blurry Edges Detected | Brightness: 84.72, Moiré: 147.73, Sharpness: 8.47
+5657 - Blurry Edges Detected | Brightness: 94.81, Moiré: 141.77, Sharpness: 5.25
+5671 - Blurry Edges Detected | Brightness: 161.04, Moiré: 140.47, Sharpness: 3.53
+5673 - Moiré Pattern Detected | Brightness: 197.36, Moiré: 158.55, Sharpness: 20.69
+5685 - Screen Glare Detected | Brightness: 204.83, Moiré: 143.69, Sharpness: 6.07
+5691 - Blurry Edges Detected | Brightness: 195.08, Moiré: 145.92, Sharpness: 8.07
+5693 - Live Image | Brightness: 188.27, Moiré: 149.94, Sharpness: 19.26
+5695 - Moiré Pattern Detected | Brightness: 151.27, Moiré: 166.89, Sharpness: 26.57
+5699 - Live Image | Brightness: 141.58, Moiré: 148.78, Sharpness: 17.19
+5712 - Moiré Pattern Detected | Brightness: 199.30, Moiré: 153.05, Sharpness: 12.09
+5714 - Moiré Pattern Detected | Brightness: 113.42, Moiré: 164.99, Sharpness: 49.97
+5721 - Blurry Edges Detected | Brightness: 152.07, Moiré: 125.20, Sharpness: 0.18
+5722 - Moiré Pattern Detected | Brightness: 141.33, Moiré: 171.98, Sharpness: 38.29
+5724 - Moiré Pattern Detected | Brightness: 152.76, Moiré: 156.86, Sharpness: 18.80
+5753 - Live Image | Brightness: 140.26, Moiré: 146.03, Sharpness: 16.09
+5771 - Blurry Edges Detected | Brightness: 168.41, Moiré: 140.82, Sharpness: 4.54
+5775 - Live Image | Brightness: 161.57, Moiré: 149.00, Sharpness: 17.83
+5779 - Moiré Pattern Detected | Brightness: 197.17, Moiré: 150.78, Sharpness: 19.65
+5793 - Moiré Pattern Detected | Brightness: 161.40, Moiré: 165.36, Sharpness: 45.52
+5800 - Blurry Edges Detected | Brightness: 141.66, Moiré: 149.63, Sharpness: 7.74
+5819 - Blurry Edges Detected | Brightness: 199.83, Moiré: 147.35, Sharpness: 9.70
+5822 - Blurry Edges Detected | Brightness: 142.98, Moiré: 144.11, Sharpness: 9.04
+5828 - Blurry Edges Detected | Brightness: 64.21, Moiré: 140.86, Sharpness: 4.56
+5829 - Moiré Pattern Detected | Brightness: 183.72, Moiré: 163.36, Sharpness: 46.96
+5842 - Screen Glare Detected | Brightness: 231.54, Moiré: 149.69, Sharpness: 13.97
+5849 - Moiré Pattern Detected | Brightness: 128.93, Moiré: 150.02, Sharpness: 13.15
+5851 - Live Image | Brightness: 131.46, Moiré: 143.49, Sharpness: 16.69
+5857 - Moiré Pattern Detected | Brightness: 150.97, Moiré: 151.13, Sharpness: 14.38
+5862 - Moiré Pattern Detected | Brightness: 140.91, Moiré: 157.76, Sharpness: 17.50
+5872 - Moiré Pattern Detected | Brightness: 99.53, Moiré: 158.68, Sharpness: 13.58
+5875 - Moiré Pattern Detected | Brightness: 156.38, Moiré: 155.95, Sharpness: 31.94
+5880 - Blurry Edges Detected | Brightness: 62.41, Moiré: 143.54, Sharpness: 8.30
+5882 - Screen Glare Detected | Brightness: 200.99, Moiré: 159.44, Sharpness: 29.32
+5885 - Moiré Pattern Detected | Brightness: 149.03, Moiré: 153.90, Sharpness: 22.48
+5889 - Live Image | Brightness: 189.27, Moiré: 148.13, Sharpness: 12.02
+5896 - Live Image | Brightness: 152.87, Moiré: 149.68, Sharpness: 10.85
+5898 - Live Image | Brightness: 88.33, Moiré: 145.38, Sharpness: 12.12
+5929 - Moiré Pattern Detected | Brightness: 174.59, Moiré: 151.61, Sharpness: 11.71
+5953 - Moiré Pattern Detected | Brightness: 194.81, Moiré: 152.08, Sharpness: 14.08
+5954 - Moiré Pattern Detected | Brightness: 170.42, Moiré: 153.67, Sharpness: 12.91
+5960 - Moiré Pattern Detected | Brightness: 183.59, Moiré: 156.39, Sharpness: 14.66
+5961 - Blurry Edges Detected | Brightness: 187.59, Moiré: 144.36, Sharpness: 7.52
+5964 - Blurry Edges Detected | Brightness: 182.24, Moiré: 141.33, Sharpness: 5.36
+5966 - Moiré Pattern Detected | Brightness: 169.45, Moiré: 153.73, Sharpness: 11.26
+5977 - Moiré Pattern Detected | Brightness: 198.90, Moiré: 154.42, Sharpness: 18.26
+6003 - Moiré Pattern Detected | Brightness: 139.64, Moiré: 150.87, Sharpness: 14.33
+6010 - Live Image | Brightness: 160.73, Moiré: 149.32, Sharpness: 23.70
+6017 - Moiré Pattern Detected | Brightness: 121.52, Moiré: 157.39, Sharpness: 11.35
+6019 - Moiré Pattern Detected | Brightness: 105.66, Moiré: 155.96, Sharpness: 16.53
+6038 - Blurry Edges Detected | Brightness: 171.83, Moiré: 126.92, Sharpness: 2.15
+6044 - Screen Glare Detected | Brightness: 217.19, Moiré: 151.32, Sharpness: 10.66
+6060 - Blurry Edges Detected | Brightness: 164.60, Moiré: 147.81, Sharpness: 8.87
+6107 - Moiré Pattern Detected | Brightness: 131.72, Moiré: 161.33, Sharpness: 13.26
+6119 - Live Image | Brightness: 182.21, Moiré: 147.31, Sharpness: 11.75
+6129 - Moiré Pattern Detected | Brightness: 123.58, Moiré: 151.51, Sharpness: 12.47
+6156 - Moiré Pattern Detected | Brightness: 184.04, Moiré: 160.99, Sharpness: 27.03
+6172 - Moiré Pattern Detected | Brightness: 193.95, Moiré: 154.79, Sharpness: 12.66
+6187 - Blurry Edges Detected | Brightness: 190.15, Moiré: 148.78, Sharpness: 6.50
+6188 - Blurry Edges Detected | Brightness: 92.41, Moiré: 141.99, Sharpness: 8.14
+6225 - Blurry Edges Detected | Brightness: 121.03, Moiré: 138.51, Sharpness: 3.77
+6226 - Screen Glare Detected | Brightness: 201.20, Moiré: 140.60, Sharpness: 5.79
+6229 - Moiré Pattern Detected | Brightness: 152.55, Moiré: 158.13, Sharpness: 11.70
+6233 - Blurry Edges Detected | Brightness: 94.42, Moiré: 149.76, Sharpness: 5.61
+6238 - Screen Glare Detected | Brightness: 216.46, Moiré: 149.18, Sharpness: 12.90
+6244 - Screen Glare Detected | Brightness: 243.56, Moiré: 115.64, Sharpness: 0.03
+6257 - Screen Glare Detected | Brightness: 201.34, Moiré: 150.61, Sharpness: 11.12
+6258 - Blurry Edges Detected | Brightness: 143.81, Moiré: 147.66, Sharpness: 3.39
+6259 - Screen Glare Detected | Brightness: 209.74, Moiré: 143.62, Sharpness: 10.39
+6268 - Screen Glare Detected | Brightness: 203.29, Moiré: 159.63, Sharpness: 29.69
+6291 - Moiré Pattern Detected | Brightness: 191.85, Moiré: 152.65, Sharpness: 10.37
+6309 - Blurry Edges Detected | Brightness: 169.83, Moiré: 133.90, Sharpness: 5.73
+6330 - Moiré Pattern Detected | Brightness: 132.89, Moiré: 152.87, Sharpness: 18.60
+6358 - Moiré Pattern Detected | Brightness: 181.11, Moiré: 155.17, Sharpness: 20.95
+6359 - Blurry Edges Detected | Brightness: 93.39, Moiré: 146.37, Sharpness: 9.57
+6369 - Blurry Edges Detected | Brightness: 113.11, Moiré: 142.69, Sharpness: 8.02
+6369 - Live Image | Brightness: 111.67, Moiré: 147.41, Sharpness: 10.95
+6381 - Moiré Pattern Detected | Brightness: 142.08, Moiré: 153.63, Sharpness: 9.59
+6399 - Moiré Pattern Detected | Brightness: 176.88, Moiré: 155.32, Sharpness: 16.96
+6402 - Moiré Pattern Detected | Brightness: 120.79, Moiré: 158.05, Sharpness: 26.15
+6408 - Live Image | Brightness: 166.81, Moiré: 142.78, Sharpness: 11.47
+6409 - Moiré Pattern Detected | Brightness: 172.95, Moiré: 159.57, Sharpness: 34.05
+6442 - Live Image | Brightness: 77.91, Moiré: 142.78, Sharpness: 11.14
+6447 - Blurry Edges Detected | Brightness: 165.57, Moiré: 145.79, Sharpness: 8.56
+6461 - Moiré Pattern Detected | Brightness: 182.00, Moiré: 158.56, Sharpness: 18.32
+6463 - Moiré Pattern Detected | Brightness: 159.47, Moiré: 152.31, Sharpness: 9.50
+6464 - Blurry Edges Detected | Brightness: 152.59, Moiré: 142.76, Sharpness: 6.28
+6493 - Blurry Edges Detected | Brightness: 165.72, Moiré: 121.75, Sharpness: 0.76
+6517 - Moiré Pattern Detected | Brightness: 130.11, Moiré: 156.29, Sharpness: 24.48
+6539 - Screen Glare Detected | Brightness: 207.41, Moiré: 152.31, Sharpness: 11.36
+6541 - Moiré Pattern Detected | Brightness: 129.69, Moiré: 158.05, Sharpness: 23.04
+6543 - Moiré Pattern Detected | Brightness: 172.12, Moiré: 152.56, Sharpness: 20.77
+6545 - Live Image | Brightness: 156.52, Moiré: 149.79, Sharpness: 10.96
+6554 - Live Image | Brightness: 193.89, Moiré: 145.60, Sharpness: 18.14
+6555 - Blurry Edges Detected | Brightness: 183.26, Moiré: 142.64, Sharpness: 4.24
+6576 - Moiré Pattern Detected | Brightness: 142.39, Moiré: 155.69, Sharpness: 29.46
+6584 - Blurry Edges Detected | Brightness: 149.70, Moiré: 139.56, Sharpness: 8.36
+6590 - Blurry Edges Detected | Brightness: 149.46, Moiré: 115.97, Sharpness: 0.07
+6607 - Moiré Pattern Detected | Brightness: 137.90, Moiré: 151.03, Sharpness: 8.47
+6617 - Moiré Pattern Detected | Brightness: 161.72, Moiré: 151.90, Sharpness: 14.54
+6633 - Blurry Edges Detected | Brightness: 172.22, Moiré: 142.17, Sharpness: 9.82
+6654 - Moiré Pattern Detected | Brightness: 197.69, Moiré: 162.57, Sharpness: 29.36
+6659 - Screen Glare Detected | Brightness: 213.15, Moiré: 148.97, Sharpness: 12.24
+6669 - Moiré Pattern Detected | Brightness: 199.07, Moiré: 167.40, Sharpness: 27.26
+6674 - Screen Glare Detected | Brightness: 207.55, Moiré: 140.02, Sharpness: 6.86
+6712 - Moiré Pattern Detected | Brightness: 149.84, Moiré: 152.08, Sharpness: 10.17
+6735 - Blurry Edges Detected | Brightness: 186.27, Moiré: 149.86, Sharpness: 8.21
+6781 - Screen Glare Detected | Brightness: 207.59, Moiré: 152.05, Sharpness: 13.42
+6788 - Moiré Pattern Detected | Brightness: 119.01, Moiré: 177.75, Sharpness: 62.98
+6791 - Moiré Pattern Detected | Brightness: 132.88, Moiré: 159.50, Sharpness: 29.43
+6800 - Blurry Edges Detected | Brightness: 157.86, Moiré: 129.32, Sharpness: 4.43
+6808 - Screen Glare Detected | Brightness: 214.09, Moiré: 136.40, Sharpness: 3.31
+6818 - Moiré Pattern Detected | Brightness: 73.16, Moiré: 157.27, Sharpness: 17.72
+6825 - Moiré Pattern Detected | Brightness: 147.51, Moiré: 154.47, Sharpness: 22.17
+6829 - Blurry Edges Detected | Brightness: 160.56, Moiré: 149.42, Sharpness: 9.74
+6838 - Blurry Edges Detected | Brightness: 130.35, Moiré: 141.62, Sharpness: 7.46
+6850 - Moiré Pattern Detected | Brightness: 129.06, Moiré: 160.06, Sharpness: 25.20
+6872 - Screen Glare Detected | Brightness: 205.52, Moiré: 134.06, Sharpness: 4.97
+6889 - Screen Glare Detected | Brightness: 208.50, Moiré: 160.92, Sharpness: 17.69
+6894 - Moiré Pattern Detected | Brightness: 131.32, Moiré: 163.91, Sharpness: 7.49
+6905 - Moiré Pattern Detected | Brightness: 137.90, Moiré: 158.95, Sharpness: 18.42
+6910 - Screen Glare Detected | Brightness: 236.27, Moiré: 147.36, Sharpness: 5.94
+6948 - Moiré Pattern Detected | Brightness: 132.87, Moiré: 162.21, Sharpness: 8.94
+6949 - Blurry Edges Detected | Brightness: 198.56, Moiré: 148.69, Sharpness: 7.93
+6950 - Moiré Pattern Detected | Brightness: 135.81, Moiré: 151.90, Sharpness: 19.61
+6958 - Moiré Pattern Detected | Brightness: 138.28, Moiré: 159.68, Sharpness: 20.51
+6967 - Blurry Edges Detected | Brightness: 166.24, Moiré: 139.87, Sharpness: 5.85
+6988 - Moiré Pattern Detected | Brightness: 163.85, Moiré: 150.69, Sharpness: 7.91
+7028 - Moiré Pattern Detected | Brightness: 176.68, Moiré: 154.26, Sharpness: 18.09
+7038 - Moiré Pattern Detected | Brightness: 149.41, Moiré: 155.57, Sharpness: 14.35
+7056 - Screen Glare Detected | Brightness: 202.62, Moiré: 168.80, Sharpness: 27.31
+7071 - Moiré Pattern Detected | Brightness: 160.70, Moiré: 160.96, Sharpness: 20.89
+7073 - Screen Glare Detected | Brightness: 203.99, Moiré: 142.79, Sharpness: 8.69
+7080 - Moiré Pattern Detected | Brightness: 139.25, Moiré: 161.11, Sharpness: 24.66
+7127 - Moiré Pattern Detected | Brightness: 165.43, Moiré: 153.71, Sharpness: 11.83
+7159 - Live Image | Brightness: 198.15, Moiré: 142.82, Sharpness: 11.74
+7163 - Moiré Pattern Detected | Brightness: 189.90, Moiré: 170.04, Sharpness: 28.67
+7170 - Live Image | Brightness: 180.94, Moiré: 145.21, Sharpness: 10.64
+7197 - Live Image | Brightness: 170.22, Moiré: 140.39, Sharpness: 17.17
+7201 - Blurry Edges Detected | Brightness: 58.41, Moiré: 125.89, Sharpness: 2.11
+7203 - Blurry Edges Detected | Brightness: 167.47, Moiré: 146.55, Sharpness: 7.24
+7226 - Blurry Edges Detected | Brightness: 165.90, Moiré: 126.45, Sharpness: 0.24
+7248 - Moiré Pattern Detected | Brightness: 189.79, Moiré: 154.86, Sharpness: 12.50
+7264 - Moiré Pattern Detected | Brightness: 155.38, Moiré: 164.46, Sharpness: 16.01
+7267 - Moiré Pattern Detected | Brightness: 182.28, Moiré: 157.50, Sharpness: 16.75
+7276 - Moiré Pattern Detected | Brightness: 164.35, Moiré: 154.34, Sharpness: 8.16
+7284 - Moiré Pattern Detected | Brightness: 166.20, Moiré: 155.66, Sharpness: 3.87
+7293 - Moiré Pattern Detected | Brightness: 171.34, Moiré: 154.23, Sharpness: 19.99
+7298 - Blurry Edges Detected | Brightness: 157.38, Moiré: 148.56, Sharpness: 5.94
+7320 - Moiré Pattern Detected | Brightness: 167.11, Moiré: 174.40, Sharpness: 44.81
+7321 - Moiré Pattern Detected | Brightness: 198.79, Moiré: 152.57, Sharpness: 20.57
+7322 - Moiré Pattern Detected | Brightness: 177.07, Moiré: 153.85, Sharpness: 22.97
+7323 - Moiré Pattern Detected | Brightness: 182.06, Moiré: 156.13, Sharpness: 26.00
+7326 - Moiré Pattern Detected | Brightness: 146.22, Moiré: 166.70, Sharpness: 26.41
+7331 - Blurry Edges Detected | Brightness: 179.79, Moiré: 145.67, Sharpness: 8.50
+7335 - Screen Glare Detected | Brightness: 204.73, Moiré: 124.72, Sharpness: 1.00
+7336 - Moiré Pattern Detected | Brightness: 122.65, Moiré: 159.33, Sharpness: 35.32
+7357 - Moiré Pattern Detected | Brightness: 166.81, Moiré: 157.22, Sharpness: 29.34
+7372 - Moiré Pattern Detected | Brightness: 169.39, Moiré: 161.90, Sharpness: 29.08
+7377 - Moiré Pattern Detected | Brightness: 199.36, Moiré: 164.98, Sharpness: 23.25
+7410 - Moiré Pattern Detected | Brightness: 117.08, Moiré: 154.12, Sharpness: 12.95
+7412 - Screen Glare Detected | Brightness: 209.98, Moiré: 138.09, Sharpness: 6.52
+7434 - Moiré Pattern Detected | Brightness: 167.62, Moiré: 156.27, Sharpness: 19.74
+7461 - Blurry Edges Detected | Brightness: 42.14, Moiré: 140.14, Sharpness: 7.59
+7468 - Moiré Pattern Detected | Brightness: 125.40, Moiré: 154.99, Sharpness: 15.96
+7472 - Moiré Pattern Detected | Brightness: 182.41, Moiré: 153.46, Sharpness: 15.81
+7473 - Live Image | Brightness: 91.37, Moiré: 147.28, Sharpness: 10.33
+7474 - Blurry Edges Detected | Brightness: 187.38, Moiré: 147.29, Sharpness: 9.37
+7475 - Blurry Edges Detected | Brightness: 159.50, Moiré: 126.08, Sharpness: 0.45
+7476 - Moiré Pattern Detected | Brightness: 104.25, Moiré: 159.96, Sharpness: 20.19
+7495 - Moiré Pattern Detected | Brightness: 130.06, Moiré: 166.30, Sharpness: 31.04
+7502 - Screen Glare Detected | Brightness: 210.64, Moiré: 151.19, Sharpness: 12.79
+7504 - Blurry Edges Detected | Brightness: 42.98, Moiré: 143.90, Sharpness: 8.19
+7524 - Moiré Pattern Detected | Brightness: 113.29, Moiré: 150.91, Sharpness: 10.81
+7538 - Blurry Edges Detected | Brightness: 155.92, Moiré: 142.66, Sharpness: 6.86
+7544 - Blurry Edges Detected | Brightness: 182.93, Moiré: 124.24, Sharpness: 2.08
+7580 - Blurry Edges Detected | Brightness: 118.04, Moiré: 134.82, Sharpness: 4.47
+7597 - Live Image | Brightness: 176.88, Moiré: 148.13, Sharpness: 12.35
+7601 - Moiré Pattern Detected | Brightness: 92.75, Moiré: 159.15, Sharpness: 24.38
+7621 - Screen Glare Detected | Brightness: 209.17, Moiré: 169.23, Sharpness: 30.28
+7633 - Moiré Pattern Detected | Brightness: 144.61, Moiré: 182.47, Sharpness: 45.23
+7650 - Blurry Edges Detected | Brightness: 191.51, Moiré: 135.20, Sharpness: 8.98
+7663 - Blurry Edges Detected | Brightness: 108.64, Moiré: 146.74, Sharpness: 8.76
+7666 - Moiré Pattern Detected | Brightness: 198.17, Moiré: 163.55, Sharpness: 25.90
+7668 - Blurry Edges Detected | Brightness: 186.98, Moiré: 133.54, Sharpness: 5.07
+7684 - Screen Glare Detected | Brightness: 201.61, Moiré: 165.22, Sharpness: 18.44
+7687 - Blurry Edges Detected | Brightness: 89.23, Moiré: 138.25, Sharpness: 5.28
+7690 - Blurry Edges Detected | Brightness: 182.01, Moiré: 148.46, Sharpness: 6.73
+7691 - Blurry Edges Detected | Brightness: 194.20, Moiré: 138.26, Sharpness: 4.73
+7702 - Screen Glare Detected | Brightness: 204.81, Moiré: 148.91, Sharpness: 15.20
+7725 - Moiré Pattern Detected | Brightness: 179.61, Moiré: 167.75, Sharpness: 28.08
+7778 - Moiré Pattern Detected | Brightness: 197.18, Moiré: 160.78, Sharpness: 15.26
+7783 - Moiré Pattern Detected | Brightness: 149.51, Moiré: 155.58, Sharpness: 16.71
+7788 - Moiré Pattern Detected | Brightness: 177.17, Moiré: 167.19, Sharpness: 27.40
+7794 - Moiré Pattern Detected | Brightness: 183.07, Moiré: 155.48, Sharpness: 13.85
+7804 - Moiré Pattern Detected | Brightness: 171.59, Moiré: 151.23, Sharpness: 13.58
+7820 - Blurry Edges Detected | Brightness: 162.50, Moiré: 138.23, Sharpness: 4.32
+7826 - Moiré Pattern Detected | Brightness: 172.12, Moiré: 165.74, Sharpness: 34.43
+7827 - Blurry Edges Detected | Brightness: 141.55, Moiré: 128.17, Sharpness: 0.16
+7843 - Moiré Pattern Detected | Brightness: 180.97, Moiré: 155.16, Sharpness: 13.92
+7860 - Moiré Pattern Detected | Brightness: 157.78, Moiré: 159.26, Sharpness: 23.37
+7870 - Moiré Pattern Detected | Brightness: 89.16, Moiré: 161.70, Sharpness: 43.34
+7875 - Blurry Edges Detected | Brightness: 176.98, Moiré: 135.96, Sharpness: 3.76
+7878 - Moiré Pattern Detected | Brightness: 136.19, Moiré: 156.39, Sharpness: 16.81
+7889 - Moiré Pattern Detected | Brightness: 140.36, Moiré: 167.57, Sharpness: 29.09
+7905 - Blurry Edges Detected | Brightness: 100.92, Moiré: 136.57, Sharpness: 3.70
+7907 - Live Image | Brightness: 126.25, Moiré: 133.58, Sharpness: 10.31
+7917 - Blurry Edges Detected | Brightness: 161.41, Moiré: 136.13, Sharpness: 5.19
+7924 - Moiré Pattern Detected | Brightness: 106.02, Moiré: 153.79, Sharpness: 20.92
+7935 - Moiré Pattern Detected | Brightness: 174.73, Moiré: 170.95, Sharpness: 58.88
+7955 - Live Image | Brightness: 159.27, Moiré: 143.33, Sharpness: 10.20
+7956 - Moiré Pattern Detected | Brightness: 164.89, Moiré: 164.78, Sharpness: 39.29
+7978 - Moiré Pattern Detected | Brightness: 166.36, Moiré: 155.38, Sharpness: 16.08
+7983 - Moiré Pattern Detected | Brightness: 173.27, Moiré: 152.38, Sharpness: 13.86
+7985 - Moiré Pattern Detected | Brightness: 97.51, Moiré: 158.24, Sharpness: 16.39
+7988 - Screen Glare Detected | Brightness: 237.35, Moiré: 155.12, Sharpness: 15.69
+7997 - Moiré Pattern Detected | Brightness: 144.78, Moiré: 155.64, Sharpness: 15.39
+8000 - Blurry Edges Detected | Brightness: 140.30, Moiré: 138.93, Sharpness: 6.37
+8011 - Moiré Pattern Detected | Brightness: 132.37, Moiré: 162.50, Sharpness: 19.14
+8028 - Moiré Pattern Detected | Brightness: 113.91, Moiré: 156.62, Sharpness: 14.97
+8044 - Moiré Pattern Detected | Brightness: 142.08, Moiré: 158.55, Sharpness: 12.76
+8062 - Moiré Pattern Detected | Brightness: 192.89, Moiré: 160.57, Sharpness: 18.03
+8086 - Screen Glare Detected | Brightness: 203.05, Moiré: 125.71, Sharpness: 2.46
+8090 - Moiré Pattern Detected | Brightness: 159.57, Moiré: 152.09, Sharpness: 12.20
+8092 - Screen Glare Detected | Brightness: 204.59, Moiré: 148.78, Sharpness: 20.42
+8103 - Screen Glare Detected | Brightness: 206.99, Moiré: 137.90, Sharpness: 8.84
+8113 - Blurry Edges Detected | Brightness: 144.57, Moiré: 140.74, Sharpness: 6.96
+8114 - Moiré Pattern Detected | Brightness: 128.53, Moiré: 160.80, Sharpness: 24.28
+8122 - Moiré Pattern Detected | Brightness: 127.07, Moiré: 153.31, Sharpness: 15.54
+8153 - Moiré Pattern Detected | Brightness: 179.37, Moiré: 153.52, Sharpness: 13.83
+8154 - Moiré Pattern Detected | Brightness: 165.70, Moiré: 152.21, Sharpness: 12.50
+8164 - Blurry Edges Detected | Brightness: 187.60, Moiré: 145.63, Sharpness: 8.22
+8171 - Moiré Pattern Detected | Brightness: 139.28, Moiré: 151.74, Sharpness: 17.30
+8176 - Moiré Pattern Detected | Brightness: 196.21, Moiré: 150.91, Sharpness: 11.43
+8180 - Moiré Pattern Detected | Brightness: 155.98, Moiré: 150.11, Sharpness: 8.07
+8207 - Blurry Edges Detected | Brightness: 196.73, Moiré: 136.63, Sharpness: 3.61
+8209 - Moiré Pattern Detected | Brightness: 107.00, Moiré: 160.02, Sharpness: 16.67
+8225 - Moiré Pattern Detected | Brightness: 188.69, Moiré: 165.46, Sharpness: 39.06
+8230 - Blurry Edges Detected | Brightness: 143.77, Moiré: 133.72, Sharpness: 3.07
+8233 - Moiré Pattern Detected | Brightness: 141.13, Moiré: 160.32, Sharpness: 50.45
+8238 - Blurry Edges Detected | Brightness: 80.94, Moiré: 137.91, Sharpness: 3.77
+8255 - Moiré Pattern Detected | Brightness: 104.07, Moiré: 158.21, Sharpness: 19.98
+8266 - Live Image | Brightness: 180.26, Moiré: 146.63, Sharpness: 10.71
+8271 - Moiré Pattern Detected | Brightness: 188.15, Moiré: 151.35, Sharpness: 10.26
+8278 - Blurry Edges Detected | Brightness: 52.54, Moiré: 143.79, Sharpness: 6.44
+8292 - Moiré Pattern Detected | Brightness: 138.14, Moiré: 157.15, Sharpness: 25.35
+8295 - Moiré Pattern Detected | Brightness: 120.60, Moiré: 155.33, Sharpness: 21.93
+8302 - Live Image | Brightness: 130.87, Moiré: 139.83, Sharpness: 10.72
+8306 - Moiré Pattern Detected | Brightness: 152.48, Moiré: 165.29, Sharpness: 23.45
+8318 - Moiré Pattern Detected | Brightness: 115.83, Moiré: 151.64, Sharpness: 20.14
+8320 - Screen Glare Detected | Brightness: 208.78, Moiré: 140.04, Sharpness: 6.23
+8330 - Moiré Pattern Detected | Brightness: 135.59, Moiré: 153.79, Sharpness: 12.99
+8343 - Blurry Edges Detected | Brightness: 195.74, Moiré: 135.63, Sharpness: 6.08
+8351 - Moiré Pattern Detected | Brightness: 183.11, Moiré: 152.89, Sharpness: 23.02
+8365 - Blurry Edges Detected | Brightness: 158.21, Moiré: 142.50, Sharpness: 2.01
+8376 - Live Image | Brightness: 62.29, Moiré: 145.37, Sharpness: 20.66
+8379 - Moiré Pattern Detected | Brightness: 147.22, Moiré: 160.78, Sharpness: 24.77
+8409 - Moiré Pattern Detected | Brightness: 186.02, Moiré: 152.96, Sharpness: 9.29
+8421 - Moiré Pattern Detected | Brightness: 155.73, Moiré: 157.83, Sharpness: 18.29
+8427 - Moiré Pattern Detected | Brightness: 185.50, Moiré: 154.69, Sharpness: 16.28
+8429 - Moiré Pattern Detected | Brightness: 152.09, Moiré: 163.83, Sharpness: 25.49
+8441 - Moiré Pattern Detected | Brightness: 157.60, Moiré: 160.03, Sharpness: 24.94
+8447 - Blurry Edges Detected | Brightness: 156.29, Moiré: 148.00, Sharpness: 8.58
+8448 - Screen Glare Detected | Brightness: 211.83, Moiré: 130.93, Sharpness: 4.29
+8450 - Screen Glare Detected | Brightness: 209.60, Moiré: 161.99, Sharpness: 13.92
+8464 - Moiré Pattern Detected | Brightness: 166.44, Moiré: 163.72, Sharpness: 19.59
+8470 - Moiré Pattern Detected | Brightness: 187.80, Moiré: 167.28, Sharpness: 38.93
+8476 - Moiré Pattern Detected | Brightness: 196.84, Moiré: 150.94, Sharpness: 16.41
+8477 - Moiré Pattern Detected | Brightness: 131.96, Moiré: 160.77, Sharpness: 29.32
+8479 - Blurry Edges Detected | Brightness: 64.92, Moiré: 135.20, Sharpness: 7.45
+8481 - Moiré Pattern Detected | Brightness: 196.11, Moiré: 157.28, Sharpness: 11.66
+8486 - Screen Glare Detected | Brightness: 202.30, Moiré: 141.90, Sharpness: 6.09
+8490 - Moiré Pattern Detected | Brightness: 183.66, Moiré: 171.01, Sharpness: 49.49
+8495 - Blurry Edges Detected | Brightness: 151.59, Moiré: 145.55, Sharpness: 5.77
+8496 - Moiré Pattern Detected | Brightness: 193.68, Moiré: 155.43, Sharpness: 17.94
+8499 - Blurry Edges Detected | Brightness: 85.18, Moiré: 143.09, Sharpness: 8.26
+8500 - Moiré Pattern Detected | Brightness: 196.48, Moiré: 163.66, Sharpness: 22.50
+8501 - Blurry Edges Detected | Brightness: 178.01, Moiré: 138.33, Sharpness: 0.06
+8504 - Moiré Pattern Detected | Brightness: 194.67, Moiré: 159.69, Sharpness: 27.89
+8509 - Screen Glare Detected | Brightness: 215.21, Moiré: 157.88, Sharpness: 25.71
+8519 - Screen Glare Detected | Brightness: 200.80, Moiré: 142.30, Sharpness: 8.06
+8521 - Moiré Pattern Detected | Brightness: 148.79, Moiré: 177.77, Sharpness: 11.88
+8525 - Blurry Edges Detected | Brightness: 133.87, Moiré: 111.80, Sharpness: 0.00
+8531 - Moiré Pattern Detected | Brightness: 128.07, Moiré: 156.50, Sharpness: 18.60
+8532 - Moiré Pattern Detected | Brightness: 177.54, Moiré: 163.66, Sharpness: 23.32
+8540 - Moiré Pattern Detected | Brightness: 116.51, Moiré: 151.76, Sharpness: 10.98
+8546 - Moiré Pattern Detected | Brightness: 177.15, Moiré: 157.41, Sharpness: 11.84
+8550 - Moiré Pattern Detected | Brightness: 163.08, Moiré: 160.43, Sharpness: 19.61
+8555 - Screen Glare Detected | Brightness: 211.99, Moiré: 135.73, Sharpness: 3.77
+8559 - Moiré Pattern Detected | Brightness: 170.40, Moiré: 154.59, Sharpness: 15.26
+8560 - Blurry Edges Detected | Brightness: 170.64, Moiré: 134.51, Sharpness: 3.87
+8563 - Live Image | Brightness: 194.30, Moiré: 148.58, Sharpness: 11.48
+8585 - Live Image | Brightness: 169.19, Moiré: 147.33, Sharpness: 18.36
+8593 - Screen Glare Detected | Brightness: 208.75, Moiré: 155.71, Sharpness: 15.52
+8622 - Live Image | Brightness: 170.42, Moiré: 149.49, Sharpness: 11.28
+8626 - Screen Glare Detected | Brightness: 227.08, Moiré: 139.61, Sharpness: 8.99
+8627 - Moiré Pattern Detected | Brightness: 169.26, Moiré: 161.94, Sharpness: 23.00
+8637 - Moiré Pattern Detected | Brightness: 174.27, Moiré: 162.09, Sharpness: 19.67
+8649 - Moiré Pattern Detected | Brightness: 86.18, Moiré: 174.03, Sharpness: 34.39
+8650 - Moiré Pattern Detected | Brightness: 192.52, Moiré: 152.94, Sharpness: 15.62
+8652 - Blurry Edges Detected | Brightness: 199.50, Moiré: 119.77, Sharpness: 0.33
+8657 - Moiré Pattern Detected | Brightness: 130.62, Moiré: 154.38, Sharpness: 13.00
+8659 - Screen Glare Detected | Brightness: 208.97, Moiré: 155.93, Sharpness: 13.12
+8665 - Moiré Pattern Detected | Brightness: 188.92, Moiré: 156.93, Sharpness: 21.99
+8671 - Screen Glare Detected | Brightness: 208.65, Moiré: 137.14, Sharpness: 11.33
+8675 - Blurry Edges Detected | Brightness: 130.70, Moiré: 122.18, Sharpness: 0.65
+8682 - Moiré Pattern Detected | Brightness: 185.12, Moiré: 150.38, Sharpness: 10.97
+8683 - Screen Glare Detected | Brightness: 224.11, Moiré: 137.35, Sharpness: 5.88
+8690 - Moiré Pattern Detected | Brightness: 147.26, Moiré: 156.26, Sharpness: 12.56
+8691 - Moiré Pattern Detected | Brightness: 187.88, Moiré: 156.38, Sharpness: 14.12
+8704 - Moiré Pattern Detected | Brightness: 175.58, Moiré: 162.47, Sharpness: 23.93
+8705 - Live Image | Brightness: 121.60, Moiré: 145.18, Sharpness: 14.21
+8707 - Blurry Edges Detected | Brightness: 39.41, Moiré: 132.33, Sharpness: 2.45
+8718 - Moiré Pattern Detected | Brightness: 164.94, Moiré: 162.14, Sharpness: 21.73
+8731 - Moiré Pattern Detected | Brightness: 156.95, Moiré: 160.70, Sharpness: 28.93
+8732 - Blurry Edges Detected | Brightness: 166.39, Moiré: 147.59, Sharpness: 9.13
+8733 - Moiré Pattern Detected | Brightness: 187.86, Moiré: 164.52, Sharpness: 25.61
+8734 - Blurry Edges Detected | Brightness: 173.92, Moiré: 133.18, Sharpness: 2.66
+8739 - Screen Glare Detected | Brightness: 207.16, Moiré: 143.21, Sharpness: 7.36
+8749 - Blurry Edges Detected | Brightness: 165.43, Moiré: 143.12, Sharpness: 6.74
+8758 - Blurry Edges Detected | Brightness: 59.52, Moiré: 146.99, Sharpness: 9.43
+8768 - Moiré Pattern Detected | Brightness: 182.49, Moiré: 154.45, Sharpness: 24.58
+8770 - Moiré Pattern Detected | Brightness: 116.01, Moiré: 155.38, Sharpness: 13.86
+8773 - Moiré Pattern Detected | Brightness: 162.32, Moiré: 166.18, Sharpness: 44.39
+8788 - Moiré Pattern Detected | Brightness: 172.88, Moiré: 156.36, Sharpness: 11.24
+8801 - Moiré Pattern Detected | Brightness: 61.96, Moiré: 164.30, Sharpness: 23.41
+8807 - Moiré Pattern Detected | Brightness: 61.42, Moiré: 150.41, Sharpness: 22.24
+8820 - Moiré Pattern Detected | Brightness: 170.98, Moiré: 154.27, Sharpness: 15.17
+8828 - Moiré Pattern Detected | Brightness: 175.63, Moiré: 154.30, Sharpness: 37.71
+8832 - Moiré Pattern Detected | Brightness: 191.05, Moiré: 152.23, Sharpness: 12.04
+8841 - Screen Glare Detected | Brightness: 205.06, Moiré: 160.69, Sharpness: 13.69
+8845 - Blurry Edges Detected | Brightness: 156.04, Moiré: 147.67, Sharpness: 9.64
+8847 - Moiré Pattern Detected | Brightness: 161.91, Moiré: 170.53, Sharpness: 56.30
+8852 - Blurry Edges Detected | Brightness: 128.39, Moiré: 140.67, Sharpness: 9.64
+8862 - Blurry Edges Detected | Brightness: 66.33, Moiré: 136.81, Sharpness: 1.73
+8878 - Blurry Edges Detected | Brightness: 125.67, Moiré: 148.06, Sharpness: 4.58
+8881 - Moiré Pattern Detected | Brightness: 92.52, Moiré: 154.80, Sharpness: 11.13
+8882 - Blurry Edges Detected | Brightness: 191.34, Moiré: 118.14, Sharpness: 0.72
+8892 - Blurry Edges Detected | Brightness: 133.53, Moiré: 126.50, Sharpness: 0.90
+8893 - Blurry Edges Detected | Brightness: 181.24, Moiré: 145.21, Sharpness: 7.81
+8894 - Blurry Edges Detected | Brightness: 181.42, Moiré: 140.40, Sharpness: 5.45
+8907 - Moiré Pattern Detected | Brightness: 118.44, Moiré: 153.74, Sharpness: 11.79
+8909 - Moiré Pattern Detected | Brightness: 128.72, Moiré: 157.79, Sharpness: 16.16
+8912 - Screen Glare Detected | Brightness: 210.03, Moiré: 154.30, Sharpness: 15.54
+8920 - Moiré Pattern Detected | Brightness: 131.66, Moiré: 167.91, Sharpness: 30.41
+8921 - Moiré Pattern Detected | Brightness: 171.06, Moiré: 151.47, Sharpness: 18.66
+8922 - Live Image | Brightness: 89.67, Moiré: 144.62, Sharpness: 16.03
+8930 - Moiré Pattern Detected | Brightness: 166.49, Moiré: 170.63, Sharpness: 28.64
+8935 - Moiré Pattern Detected | Brightness: 104.57, Moiré: 167.34, Sharpness: 40.63
+8945 - Moiré Pattern Detected | Brightness: 178.86, Moiré: 150.85, Sharpness: 15.72
+8951 - Screen Glare Detected | Brightness: 201.97, Moiré: 158.90, Sharpness: 15.82
+8966 - Blurry Edges Detected | Brightness: 159.89, Moiré: 141.61, Sharpness: 8.52
+8967 - Moiré Pattern Detected | Brightness: 170.60, Moiré: 153.67, Sharpness: 9.68
+8969 - Screen Glare Detected | Brightness: 201.17, Moiré: 147.06, Sharpness: 8.96
+8997 - Moiré Pattern Detected | Brightness: 187.98, Moiré: 153.91, Sharpness: 30.89
+9023 - Moiré Pattern Detected | Brightness: 194.36, Moiré: 151.21, Sharpness: 8.86
+9052 - Blurry Edges Detected | Brightness: 30.34, Moiré: 127.57, Sharpness: 0.85
+9056 - Moiré Pattern Detected | Brightness: 165.95, Moiré: 160.28, Sharpness: 26.44
+9057 - Moiré Pattern Detected | Brightness: 170.09, Moiré: 151.54, Sharpness: 17.34
+9058 - Moiré Pattern Detected | Brightness: 138.04, Moiré: 162.29, Sharpness: 34.98
+9072 - Blurry Edges Detected | Brightness: 159.12, Moiré: 141.26, Sharpness: 7.91
+9081 - Moiré Pattern Detected | Brightness: 187.98, Moiré: 160.16, Sharpness: 25.20
+9093 - Moiré Pattern Detected | Brightness: 140.96, Moiré: 152.14, Sharpness: 13.58
+9094 - Moiré Pattern Detected | Brightness: 167.58, Moiré: 168.39, Sharpness: 31.93
+9095 - Moiré Pattern Detected | Brightness: 154.21, Moiré: 167.55, Sharpness: 33.95
+9096 - Moiré Pattern Detected | Brightness: 141.02, Moiré: 158.56, Sharpness: 18.83
+9099 - Blurry Edges Detected | Brightness: 198.45, Moiré: 139.08, Sharpness: 7.75
+9104 - Moiré Pattern Detected | Brightness: 174.64, Moiré: 153.79, Sharpness: 7.33
+9115 - Blurry Edges Detected | Brightness: 187.01, Moiré: 145.66, Sharpness: 4.24
+9121 - Screen Glare Detected | Brightness: 218.53, Moiré: 148.04, Sharpness: 14.76
+9132 - Blurry Edges Detected | Brightness: 92.76, Moiré: 141.19, Sharpness: 4.35
+9143 - Blurry Edges Detected | Brightness: 179.29, Moiré: 136.58, Sharpness: 4.00
+9144 - Moiré Pattern Detected | Brightness: 168.74, Moiré: 164.98, Sharpness: 25.58
+9147 - Blurry Edges Detected | Brightness: 135.52, Moiré: 131.61, Sharpness: 5.15
+9166 - Moiré Pattern Detected | Brightness: 157.02, Moiré: 161.30, Sharpness: 23.22
+9175 - Screen Glare Detected | Brightness: 208.99, Moiré: 138.63, Sharpness: 7.08
+9187 - Moiré Pattern Detected | Brightness: 174.89, Moiré: 153.73, Sharpness: 10.87
+9188 - Blurry Edges Detected | Brightness: 186.06, Moiré: 130.34, Sharpness: 2.78
+9189 - Blurry Edges Detected | Brightness: 137.20, Moiré: 145.04, Sharpness: 7.00
+9198 - Blurry Edges Detected | Brightness: 144.25, Moiré: 146.20, Sharpness: 6.48
+9207 - Moiré Pattern Detected | Brightness: 148.92, Moiré: 157.99, Sharpness: 22.91
+9208 - Moiré Pattern Detected | Brightness: 43.66, Moiré: 161.85, Sharpness: 21.57
+9209 - Blurry Edges Detected | Brightness: 170.20, Moiré: 127.94, Sharpness: 3.28
+9211 - Moiré Pattern Detected | Brightness: 148.87, Moiré: 151.57, Sharpness: 13.54
+9216 - Moiré Pattern Detected | Brightness: 189.04, Moiré: 151.22, Sharpness: 6.96
+9233 - Screen Glare Detected | Brightness: 206.12, Moiré: 135.22, Sharpness: 7.52
+9238 - Screen Glare Detected | Brightness: 207.76, Moiré: 148.39, Sharpness: 12.04
+9303 - Moiré Pattern Detected | Brightness: 191.19, Moiré: 155.88, Sharpness: 13.92
+9320 - Blurry Edges Detected | Brightness: 195.94, Moiré: 139.99, Sharpness: 8.07
+9327 - Blurry Edges Detected | Brightness: 153.76, Moiré: 140.51, Sharpness: 7.56
+9341 - Blurry Edges Detected | Brightness: 176.23, Moiré: 148.45, Sharpness: 4.70
+9344 - Blurry Edges Detected | Brightness: 169.98, Moiré: 147.48, Sharpness: 7.91
+9345 - Blurry Edges Detected | Brightness: 173.29, Moiré: 147.05, Sharpness: 4.33
+9349 - Live Image | Brightness: 132.59, Moiré: 148.52, Sharpness: 17.19
+9349 - Live Image | Brightness: 112.67, Moiré: 146.83, Sharpness: 15.02
+9368 - Blurry Edges Detected | Brightness: 183.54, Moiré: 125.30, Sharpness: 2.81
+9376 - Blurry Edges Detected | Brightness: 186.23, Moiré: 140.91, Sharpness: 4.52
+9377 - Moiré Pattern Detected | Brightness: 196.54, Moiré: 156.12, Sharpness: 18.42
+9378 - Screen Glare Detected | Brightness: 201.56, Moiré: 153.24, Sharpness: 10.26
+9379 - Moiré Pattern Detected | Brightness: 127.89, Moiré: 161.20, Sharpness: 30.39
+9383 - Moiré Pattern Detected | Brightness: 131.34, Moiré: 170.33, Sharpness: 9.04
+9391 - Moiré Pattern Detected | Brightness: 135.67, Moiré: 151.80, Sharpness: 11.91
+9394 - Screen Glare Detected | Brightness: 206.56, Moiré: 158.90, Sharpness: 13.93
+9399 - Blurry Edges Detected | Brightness: 140.57, Moiré: 141.21, Sharpness: 8.02
+9415 - Screen Glare Detected | Brightness: 201.54, Moiré: 152.51, Sharpness: 11.42
+9416 - Screen Glare Detected | Brightness: 201.20, Moiré: 152.60, Sharpness: 17.69
+9419 - Blurry Edges Detected | Brightness: 111.98, Moiré: 127.91, Sharpness: 3.55
+9420 - Blurry Edges Detected | Brightness: 172.38, Moiré: 140.55, Sharpness: 7.71
+9433 - Moiré Pattern Detected | Brightness: 145.62, Moiré: 150.10, Sharpness: 17.15
+9434 - Moiré Pattern Detected | Brightness: 178.48, Moiré: 156.36, Sharpness: 25.63
+9438 - Moiré Pattern Detected | Brightness: 168.31, Moiré: 160.79, Sharpness: 29.85
+9446 - Moiré Pattern Detected | Brightness: 133.76, Moiré: 158.41, Sharpness: 13.01
+9470 - Moiré Pattern Detected | Brightness: 179.97, Moiré: 152.18, Sharpness: 14.10
+9479 - Blurry Edges Detected | Brightness: 179.79, Moiré: 146.62, Sharpness: 9.76
+9488 - Moiré Pattern Detected | Brightness: 164.77, Moiré: 161.44, Sharpness: 17.49
+9491 - Blurry Edges Detected | Brightness: 145.05, Moiré: 143.85, Sharpness: 9.73
+9509 - Blurry Edges Detected | Brightness: 95.24, Moiré: 142.36, Sharpness: 0.26
+9515 - Moiré Pattern Detected | Brightness: 186.67, Moiré: 152.22, Sharpness: 8.62
+9521 - Screen Glare Detected | Brightness: 214.60, Moiré: 137.15, Sharpness: 5.51
+9525 - Screen Glare Detected | Brightness: 200.05, Moiré: 151.62, Sharpness: 20.91
+9528 - Live Image | Brightness: 182.11, Moiré: 147.87, Sharpness: 16.25
+9532 - Moiré Pattern Detected | Brightness: 128.97, Moiré: 152.77, Sharpness: 13.87
+9533 - Moiré Pattern Detected | Brightness: 160.89, Moiré: 159.27, Sharpness: 22.72
+9540 - Live Image | Brightness: 170.46, Moiré: 143.75, Sharpness: 10.94
+9545 - Blurry Edges Detected | Brightness: 162.23, Moiré: 139.84, Sharpness: 3.85
+9568 - Screen Glare Detected | Brightness: 205.89, Moiré: 160.14, Sharpness: 21.88
+9570 - Blurry Edges Detected | Brightness: 125.15, Moiré: 148.53, Sharpness: 5.62
+9571 - Moiré Pattern Detected | Brightness: 154.18, Moiré: 160.59, Sharpness: 45.76
+9572 - Live Image | Brightness: 199.21, Moiré: 148.41, Sharpness: 13.32
+9591 - Moiré Pattern Detected | Brightness: 181.08, Moiré: 168.25, Sharpness: 42.64
+9593 - Blurry Edges Detected | Brightness: 52.49, Moiré: 147.63, Sharpness: 3.53
+9598 - Screen Glare Detected | Brightness: 222.30, Moiré: 162.61, Sharpness: 17.53
+9601 - Moiré Pattern Detected | Brightness: 169.40, Moiré: 157.51, Sharpness: 8.70
+9613 - Moiré Pattern Detected | Brightness: 149.22, Moiré: 152.02, Sharpness: 10.77
+9618 - Moiré Pattern Detected | Brightness: 197.63, Moiré: 160.22, Sharpness: 30.84
+9623 - Live Image | Brightness: 180.36, Moiré: 142.03, Sharpness: 11.52
+9624 - Blurry Edges Detected | Brightness: 169.22, Moiré: 130.95, Sharpness: 2.22
+9631 - Moiré Pattern Detected | Brightness: 148.56, Moiré: 153.68, Sharpness: 16.67
+9637 - Moiré Pattern Detected | Brightness: 159.26, Moiré: 159.33, Sharpness: 12.90
+9641 - Moiré Pattern Detected | Brightness: 173.31, Moiré: 161.39, Sharpness: 17.19
+9645 - Moiré Pattern Detected | Brightness: 140.53, Moiré: 152.04, Sharpness: 13.69
+9655 - Moiré Pattern Detected | Brightness: 168.58, Moiré: 161.67, Sharpness: 27.26
+9671 - Blurry Edges Detected | Brightness: 186.51, Moiré: 141.06, Sharpness: 9.08
+9674 - Blurry Edges Detected | Brightness: 155.84, Moiré: 131.11, Sharpness: 2.71
+9684 - Blurry Edges Detected | Brightness: 138.91, Moiré: 119.52, Sharpness: 0.61
+9687 - Moiré Pattern Detected | Brightness: 157.55, Moiré: 178.97, Sharpness: 40.52
+9690 - Moiré Pattern Detected | Brightness: 136.57, Moiré: 150.46, Sharpness: 12.34
+9691 - Live Image | Brightness: 175.73, Moiré: 149.63, Sharpness: 12.86
+9692 - Blurry Edges Detected | Brightness: 153.74, Moiré: 139.86, Sharpness: 5.53
+9693 - Moiré Pattern Detected | Brightness: 152.90, Moiré: 151.38, Sharpness: 14.09
+9695 - Moiré Pattern Detected | Brightness: 178.07, Moiré: 156.03, Sharpness: 28.71
+9696 - Blurry Edges Detected | Brightness: 85.43, Moiré: 123.90, Sharpness: 2.17
+9700 - Moiré Pattern Detected | Brightness: 160.72, Moiré: 170.53, Sharpness: 30.07
+9701 - Moiré Pattern Detected | Brightness: 164.01, Moiré: 156.29, Sharpness: 13.43
+9703 - Blurry Edges Detected | Brightness: 124.19, Moiré: 135.59, Sharpness: 3.86
+9721 - Live Image | Brightness: 175.73, Moiré: 148.96, Sharpness: 11.60
+9729 - Blurry Edges Detected | Brightness: 199.90, Moiré: 146.14, Sharpness: 9.91
+9734 - Blurry Edges Detected | Brightness: 143.32, Moiré: 144.38, Sharpness: 8.05
+9739 - Moiré Pattern Detected | Brightness: 115.14, Moiré: 155.54, Sharpness: 17.67
+9742 - Live Image | Brightness: 69.78, Moiré: 148.89, Sharpness: 12.15
+9744 - Moiré Pattern Detected | Brightness: 144.61, Moiré: 152.57, Sharpness: 17.51
+9752 - Blurry Edges Detected | Brightness: 199.63, Moiré: 119.69, Sharpness: 0.51
+9754 - Live Image | Brightness: 190.60, Moiré: 145.00, Sharpness: 19.48
+9762 - Moiré Pattern Detected | Brightness: 167.25, Moiré: 153.89, Sharpness: 18.12
+9768 - Moiré Pattern Detected | Brightness: 173.57, Moiré: 165.23, Sharpness: 6.47
+9776 - Screen Glare Detected | Brightness: 201.46, Moiré: 151.41, Sharpness: 11.27
+9780 - Moiré Pattern Detected | Brightness: 146.12, Moiré: 161.89, Sharpness: 16.34
+9781 - Moiré Pattern Detected | Brightness: 162.04, Moiré: 172.25, Sharpness: 40.06
+9785 - Moiré Pattern Detected | Brightness: 171.09, Moiré: 167.29, Sharpness: 25.48
+9792 - Moiré Pattern Detected | Brightness: 135.94, Moiré: 182.02, Sharpness: 60.34
+9795 - Moiré Pattern Detected | Brightness: 199.90, Moiré: 153.23, Sharpness: 16.21
+9807 - Blurry Edges Detected | Brightness: 176.03, Moiré: 147.79, Sharpness: 8.74
+9809 - Moiré Pattern Detected | Brightness: 121.92, Moiré: 153.45, Sharpness: 10.80
+9824 - Blurry Edges Detected | Brightness: 179.12, Moiré: 121.25, Sharpness: 0.04
+9828 - Moiré Pattern Detected | Brightness: 174.30, Moiré: 153.29, Sharpness: 9.04
+9833 - Moiré Pattern Detected | Brightness: 198.02, Moiré: 156.43, Sharpness: 29.47
+9835 - Blurry Edges Detected | Brightness: 150.50, Moiré: 136.72, Sharpness: 1.84
+9839 - Moiré Pattern Detected | Brightness: 185.42, Moiré: 151.44, Sharpness: 8.92
+9844 - Moiré Pattern Detected | Brightness: 173.99, Moiré: 150.00, Sharpness: 8.15
+9851 - Moiré Pattern Detected | Brightness: 181.02, Moiré: 163.78, Sharpness: 6.35
+9864 - Live Image | Brightness: 175.13, Moiré: 146.90, Sharpness: 15.00
+9865 - Screen Glare Detected | Brightness: 218.66, Moiré: 158.41, Sharpness: 20.68
+9872 - Moiré Pattern Detected | Brightness: 139.84, Moiré: 164.14, Sharpness: 16.20
+9878 - Moiré Pattern Detected | Brightness: 163.58, Moiré: 173.00, Sharpness: 32.71
+9882 - Blurry Edges Detected | Brightness: 125.98, Moiré: 128.91, Sharpness: 0.11
+9883 - Blurry Edges Detected | Brightness: 140.03, Moiré: 139.68, Sharpness: 5.51
+9889 - Screen Glare Detected | Brightness: 206.08, Moiré: 160.59, Sharpness: 19.98
+9892 - Screen Glare Detected | Brightness: 212.25, Moiré: 153.62, Sharpness: 8.10
+9895 - Moiré Pattern Detected | Brightness: 186.69, Moiré: 156.45, Sharpness: 13.42
+9897 - Blurry Edges Detected | Brightness: 110.25, Moiré: 125.48, Sharpness: 1.46
+9907 - Moiré Pattern Detected | Brightness: 194.80, Moiré: 155.24, Sharpness: 15.12
+9909 - Moiré Pattern Detected | Brightness: 60.18, Moiré: 151.71, Sharpness: 11.96
+9911 - Live Image | Brightness: 160.06, Moiré: 147.33, Sharpness: 13.79
+9923 - Screen Glare Detected | Brightness: 209.35, Moiré: 149.72, Sharpness: 14.10
+9924 - Blurry Edges Detected | Brightness: 120.60, Moiré: 145.39, Sharpness: 9.67
+9925 - Moiré Pattern Detected | Brightness: 170.64, Moiré: 158.64, Sharpness: 19.26
+9931 - Blurry Edges Detected | Brightness: 197.58, Moiré: 149.73, Sharpness: 9.09
+9934 - Moiré Pattern Detected | Brightness: 158.79, Moiré: 157.86, Sharpness: 10.78
+9941 - Moiré Pattern Detected | Brightness: 167.50, Moiré: 156.58, Sharpness: 11.98
+9945 - Live Image | Brightness: 183.70, Moiré: 147.06, Sharpness: 16.37
+9946 - Blurry Edges Detected | Brightness: 143.52, Moiré: 148.02, Sharpness: 6.56
+9949 - Moiré Pattern Detected | Brightness: 198.76, Moiré: 152.49, Sharpness: 14.25
+9953 - Blurry Edges Detected | Brightness: 159.82, Moiré: 139.55, Sharpness: 8.99
+9955 - Moiré Pattern Detected | Brightness: 132.94, Moiré: 169.08, Sharpness: 14.83
+9956 - Moiré Pattern Detected | Brightness: 183.22, Moiré: 166.01, Sharpness: 14.77
+9958 - Live Image | Brightness: 153.57, Moiré: 137.05, Sharpness: 10.79
+9963 - Live Image | Brightness: 164.49, Moiré: 149.79, Sharpness: 14.92
+9964 - Moiré Pattern Detected | Brightness: 157.25, Moiré: 150.93, Sharpness: 11.56
+9972 - Blurry Edges Detected | Brightness: 170.35, Moiré: 144.41, Sharpness: 7.33
+10008 - Blurry Edges Detected | Brightness: 120.74, Moiré: 124.35, Sharpness: 1.88
+10009 - Live Image | Brightness: 153.22, Moiré: 147.99, Sharpness: 17.59
+10020 - Screen Glare Detected | Brightness: 210.04, Moiré: 159.79, Sharpness: 19.49
+10021 - Moiré Pattern Detected | Brightness: 193.76, Moiré: 155.35, Sharpness: 24.13
+10022 - Blurry Edges Detected | Brightness: 187.85, Moiré: 140.25, Sharpness: 1.87
+10024 - Moiré Pattern Detected | Brightness: 128.89, Moiré: 150.82, Sharpness: 12.49
+10029 - Screen Glare Detected | Brightness: 206.48, Moiré: 144.24, Sharpness: 8.57
+10030 - Moiré Pattern Detected | Brightness: 144.42, Moiré: 166.92, Sharpness: 27.03
+10031 - Moiré Pattern Detected | Brightness: 154.03, Moiré: 162.29, Sharpness: 26.31
+10033 - Live Image | Brightness: 174.01, Moiré: 148.12, Sharpness: 10.13
+10034 - Live Image | Brightness: 180.94, Moiré: 147.01, Sharpness: 13.90
+10045 - Moiré Pattern Detected | Brightness: 167.21, Moiré: 159.37, Sharpness: 34.88
+10046 - Moiré Pattern Detected | Brightness: 192.23, Moiré: 156.04, Sharpness: 22.87
+10048 - Blurry Edges Detected | Brightness: 187.13, Moiré: 144.99, Sharpness: 8.39
+10054 - Blurry Edges Detected | Brightness: 131.67, Moiré: 140.16, Sharpness: 0.75
+10062 - Live Image | Brightness: 175.73, Moiré: 145.39, Sharpness: 13.84
+10066 - Moiré Pattern Detected | Brightness: 178.38, Moiré: 151.09, Sharpness: 10.23
+10069 - Screen Glare Detected | Brightness: 205.26, Moiré: 146.45, Sharpness: 6.36
+10083 - Live Image | Brightness: 187.68, Moiré: 146.86, Sharpness: 10.23
+10087 - Blurry Edges Detected | Brightness: 32.02, Moiré: 133.31, Sharpness: 2.16
+10101 - Blurry Edges Detected | Brightness: 184.20, Moiré: 144.94, Sharpness: 9.78
+10107 - Moiré Pattern Detected | Brightness: 144.20, Moiré: 156.72, Sharpness: 11.50
+10108 - Moiré Pattern Detected | Brightness: 155.21, Moiré: 160.05, Sharpness: 10.28
+10110 - Moiré Pattern Detected | Brightness: 143.93, Moiré: 165.69, Sharpness: 25.49
+10112 - Moiré Pattern Detected | Brightness: 155.96, Moiré: 152.82, Sharpness: 20.32
+10115 - Moiré Pattern Detected | Brightness: 142.94, Moiré: 160.90, Sharpness: 32.21
+10120 - Screen Glare Detected | Brightness: 220.32, Moiré: 156.18, Sharpness: 15.20
+10121 - Screen Glare Detected | Brightness: 212.53, Moiré: 132.73, Sharpness: 4.13
+10128 - Moiré Pattern Detected | Brightness: 166.94, Moiré: 157.96, Sharpness: 26.81
+10136 - Blurry Edges Detected | Brightness: 123.84, Moiré: 145.07, Sharpness: 8.49
+10143 - Live Image | Brightness: 156.61, Moiré: 142.30, Sharpness: 10.56
+10144 - Moiré Pattern Detected | Brightness: 174.13, Moiré: 164.73, Sharpness: 19.34
+10146 - Screen Glare Detected | Brightness: 203.00, Moiré: 144.80, Sharpness: 8.56
+10150 - Blurry Edges Detected | Brightness: 72.65, Moiré: 138.41, Sharpness: 8.57
+10152 - Blurry Edges Detected | Brightness: 199.79, Moiré: 145.89, Sharpness: 6.83
+10157 - Moiré Pattern Detected | Brightness: 175.27, Moiré: 171.76, Sharpness: 49.01
+10159 - Blurry Edges Detected | Brightness: 156.57, Moiré: 131.79, Sharpness: 2.35
+10161 - Blurry Edges Detected | Brightness: 97.89, Moiré: 126.98, Sharpness: 2.14
+10166 - Blurry Edges Detected | Brightness: 165.96, Moiré: 145.11, Sharpness: 8.13
+10167 - Moiré Pattern Detected | Brightness: 189.63, Moiré: 158.23, Sharpness: 27.18
+10168 - Moiré Pattern Detected | Brightness: 159.97, Moiré: 151.52, Sharpness: 11.15
+10171 - Blurry Edges Detected | Brightness: 144.46, Moiré: 146.80, Sharpness: 8.55
+10177 - Blurry Edges Detected | Brightness: 141.03, Moiré: 149.98, Sharpness: 6.46
+10183 - Moiré Pattern Detected | Brightness: 189.65, Moiré: 160.69, Sharpness: 20.85
+10186 - Screen Glare Detected | Brightness: 203.27, Moiré: 137.85, Sharpness: 4.57
+10187 - Moiré Pattern Detected | Brightness: 47.73, Moiré: 162.13, Sharpness: 24.27
+10189 - Blurry Edges Detected | Brightness: 168.55, Moiré: 117.81, Sharpness: 0.12
+10191 - Blurry Edges Detected | Brightness: 182.93, Moiré: 145.55, Sharpness: 8.20
+10201 - Moiré Pattern Detected | Brightness: 115.51, Moiré: 152.17, Sharpness: 30.04
+10202 - Blurry Edges Detected | Brightness: 116.70, Moiré: 141.73, Sharpness: 7.23
+10210 - Live Image | Brightness: 183.63, Moiré: 149.95, Sharpness: 13.61
+10213 - Moiré Pattern Detected | Brightness: 172.83, Moiré: 161.09, Sharpness: 29.62
+10215 - Moiré Pattern Detected | Brightness: 120.81, Moiré: 154.03, Sharpness: 26.15
+10216 - Moiré Pattern Detected | Brightness: 191.94, Moiré: 156.14, Sharpness: 10.29
+10221 - Live Image | Brightness: 176.72, Moiré: 146.88, Sharpness: 12.57
+10223 - Screen Glare Detected | Brightness: 228.08, Moiré: 157.38, Sharpness: 23.27
+10232 - Moiré Pattern Detected | Brightness: 154.72, Moiré: 164.31, Sharpness: 22.98
+10235 - Moiré Pattern Detected | Brightness: 179.70, Moiré: 163.48, Sharpness: 34.17
+10238 - Blurry Edges Detected | Brightness: 167.45, Moiré: 143.09, Sharpness: 7.68
+10242 - Blurry Edges Detected | Brightness: 185.05, Moiré: 141.55, Sharpness: 6.90
+10246 - Blurry Edges Detected | Brightness: 39.87, Moiré: 143.04, Sharpness: 6.70
+10254 - Screen Glare Detected | Brightness: 230.69, Moiré: 147.93, Sharpness: 8.99
+10255 - Moiré Pattern Detected | Brightness: 195.18, Moiré: 157.86, Sharpness: 13.45
+10255 - Moiré Pattern Detected | Brightness: 195.41, Moiré: 156.89, Sharpness: 13.05
+10262 - Blurry Edges Detected | Brightness: 107.09, Moiré: 143.56, Sharpness: 5.85
+10272 - Blurry Edges Detected | Brightness: 162.20, Moiré: 137.53, Sharpness: 5.63
+10276 - Moiré Pattern Detected | Brightness: 105.15, Moiré: 157.88, Sharpness: 14.57
+10277 - Moiré Pattern Detected | Brightness: 191.91, Moiré: 150.55, Sharpness: 15.95
+10280 - Moiré Pattern Detected | Brightness: 195.76, Moiré: 165.18, Sharpness: 22.71
+10283 - Moiré Pattern Detected | Brightness: 184.24, Moiré: 153.23, Sharpness: 13.12
+10284 - Moiré Pattern Detected | Brightness: 114.36, Moiré: 153.71, Sharpness: 23.33
+10285 - Blurry Edges Detected | Brightness: 159.78, Moiré: 141.81, Sharpness: 9.92
+10285 - Blurry Edges Detected | Brightness: 155.29, Moiré: 137.19, Sharpness: 7.44
+10287 - Blurry Edges Detected | Brightness: 170.08, Moiré: 137.66, Sharpness: 6.13
+10288 - Screen Glare Detected | Brightness: 201.96, Moiré: 145.42, Sharpness: 17.99
+10292 - Blurry Edges Detected | Brightness: 176.64, Moiré: 131.93, Sharpness: 3.03
+10297 - Moiré Pattern Detected | Brightness: 156.78, Moiré: 154.81, Sharpness: 20.99
+10298 - Screen Glare Detected | Brightness: 204.29, Moiré: 151.69, Sharpness: 13.02
+10299 - Moiré Pattern Detected | Brightness: 154.18, Moiré: 155.61, Sharpness: 24.75
+10300 - Blurry Edges Detected | Brightness: 175.02, Moiré: 143.28, Sharpness: 8.44
+10301 - Moiré Pattern Detected | Brightness: 175.03, Moiré: 155.57, Sharpness: 14.02
+10304 - Moiré Pattern Detected | Brightness: 147.44, Moiré: 151.09, Sharpness: 8.62
+10305 - Moiré Pattern Detected | Brightness: 149.70, Moiré: 155.24, Sharpness: 13.51
+10311 - Blurry Edges Detected | Brightness: 140.22, Moiré: 138.36, Sharpness: 3.66
+10314 - Screen Glare Detected | Brightness: 209.28, Moiré: 137.19, Sharpness: 2.33
+10316 - Live Image | Brightness: 70.61, Moiré: 147.40, Sharpness: 11.50
+10321 - Moiré Pattern Detected | Brightness: 172.09, Moiré: 156.54, Sharpness: 15.70
+10324 - Moiré Pattern Detected | Brightness: 171.85, Moiré: 158.08, Sharpness: 18.80
+10327 - Moiré Pattern Detected | Brightness: 154.62, Moiré: 156.30, Sharpness: 15.21
+10329 - Moiré Pattern Detected | Brightness: 144.48, Moiré: 156.32, Sharpness: 17.88
+10332 - Live Image | Brightness: 169.59, Moiré: 149.41, Sharpness: 12.61
+10335 - Screen Glare Detected | Brightness: 210.85, Moiré: 163.03, Sharpness: 18.17
+10336 - Live Image | Brightness: 189.90, Moiré: 149.76, Sharpness: 11.11
+10340 - Moiré Pattern Detected | Brightness: 186.08, Moiré: 161.25, Sharpness: 13.52
+10342 - Moiré Pattern Detected | Brightness: 181.22, Moiré: 158.21, Sharpness: 17.28
+10347 - Blurry Edges Detected | Brightness: 149.81, Moiré: 137.70, Sharpness: 1.95
+10348 - Moiré Pattern Detected | Brightness: 127.24, Moiré: 158.44, Sharpness: 15.59
+10362 - Blurry Edges Detected | Brightness: 189.57, Moiré: 145.10, Sharpness: 8.28
+10363 - Moiré Pattern Detected | Brightness: 171.03, Moiré: 155.02, Sharpness: 22.48
+10364 - Moiré Pattern Detected | Brightness: 188.72, Moiré: 158.09, Sharpness: 16.43
+10368 - Moiré Pattern Detected | Brightness: 177.23, Moiré: 156.86, Sharpness: 17.69
+10370 - Moiré Pattern Detected | Brightness: 164.66, Moiré: 152.36, Sharpness: 14.10
+10372 - Moiré Pattern Detected | Brightness: 176.12, Moiré: 163.06, Sharpness: 20.82
+10376 - Screen Glare Detected | Brightness: 210.14, Moiré: 157.91, Sharpness: 11.26
+10377 - Blurry Edges Detected | Brightness: 57.13, Moiré: 136.00, Sharpness: 4.28
+10378 - Blurry Edges Detected | Brightness: 191.91, Moiré: 141.57, Sharpness: 6.97
+10379 - Moiré Pattern Detected | Brightness: 193.97, Moiré: 160.74, Sharpness: 27.30
+10381 - Live Image | Brightness: 164.84, Moiré: 147.95, Sharpness: 10.16
+10382 - Blurry Edges Detected | Brightness: 177.48, Moiré: 143.14, Sharpness: 8.16
+10383 - Moiré Pattern Detected | Brightness: 169.57, Moiré: 152.47, Sharpness: 9.38
+10384 - Moiré Pattern Detected | Brightness: 146.32, Moiré: 152.92, Sharpness: 8.11
+10385 - Live Image | Brightness: 156.43, Moiré: 149.40, Sharpness: 13.69
+10386 - Live Image | Brightness: 140.13, Moiré: 146.30, Sharpness: 20.78
+10388 - Moiré Pattern Detected | Brightness: 95.95, Moiré: 154.90, Sharpness: 12.49
+10389 - Moiré Pattern Detected | Brightness: 145.49, Moiré: 152.59, Sharpness: 28.68
+10391 - Screen Glare Detected | Brightness: 207.36, Moiré: 148.77, Sharpness: 8.44
+10394 - Blurry Edges Detected | Brightness: 183.91, Moiré: 131.16, Sharpness: 3.37
+10395 - Blurry Edges Detected | Brightness: 160.43, Moiré: 148.67, Sharpness: 7.98
+10397 - Live Image | Brightness: 164.32, Moiré: 144.30, Sharpness: 10.15
+10399 - Moiré Pattern Detected | Brightness: 158.18, Moiré: 155.64, Sharpness: 10.40
+10400 - Blurry Edges Detected | Brightness: 82.23, Moiré: 142.64, Sharpness: 8.66
+10402 - Blurry Edges Detected | Brightness: 166.80, Moiré: 122.20, Sharpness: 0.42
+10403 - Screen Glare Detected | Brightness: 223.52, Moiré: 154.50, Sharpness: 16.11
+10405 - Moiré Pattern Detected | Brightness: 181.24, Moiré: 153.85, Sharpness: 15.25
+10406 - Screen Glare Detected | Brightness: 209.80, Moiré: 147.27, Sharpness: 16.99
+10407 - Moiré Pattern Detected | Brightness: 176.16, Moiré: 157.56, Sharpness: 19.73
+10409 - Moiré Pattern Detected | Brightness: 190.85, Moiré: 158.17, Sharpness: 33.66
+10413 - Moiré Pattern Detected | Brightness: 150.07, Moiré: 174.92, Sharpness: 52.95
+10415 - Moiré Pattern Detected | Brightness: 185.66, Moiré: 176.66, Sharpness: 26.17
+10417 - Screen Glare Detected | Brightness: 209.18, Moiré: 138.81, Sharpness: 7.53
+10421 - Moiré Pattern Detected | Brightness: 145.54, Moiré: 154.54, Sharpness: 23.89
+10423 - Moiré Pattern Detected | Brightness: 183.74, Moiré: 163.45, Sharpness: 48.99
+10428 - Screen Glare Detected | Brightness: 200.59, Moiré: 124.06, Sharpness: 0.86
+10429 - Live Image | Brightness: 132.31, Moiré: 147.97, Sharpness: 18.21
+10430 - Moiré Pattern Detected | Brightness: 140.03, Moiré: 154.55, Sharpness: 19.29
+10439 - Blurry Edges Detected | Brightness: 180.69, Moiré: 140.41, Sharpness: 8.65
+10441 - Moiré Pattern Detected | Brightness: 172.05, Moiré: 164.15, Sharpness: 45.03
+10442 - Screen Glare Detected | Brightness: 202.18, Moiré: 151.00, Sharpness: 15.57
+10444 - Moiré Pattern Detected | Brightness: 141.39, Moiré: 166.02, Sharpness: 31.35
+10455 - Moiré Pattern Detected | Brightness: 166.34, Moiré: 154.90, Sharpness: 13.78
+10456 - Screen Glare Detected | Brightness: 200.93, Moiré: 170.19, Sharpness: 35.58
+10457 - Moiré Pattern Detected | Brightness: 174.24, Moiré: 153.59, Sharpness: 20.28
+10458 - Moiré Pattern Detected | Brightness: 84.17, Moiré: 150.15, Sharpness: 11.41
+10460 - Moiré Pattern Detected | Brightness: 165.70, Moiré: 160.38, Sharpness: 32.98
+10463 - Moiré Pattern Detected | Brightness: 96.62, Moiré: 150.62, Sharpness: 6.18
+10466 - Moiré Pattern Detected | Brightness: 40.90, Moiré: 150.86, Sharpness: 2.78
+10467 - Screen Glare Detected | Brightness: 238.68, Moiré: 125.58, Sharpness: 3.05
+10468 - Screen Glare Detected | Brightness: 217.40, Moiré: 134.41, Sharpness: 4.90
+10469 - Moiré Pattern Detected | Brightness: 159.74, Moiré: 162.84, Sharpness: 25.45
+10472 - Blurry Edges Detected | Brightness: 86.67, Moiré: 148.07, Sharpness: 7.57
+10473 - Blurry Edges Detected | Brightness: 147.06, Moiré: 141.30, Sharpness: 9.35
+10476 - Moiré Pattern Detected | Brightness: 186.27, Moiré: 163.29, Sharpness: 21.74
+10478 - Moiré Pattern Detected | Brightness: 129.44, Moiré: 177.75, Sharpness: 24.68
+10479 - Moiré Pattern Detected | Brightness: 186.14, Moiré: 160.22, Sharpness: 30.92
+10481 - Moiré Pattern Detected | Brightness: 139.61, Moiré: 171.19, Sharpness: 35.81
+10483 - Moiré Pattern Detected | Brightness: 178.37, Moiré: 165.67, Sharpness: 17.97
+10484 - Blurry Edges Detected | Brightness: 171.09, Moiré: 139.94, Sharpness: 7.24
+10485 - Moiré Pattern Detected | Brightness: 73.95, Moiré: 152.08, Sharpness: 4.57
+10486 - Moiré Pattern Detected | Brightness: 178.20, Moiré: 158.55, Sharpness: 17.28
+10487 - Blurry Edges Detected | Brightness: 194.25, Moiré: 145.11, Sharpness: 8.88
+10488 - Screen Glare Detected | Brightness: 209.23, Moiré: 146.81, Sharpness: 10.16
+10489 - Moiré Pattern Detected | Brightness: 197.70, Moiré: 156.56, Sharpness: 14.01
+10492 - Screen Glare Detected | Brightness: 200.97, Moiré: 140.89, Sharpness: 6.57
+10496 - Moiré Pattern Detected | Brightness: 195.97, Moiré: 164.86, Sharpness: 23.13
+10497 - Live Image | Brightness: 185.36, Moiré: 140.57, Sharpness: 10.58
+10500 - Moiré Pattern Detected | Brightness: 80.64, Moiré: 153.95, Sharpness: 12.58
+10501 - Blurry Edges Detected | Brightness: 185.72, Moiré: 130.81, Sharpness: 5.29
+10504 - Screen Glare Detected | Brightness: 211.67, Moiré: 146.77, Sharpness: 10.15
+10510 - Moiré Pattern Detected | Brightness: 117.60, Moiré: 153.69, Sharpness: 19.32
+10512 - Blurry Edges Detected | Brightness: 158.80, Moiré: 142.95, Sharpness: 5.33
+10514 - Moiré Pattern Detected | Brightness: 175.56, Moiré: 154.71, Sharpness: 15.61
+10520 - Blurry Edges Detected | Brightness: 133.28, Moiré: 135.29, Sharpness: 5.98
+10522 - Moiré Pattern Detected | Brightness: 195.95, Moiré: 163.04, Sharpness: 24.85
+10523 - Blurry Edges Detected | Brightness: 155.74, Moiré: 146.55, Sharpness: 6.70
+10525 - Moiré Pattern Detected | Brightness: 178.56, Moiré: 168.74, Sharpness: 29.81
+10526 - Moiré Pattern Detected | Brightness: 138.40, Moiré: 163.11, Sharpness: 43.49
+10527 - Live Image | Brightness: 190.66, Moiré: 147.21, Sharpness: 10.50
+10530 - Blurry Edges Detected | Brightness: 185.19, Moiré: 142.72, Sharpness: 7.09
+10531 - Moiré Pattern Detected | Brightness: 184.50, Moiré: 150.66, Sharpness: 5.61
+10532 - Moiré Pattern Detected | Brightness: 184.15, Moiré: 152.40, Sharpness: 17.83
+10534 - Moiré Pattern Detected | Brightness: 160.02, Moiré: 161.61, Sharpness: 22.50
+10540 - Screen Glare Detected | Brightness: 208.48, Moiré: 170.52, Sharpness: 38.22
+10543 - Moiré Pattern Detected | Brightness: 199.95, Moiré: 158.58, Sharpness: 31.06
+10547 - Moiré Pattern Detected | Brightness: 146.26, Moiré: 154.36, Sharpness: 11.87
+10551 - Live Image | Brightness: 167.90, Moiré: 148.03, Sharpness: 18.86
+10553 - Blurry Edges Detected | Brightness: 122.97, Moiré: 131.37, Sharpness: 3.32
+10556 - Moiré Pattern Detected | Brightness: 173.47, Moiré: 150.09, Sharpness: 14.39
+10559 - Blurry Edges Detected | Brightness: 179.98, Moiré: 135.55, Sharpness: 3.22
+10561 - Blurry Edges Detected | Brightness: 142.46, Moiré: 149.84, Sharpness: 3.44
+10562 - Blurry Edges Detected | Brightness: 137.47, Moiré: 142.80, Sharpness: 6.57
+10563 - Moiré Pattern Detected | Brightness: 178.29, Moiré: 164.68, Sharpness: 34.95
+10571 - Blurry Edges Detected | Brightness: 138.04, Moiré: 124.69, Sharpness: 0.04
+10574 - Moiré Pattern Detected | Brightness: 151.58, Moiré: 169.94, Sharpness: 32.16
+10579 - Moiré Pattern Detected | Brightness: 179.42, Moiré: 152.33, Sharpness: 20.91
+10580 - Moiré Pattern Detected | Brightness: 165.39, Moiré: 154.01, Sharpness: 8.92
+10581 - Moiré Pattern Detected | Brightness: 168.56, Moiré: 152.64, Sharpness: 15.32
+10583 - Screen Glare Detected | Brightness: 200.35, Moiré: 139.59, Sharpness: 4.48
+10584 - Blurry Edges Detected | Brightness: 173.31, Moiré: 147.24, Sharpness: 9.64
+10585 - Moiré Pattern Detected | Brightness: 155.98, Moiré: 156.49, Sharpness: 24.29
+10586 - Moiré Pattern Detected | Brightness: 163.88, Moiré: 163.71, Sharpness: 1.78
+10590 - Blurry Edges Detected | Brightness: 68.94, Moiré: 147.37, Sharpness: 8.36
+10591 - Blurry Edges Detected | Brightness: 100.15, Moiré: 144.73, Sharpness: 8.23
+10592 - Screen Glare Detected | Brightness: 202.76, Moiré: 149.91, Sharpness: 11.42
+10592 - Screen Glare Detected | Brightness: 202.76, Moiré: 149.91, Sharpness: 11.42
+10596 - Moiré Pattern Detected | Brightness: 142.02, Moiré: 164.05, Sharpness: 38.09
+10597 - Screen Glare Detected | Brightness: 208.46, Moiré: 142.59, Sharpness: 6.63
+10598 - Moiré Pattern Detected | Brightness: 165.18, Moiré: 157.05, Sharpness: 16.50
+10600 - Moiré Pattern Detected | Brightness: 162.82, Moiré: 173.81, Sharpness: 24.43
+10603 - Moiré Pattern Detected | Brightness: 173.80, Moiré: 154.99, Sharpness: 19.20
+10605 - Moiré Pattern Detected | Brightness: 171.77, Moiré: 154.21, Sharpness: 13.52
+10606 - Moiré Pattern Detected | Brightness: 155.88, Moiré: 156.43, Sharpness: 16.91
+10607 - Blurry Edges Detected | Brightness: 135.41, Moiré: 122.27, Sharpness: 0.76
+10608 - Live Image | Brightness: 141.26, Moiré: 148.67, Sharpness: 12.97
+10609 - Moiré Pattern Detected | Brightness: 186.92, Moiré: 151.74, Sharpness: 14.34
+10610 - Moiré Pattern Detected | Brightness: 188.10, Moiré: 157.14, Sharpness: 17.88
+10612 - Screen Glare Detected | Brightness: 203.50, Moiré: 150.24, Sharpness: 11.29
+10613 - Blurry Edges Detected | Brightness: 138.80, Moiré: 145.97, Sharpness: 7.00
+10614 - Moiré Pattern Detected | Brightness: 131.64, Moiré: 150.32, Sharpness: 4.60
+10616 - Moiré Pattern Detected | Brightness: 186.67, Moiré: 163.33, Sharpness: 21.11
+10618 - Screen Glare Detected | Brightness: 210.39, Moiré: 166.44, Sharpness: 23.07
+10619 - Live Image | Brightness: 175.76, Moiré: 146.08, Sharpness: 24.04
+10621 - Live Image | Brightness: 187.06, Moiré: 149.68, Sharpness: 24.53
+10622 - Moiré Pattern Detected | Brightness: 136.78, Moiré: 157.57, Sharpness: 18.88
+10623 - Moiré Pattern Detected | Brightness: 183.32, Moiré: 163.50, Sharpness: 15.02
+10624 - Moiré Pattern Detected | Brightness: 169.97, Moiré: 155.99, Sharpness: 10.71
+10625 - Moiré Pattern Detected | Brightness: 169.99, Moiré: 174.07, Sharpness: 28.13
+10626 - Moiré Pattern Detected | Brightness: 163.23, Moiré: 153.89, Sharpness: 16.78
+10627 - Moiré Pattern Detected | Brightness: 153.81, Moiré: 161.71, Sharpness: 29.44
+10628 - Blurry Edges Detected | Brightness: 101.38, Moiré: 138.40, Sharpness: 4.42
+10629 - Screen Glare Detected | Brightness: 203.64, Moiré: 155.56, Sharpness: 12.59
+10630 - Screen Glare Detected | Brightness: 214.65, Moiré: 163.07, Sharpness: 11.08
+10631 - Moiré Pattern Detected | Brightness: 185.96, Moiré: 154.65, Sharpness: 12.48
+10632 - Blurry Edges Detected | Brightness: 160.51, Moiré: 137.07, Sharpness: 8.96
+10632 - Blurry Edges Detected | Brightness: 160.51, Moiré: 137.07, Sharpness: 8.96
+10633 - Moiré Pattern Detected | Brightness: 185.91, Moiré: 158.28, Sharpness: 16.17
+10634 - Blurry Edges Detected | Brightness: 193.16, Moiré: 135.47, Sharpness: 2.43
+10635 - Screen Glare Detected | Brightness: 205.38, Moiré: 147.74, Sharpness: 7.28
+10637 - Moiré Pattern Detected | Brightness: 152.03, Moiré: 160.89, Sharpness: 21.56
+10638 - Live Image | Brightness: 189.74, Moiré: 146.53, Sharpness: 12.44
+10639 - Live Image | Brightness: 148.04, Moiré: 147.82, Sharpness: 14.65
+10640 - Screen Glare Detected | Brightness: 209.35, Moiré: 144.37, Sharpness: 3.91
+10641 - Live Image | Brightness: 135.28, Moiré: 145.94, Sharpness: 12.36
+10642 - Moiré Pattern Detected | Brightness: 185.64, Moiré: 154.22, Sharpness: 9.08
+10643 - Moiré Pattern Detected | Brightness: 123.11, Moiré: 150.63, Sharpness: 14.57
+10645 - Screen Glare Detected | Brightness: 203.26, Moiré: 155.16, Sharpness: 13.21
